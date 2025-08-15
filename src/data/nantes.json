@@ -1,0 +1,3831 @@
+{
+  "id": "nantes",
+  "name": "Nantes",
+  "region": "Pays de la Loire",
+  "coordinates": [
+    47.2184,
+    -1.5536
+  ],
+  "weather": {
+    "sunnyDays": 192,
+    "rainyDays": 174,
+    "avgTemp": 13.6,
+    "monthlyData": [
+      6,
+      7.1,
+      9.8,
+      14,
+      16,
+      21.2,
+      20.5,
+      20.2,
+      15.4,
+      14.3,
+      10.8,
+      7.5
+    ],
+    "monthlySunnyDays": [
+      12,
+      15,
+      16,
+      16,
+      14,
+      19,
+      14,
+      23,
+      10,
+      17,
+      18,
+      18
+    ],
+    "monthlyRainyDays": [
+      19,
+      13,
+      15,
+      14,
+      17,
+      11,
+      17,
+      9,
+      20,
+      14,
+      12,
+      13
+    ],
+    "monthlyPrecipitation": [
+      228.4,
+      52.6,
+      27.6,
+      70.4,
+      37,
+      33.9,
+      76.7,
+      44,
+      109,
+      153.7,
+      71.1,
+      39.3
+    ]
+  },
+  "population": {
+    "total": 320000,
+    "studentPercentage": 20,
+    "density": 900
+  },
+  "education": {
+    "highSchools": [
+      {
+        "name": "Lycée polyvalent Gaspard Monge - La Chauvinière",
+        "address": "44322, Nantes",
+        "coordinates": [
+          47.2540961307008,
+          -1.5729705683673285
+        ],
+        "website": "http://lyc-mongechauviniere.e-lyco.fr",
+        "externalId": "0440030U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440030U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Gaspard%20Monge%20-%20La%20Chauvini%C3%A8re&code_postal=44322",
+        "osmId": "fr-education:0440030U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Sacré-Coeur La Salle",
+        "address": "44104, Nantes",
+        "coordinates": [
+          47.20707571353516,
+          -1.6086194596202426
+        ],
+        "website": "http://www.sacrecoeurnantes.com",
+        "externalId": "0440246D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440246D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Sacr%C3%A9-Coeur%20La%20Salle&code_postal=44104",
+        "osmId": "fr-education:0440246D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel privé Saint-Félix - La Salle",
+        "address": "44001, Nantes",
+        "coordinates": [
+          47.231708754423416,
+          -1.5604393192938208
+        ],
+        "website": "https://stfelixlasalle.fr/",
+        "externalId": "0442775C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442775C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Saint-F%C3%A9lix%20-%20La%20Salle&code_postal=44001",
+        "osmId": "fr-education:0442775C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Léonard de Vinci",
+        "address": "44319, Nantes",
+        "coordinates": [
+          47.23850083080752,
+          -1.5225893821168477
+        ],
+        "website": "http://lp-vinci-44.ac-nantes.fr",
+        "externalId": "0440035Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440035Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20L%C3%A9onard%20de%20Vinci&code_postal=44319",
+        "osmId": "fr-education:0440035Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'Enseignement Professionnel du lycée polyvalent les Bourdonnières",
+        "address": "44200, Nantes",
+        "coordinates": [
+          47.18616538280837,
+          -1.5174799567161925
+        ],
+        "website": null,
+        "externalId": "0441551X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0441551X&type_etablissement=Lycée&selection=Section%20d'Enseignement%20Professionnel%20du%20lyc%C3%A9e%20polyvalent%20les%20Bourdonni%C3%A8res&code_postal=44200",
+        "osmId": "fr-education:0441551X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Albert Camus",
+        "address": "44107, Nantes",
+        "coordinates": [
+          47.20468895900564,
+          -1.6099696774353849
+        ],
+        "website": "http://camus.e-lyco.fr",
+        "externalId": "0440288Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440288Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Albert%20Camus&code_postal=44107",
+        "osmId": "fr-education:0440288Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Externat Chavagnes",
+        "address": "44042, Nantes",
+        "coordinates": [
+          47.21877899279413,
+          -1.5730398526932328
+        ],
+        "website": "http://www.externat-chavagnes.com",
+        "externalId": "0442699V",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442699V&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Externat%20Chavagnes&code_postal=44042",
+        "osmId": "fr-education:0442699V",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Michelet",
+        "address": "44322, Nantes",
+        "coordinates": [
+          47.23520269979235,
+          -1.5584798506382294
+        ],
+        "website": "http://michelet.paysdelaloire.e-lyco.fr",
+        "externalId": "0440034Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440034Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Michelet&code_postal=44322",
+        "osmId": "fr-education:0440034Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement général et technologique du Lycée Professionnel François Arago",
+        "address": "44322, Nantes",
+        "coordinates": [
+          47.250059215187584,
+          -1.5526794129255734
+        ],
+        "website": null,
+        "externalId": "0442342G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442342G&type_etablissement=Lycée&selection=Section%20d'enseignement%20g%C3%A9n%C3%A9ral%20et%20technologique%20du%20Lyc%C3%A9e%20Professionnel%20Fran%C3%A7ois%20Arago&code_postal=44322",
+        "osmId": "fr-education:0442342G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel du Lycée polyvalent privé Sacré-Coeur La Salle",
+        "address": "44107, Nantes",
+        "coordinates": [
+          47.20707571353516,
+          -1.6086194596202426
+        ],
+        "website": null,
+        "externalId": "0442358Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442358Z&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel%20du%20Lyc%C3%A9e%20polyvalent%20priv%C3%A9%20Sacr%C3%A9-Coeur%20La%20Salle&code_postal=44107",
+        "osmId": "fr-education:0442358Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel privée du LPO Talensac - Jeanne-Bernard",
+        "address": "44002, Nantes",
+        "coordinates": [
+          47.2218832777331,
+          -1.558899931519581
+        ],
+        "website": null,
+        "externalId": "0442726Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442726Z&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel%20priv%C3%A9e%20du%20LPO%20Talensac%20-%20Jeanne-Bernard&code_postal=44002",
+        "osmId": "fr-education:0442726Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel",
+        "address": "44265, Nantes",
+        "coordinates": [
+          47.208393577218665,
+          -1.5329105760992363
+        ],
+        "website": null,
+        "externalId": "0442766T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442766T&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel&code_postal=44265",
+        "osmId": "fr-education:0442766T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Jules Verne",
+        "address": "44042, Nantes",
+        "coordinates": [
+          47.217000945239455,
+          -1.5610097373813439
+        ],
+        "website": "http://jules-verne.paysdelaloire.e-lyco.fr/",
+        "externalId": "0440022K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440022K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Jules%20Verne&code_postal=44042",
+        "osmId": "fr-education:0440022K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel ENCIA",
+        "address": "44000, Nantes",
+        "coordinates": [
+          47.214070843017566,
+          -1.5596652388255117
+        ],
+        "website": "http://www.encia.fr",
+        "externalId": "0440255N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440255N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20ENCIA&code_postal=44000",
+        "osmId": "fr-education:0440255N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Colinière",
+        "address": "44319, Nantes",
+        "coordinates": [
+          47.23679414709965,
+          -1.5124099058282097
+        ],
+        "website": "http://coliniere.e-lyco.fr/",
+        "externalId": "0440086E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440086E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Colini%C3%A8re&code_postal=44319",
+        "osmId": "fr-education:0440086E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Campus Talensac",
+        "address": "44002, Nantes",
+        "coordinates": [
+          47.2218832777331,
+          -1.558899931519581
+        ],
+        "website": "http://www.talensac.com",
+        "externalId": "0442725Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442725Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Campus%20Talensac&code_postal=44002",
+        "osmId": "fr-education:0442725Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "LPA de Nantes Grand Blottereau",
+        "address": "44300, Nantes",
+        "coordinates": [
+          47.22597929101644,
+          -1.511770390040611
+        ],
+        "website": "http://www.nantes-terre-atlantique.fr",
+        "externalId": "0441782Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0441782Y&type_etablissement=Lycée&selection=LPA%20de%20Nantes%20Grand%20Blottereau&code_postal=44300",
+        "osmId": "fr-education:0441782Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Carcouet",
+        "address": "44184, Nantes",
+        "coordinates": [
+          47.23134140761392,
+          -1.5929603553867224
+        ],
+        "website": "http://carcouet.paysdelaloire.e-lyco.fr",
+        "externalId": "0441993C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0441993C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Carcouet&code_postal=44184",
+        "osmId": "fr-education:0441993C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée général et technologique privé Saint-Félix - La Salle",
+        "address": "44001, Nantes",
+        "coordinates": [
+          47.231708754423416,
+          -1.5604393192938208
+        ],
+        "website": "https://stfelixlasalle.fr/",
+        "externalId": "0442774B",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442774B&type_etablissement=Lycée&selection=Lyc%C3%A9e%20g%C3%A9n%C3%A9ral%20et%20technologique%20priv%C3%A9%20Saint-F%C3%A9lix%20-%20La%20Salle&code_postal=44001",
+        "osmId": "fr-education:0442774B",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Livet",
+        "address": "44042, Nantes",
+        "coordinates": [
+          47.2254869894435,
+          -1.5452005346779734
+        ],
+        "website": "http://livet.e-lyco.fr/",
+        "externalId": "0440029T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440029T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Livet&code_postal=44042",
+        "osmId": "fr-education:0440029T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Notre-Dame de Toutes Aides",
+        "address": "44319, Nantes",
+        "coordinates": [
+          47.22836530022264,
+          -1.519516261723193
+        ],
+        "website": "http://www.ndtoutesaides.fr",
+        "externalId": "0440166S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440166S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Notre-Dame%20de%20Toutes%20Aides&code_postal=44319",
+        "osmId": "fr-education:0440166S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Institut des métiers de l'enseignement supérieur",
+        "address": "44021, Nantes",
+        "coordinates": [
+          47.21120195982254,
+          -1.5653705213348494
+        ],
+        "website": "http://www.ims-nantes.com",
+        "externalId": "0440254M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440254M&type_etablissement=Lycée&selection=Institut%20des%20m%C3%A9tiers%20de%20l'enseignement%20sup%C3%A9rieur&code_postal=44021",
+        "osmId": "fr-education:0440254M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Nelson Mandela",
+        "address": "44265, Nantes",
+        "coordinates": [
+          47.208393577218665,
+          -1.5329105760992363
+        ],
+        "website": "http://nelson-mandela.paysdelaloire.e-lyco.fr",
+        "externalId": "0442765S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442765S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Nelson%20Mandela&code_postal=44265",
+        "osmId": "fr-education:0442765S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel maritime Jacques Cassard",
+        "address": "44315, Nantes",
+        "coordinates": [
+          47.24034471009416,
+          -1.53248985791962
+        ],
+        "website": "http://www.lycee-maritime-nantes.fr",
+        "externalId": "0442092K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442092K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20maritime%20Jacques%20Cassard&code_postal=44315",
+        "osmId": "fr-education:0442092K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé de Bretagne",
+        "address": "44300, Nantes",
+        "coordinates": [
+          47.232575902363024,
+          -1.5205694787085215
+        ],
+        "website": "https://bretagne.paysdelaloire.e-lyco.fr/",
+        "externalId": "0441982R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0441982R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20de%20Bretagne&code_postal=44300",
+        "osmId": "fr-education:0441982R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Les Bourdonnières",
+        "address": "44200, Nantes",
+        "coordinates": [
+          47.18616538280837,
+          -1.5174799567161925
+        ],
+        "website": "http://bourdonnieres.e-lyco.fr/",
+        "externalId": "0441552Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0441552Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Les%20Bourdonni%C3%A8res&code_postal=44200",
+        "osmId": "fr-education:0441552Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent IFOM",
+        "address": "44200, Nantes",
+        "coordinates": [
+          47.202960116784816,
+          -1.5456801491580427
+        ],
+        "website": "https://www.cofap-ifom-formation.com/",
+        "externalId": "0442227G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442227G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20IFOM&code_postal=44200",
+        "osmId": "fr-education:0442227G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel Gaspard Monge La Chauvinière",
+        "address": "44322, Nantes",
+        "coordinates": [
+          47.2540961307008,
+          -1.5729705683673285
+        ],
+        "website": null,
+        "externalId": "0440032W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440032W&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel%20Gaspard%20Monge%20La%20Chauvini%C3%A8re&code_postal=44322",
+        "osmId": "fr-education:0440032W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole Silvya Terrade Nantes",
+        "address": "44200, Nantes",
+        "coordinates": [
+          47.208612750788454,
+          -1.5297306351550042
+        ],
+        "website": null,
+        "externalId": "0442649R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442649R&type_etablissement=Lycée&selection=Ecole%20Silvya%20Terrade%20Nantes&code_postal=44200",
+        "osmId": "fr-education:0442649R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "section d'enseignement professionnel du LPO IFOM",
+        "address": "44200, Nantes",
+        "coordinates": [
+          47.202960116784816,
+          -1.5456801491580427
+        ],
+        "website": null,
+        "externalId": "0442715M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442715M&type_etablissement=Lycée&selection=section%20d'enseignement%20professionnel%20du%20LPO%20IFOM&code_postal=44200",
+        "osmId": "fr-education:0442715M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée général et technologique privé Saint-Stanislas",
+        "address": "44000, Nantes",
+        "coordinates": [
+          47.22343184688967,
+          -1.556030503195269
+        ],
+        "website": "https://www.saintstanislas.eu/le-lycee-saint-stanislas-nantes",
+        "externalId": "0440163N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440163N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20g%C3%A9n%C3%A9ral%20et%20technologique%20priv%C3%A9%20Saint-Stanislas&code_postal=44000",
+        "osmId": "fr-education:0440163N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Joseph du Loquidy",
+        "address": "44322, Nantes",
+        "coordinates": [
+          47.236658351701216,
+          -1.5578102838401713
+        ],
+        "website": "http://www.loquidy.net",
+        "externalId": "0440161L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440161L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Joseph%20du%20Loquidy&code_postal=44322",
+        "osmId": "fr-education:0440161L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Gabriel Guist'hau",
+        "address": "44042, Nantes",
+        "coordinates": [
+          47.216174628191325,
+          -1.568769563633372
+        ],
+        "website": "https://guisthau.paysdelaloire.e-lyco.fr/",
+        "externalId": "0440024M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440024M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Gabriel%20Guist'hau&code_postal=44042",
+        "osmId": "fr-education:0440024M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Blanche de Castille",
+        "address": "44319, Nantes",
+        "coordinates": [
+          47.236874235960315,
+          -1.5333793806092841
+        ],
+        "website": "http://www.blanchedecastille.com",
+        "externalId": "0440154D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440154D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Blanche%20de%20Castille&code_postal=44319",
+        "osmId": "fr-education:0440154D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Perverie",
+        "address": "44322, Nantes",
+        "coordinates": [
+          47.24351476296307,
+          -1.5622918229573297
+        ],
+        "website": "https://www.la-perverie.fr/",
+        "externalId": "0440172Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440172Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Perverie&code_postal=44322",
+        "osmId": "fr-education:0440172Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Clemenceau",
+        "address": "44042, Nantes",
+        "coordinates": [
+          47.21871508140165,
+          -1.5442505529618926
+        ],
+        "website": "http://gclemenceau.paysdelaloire.e-lyco.fr",
+        "externalId": "0440021J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440021J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Clemenceau&code_postal=44042",
+        "osmId": "fr-education:0440021J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Saint-Pierre La Joliverie - Pôle des arts graphiques",
+        "address": "44265, Nantes",
+        "coordinates": [
+          47.189743779850126,
+          -1.5173123201131347
+        ],
+        "website": "http://www.la-joliverie.com/pole-arts-graphiques/",
+        "externalId": "0440256P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440256P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Saint-Pierre%20La%20Joliverie%20-%20P%C3%B4le%20des%20arts%20graphiques&code_postal=44265",
+        "osmId": "fr-education:0440256P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel L.A. de Bougainville",
+        "address": "44100, Nantes",
+        "coordinates": [
+          47.19800365454265,
+          -1.5931009564879561
+        ],
+        "website": "http://bougainville.paysdelaloire.e-lyco.fr",
+        "externalId": "0440036A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440036A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20L.A.%20de%20Bougainville&code_postal=44100",
+        "osmId": "fr-education:0440036A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel François Arago",
+        "address": "44322, Nantes",
+        "coordinates": [
+          47.25026488875537,
+          -1.5529299333465516
+        ],
+        "website": "http://arago.paysdelaloire.e-lyco.fr",
+        "externalId": "0440033X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440033X&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Fran%C3%A7ois%20Arago&code_postal=44322",
+        "osmId": "fr-education:0440033X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole secondaire professionnelle privée Nantes Académie Coiffure",
+        "address": "44000, Nantes",
+        "coordinates": [
+          47.220503214584575,
+          -1.560969476034659
+        ],
+        "website": null,
+        "externalId": "0442412H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442412H&type_etablissement=Lycée&selection=Ecole%20secondaire%20professionnelle%20priv%C3%A9e%20Nantes%20Acad%C3%A9mie%20Coiffure&code_postal=44000",
+        "osmId": "fr-education:0442412H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:54.747Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ],
+    "universities": [
+      {
+        "name": "Nantes Université",
+        "address": "1 quai de Tourville, 44000, Nantes",
+        "coordinates": [
+          47.209413,
+          -1.555908
+        ],
+        "website": "https://www.univ-nantes.fr/",
+        "osmId": "fr-esr:UU44701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:37.753Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Audencia Business School",
+        "address": "4 rue Bisson, 44105, Nantes CEDEX 4",
+        "coordinates": [
+          47.20614754106199,
+          -1.5749502182006836
+        ],
+        "website": "https://www.audencia.com/",
+        "osmId": "fr-esr:UU44701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:37.753Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École supérieure du bois",
+        "address": "9 RUE CHRISTIAN PAUC, 44306, NANTES CEDEX 3",
+        "coordinates": [
+          47.284,
+          -1.514663
+        ],
+        "website": "https://www.ecoledubois.fr/",
+        "osmId": "fr-esr:UU44701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:37.753Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique",
+        "address": "101 route de Gachet, 44307, Nantes CEDEX 03",
+        "coordinates": [
+          47.28936365193973,
+          -1.5242886543273928
+        ],
+        "website": "https://www.oniris-nantes.fr/",
+        "osmId": "fr-esr:UU44701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:37.753Z",
+        "type": "Grand établissement",
+        "dataSource": "French Ministry of Higher Education"
+      }
+    ],
+    "internationalHighSchools": [
+      {
+        "name": "Lycée Nelson Mandela",
+        "address": "44265, Nantes",
+        "coordinates": [
+          47.208393577218665,
+          -1.5329105760992363
+        ],
+        "website": "http://nelson-mandela.paysdelaloire.e-lyco.fr",
+        "externalId": "0442765S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0442765S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Nelson%20Mandela&code_postal=44265",
+        "osmId": "fr-education:0442765S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:40.300Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Blanche de Castille",
+        "address": "44319, Nantes",
+        "coordinates": [
+          47.236874235960315,
+          -1.5333793806092841
+        ],
+        "website": "http://www.blanchedecastille.com",
+        "externalId": "0440154D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0440154D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Blanche%20de%20Castille&code_postal=44319",
+        "osmId": "fr-education:0440154D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:40.300Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ]
+  },
+  "culture": {
+    "museums": [
+      {
+        "name": "musées des beaux-arts",
+        "address": "10 r. Georges Clémenceau, 44000 Nantes",
+        "coordinates": [
+          47.21927602884,
+          -1.54709603922158
+        ],
+        "website": null,
+        "externalId": "M0743",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9es%20des%20beaux-arts",
+        "osmId": "fr-culture:M0743",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:05.847Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée Dobrée",
+        "address": "Département de Loire-Atlantique, Grand-Patrimoine de Loire-Atlantique, 44000 Nantes",
+        "coordinates": [
+          47.211841612996,
+          -1.56623770222295
+        ],
+        "website": null,
+        "externalId": "M0745",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Dobr%C3%A9e",
+        "osmId": "fr-culture:M0745",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:05.847Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Musée de France"
+      },
+      {
+        "name": "muséum d'histoire naturelle",
+        "address": "12 r. Voltaire, 44000 Nantes",
+        "coordinates": [
+          47.2127786864865,
+          -1.56493816218917
+        ],
+        "website": null,
+        "externalId": "M7049",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9um%20d'histoire%20naturelle",
+        "osmId": "fr-culture:M7049",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:05.847Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée du château des ducs de Bretagne",
+        "address": "4 pl. Marc Elder, 44000 Nantes",
+        "coordinates": [
+          47.2163191370583,
+          -1.54929963950933
+        ],
+        "website": null,
+        "externalId": "M0744",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20du%20ch%C3%A2teau%20des%20ducs%20de%20Bretagne",
+        "osmId": "fr-culture:M0744",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:05.847Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Musée de France"
+      }
+    ],
+    "theaters": [],
+    "cinemas": [
+      {
+        "name": "PATHE",
+        "address": "12 pl. du Commerce, 44000 Nantes",
+        "coordinates": [
+          47.213426242965,
+          -1.55855404469533
+        ],
+        "website": null,
+        "externalId": "284613",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=PATHE",
+        "osmId": "fr-culture:284613",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:07.537Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": null,
+        "screens": "12",
+        "seats": "1875",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CINEMA ST PAUL",
+        "address": "38 r. Julien Douillard, 44400 Rezé",
+        "coordinates": [
+          47.1838605279623,
+          -1.54412433747845
+        ],
+        "website": null,
+        "externalId": "336432",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CINEMA%20ST%20PAUL",
+        "osmId": "fr-culture:336432",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:07.537Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "425",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "KATORZA",
+        "address": "3 r. Corneille, 44000 Nantes",
+        "coordinates": [
+          47.2137572256542,
+          -1.56265492977344
+        ],
+        "website": null,
+        "externalId": "284631",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=KATORZA",
+        "osmId": "fr-culture:284631",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:07.537Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Art et essai",
+        "screens": "6",
+        "seats": "877",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "LE CINEMATOGRAPHE",
+        "address": "12 bis r. des Carmelites, 44000 Nantes",
+        "coordinates": [
+          47.2167941498698,
+          -1.55152591410262
+        ],
+        "website": null,
+        "externalId": "284747",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=LE%20CINEMATOGRAPHE",
+        "osmId": "fr-culture:284747",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:07.537Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "162",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "BONNE GARDE",
+        "address": "20 r. du Frere Louis, 44000 Nantes",
+        "coordinates": [
+          47.1953077492245,
+          -1.53837189984601
+        ],
+        "website": null,
+        "externalId": "284694",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=BONNE%20GARDE",
+        "osmId": "fr-culture:284694",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:07.537Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "341",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CONCORDE",
+        "address": "79 bd de l'Egalite, 44000 Nantes",
+        "coordinates": [
+          47.2111800022736,
+          -1.586750995205
+        ],
+        "website": null,
+        "externalId": "284662",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CONCORDE",
+        "osmId": "fr-culture:284662",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:07.537Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Pays de la Loire",
+        "departement": "Loire-Atlantique",
+        "label": "Art et essai",
+        "screens": "4",
+        "seats": "287",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      }
+    ],
+    "operas": []
+  },
+  "transportation": {
+    "internationalFlights": 5,
+    "transitScore": 7.9,
+    "distanceToParisWithCar": 6.3,
+    "distanceToParisWithTrain": 2.2,
+    "distanceToLyonWithCar": 10.8,
+    "distanceToLyonWithTrain": 5
+  },
+  "geography": {
+    "hikes": [
+      {
+        "name": "Circuit d'interprétation - Mémoire ouvrière Mémoire culturelle",
+        "description": "Circuit d'interprétation - Mémoire ouvrière Mémoire culturelle (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 5.1,
+        "difficulty": null,
+        "externalId": 1399523,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/1399523",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Hubonnière",
+        "description": "Circuit de la Hubonnière (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 4.5,
+        "difficulty": null,
+        "externalId": 3158718,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3158718",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de Breil",
+        "description": "Circuit de Breil (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 11.2,
+        "difficulty": null,
+        "externalId": 3159054,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3159054",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour du Lac de Grand Lieu",
+        "description": "Tour du Lac de Grand Lieu (rwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 71.2,
+        "difficulty": null,
+        "externalId": 4592067,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4592067",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour du Lac de Grand Lieu - Variantes d'hiver et jonctions",
+        "description": "Tour du Lac de Grand Lieu - Variantes d'hiver et jonctions (rwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 23.4,
+        "difficulty": null,
+        "externalId": 4646221,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4646221",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Vignes",
+        "description": "Les Vignes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.5,
+        "difficulty": null,
+        "externalId": 4649815,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4649815",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit les Marais",
+        "description": "Circuit les Marais (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.4,
+        "difficulty": null,
+        "externalId": 4650409,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4650409",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Gué de la Logne",
+        "description": "Le Gué de la Logne (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8,
+        "difficulty": null,
+        "externalId": 4651361,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4651361",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Déas",
+        "description": "Déas (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 11.2,
+        "difficulty": null,
+        "externalId": 4651420,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4651420",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Hauts du Lac",
+        "description": "Les Hauts du Lac (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.7,
+        "difficulty": null,
+        "externalId": 4651447,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4651447",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "L'Éclogite",
+        "description": "L'Éclogite (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 4.3,
+        "difficulty": null,
+        "externalId": 4651493,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4651493",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Coteaux Luminais",
+        "description": "Circuit des Coteaux Luminais (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 4.4,
+        "difficulty": null,
+        "externalId": 5368314,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5368314",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pédibus",
+        "description": "Pédibus (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 1.4,
+        "difficulty": null,
+        "externalId": 5538517,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5538517",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Jonction Les Vignes - Le Gué de la Logne",
+        "description": "Jonction Les Vignes - Le Gué de la Logne (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 4.1,
+        "difficulty": null,
+        "externalId": 5567107,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5567107",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Jonction Le Gué de la Logne - Deas",
+        "description": "Jonction Le Gué de la Logne - Deas (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 1.5,
+        "difficulty": null,
+        "externalId": 5568693,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5568693",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Jonction Deas - Les Vignes",
+        "description": "Jonction Deas - Les Vignes (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 2.3,
+        "difficulty": null,
+        "externalId": 5568721,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5568721",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Jonction Les Hauts du Lac - Les Vignes",
+        "description": "Jonction Les Hauts du Lac - Les Vignes (lhn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 3.7,
+        "difficulty": null,
+        "externalId": 5568733,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5568733",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Bords de l'Erdre",
+        "description": "Les Bords de l'Erdre (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.7,
+        "difficulty": null,
+        "externalId": 5601378,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5601378",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du Syl au Trou Bleu",
+        "description": "Sentier du Syl au Trou Bleu (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.9,
+        "difficulty": null,
+        "externalId": 5707273,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5707273",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Marais",
+        "description": "Le Marais (lhn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.1,
+        "difficulty": null,
+        "externalId": 6180011,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6180011",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Ajoncs",
+        "description": "Les Ajoncs (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.5,
+        "difficulty": null,
+        "externalId": 6180014,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6180014",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Pont de l'Essart",
+        "description": "Le Pont de l'Essart (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 11.7,
+        "difficulty": null,
+        "externalId": 6180440,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6180440",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Promenade de la Papinière",
+        "description": "Promenade de la Papinière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 5.4,
+        "difficulty": null,
+        "externalId": 6183132,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6183132",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Charrau des Tendes",
+        "description": "La Charrau des Tendes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.3,
+        "difficulty": null,
+        "externalId": 6183146,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6183146",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Baraudière",
+        "description": "Circuit de la Baraudière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6.3,
+        "difficulty": null,
+        "externalId": 6183273,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6183273",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Voïettes",
+        "description": "Circuit des Voïettes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 17.9,
+        "difficulty": null,
+        "externalId": 6183434,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6183434",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de l'île de Mazerolles",
+        "description": "Circuit de l'île de Mazerolles (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.5,
+        "difficulty": null,
+        "externalId": 6183459,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6183459",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Hauts du Treil",
+        "description": "Les Hauts du Treil (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.4,
+        "difficulty": null,
+        "externalId": 6184833,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6184833",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Roche Ballue",
+        "description": "La Roche Ballue (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.7,
+        "difficulty": null,
+        "externalId": 6277348,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6277348",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Soif de Nature",
+        "description": "Soif de Nature (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 14.7,
+        "difficulty": null,
+        "externalId": 6279037,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6279037",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Étangs",
+        "description": "Les Étangs (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.1,
+        "difficulty": null,
+        "externalId": 6315683,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6315683",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Vallée de l'Hocmard",
+        "description": "Vallée de l'Hocmard (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6,
+        "difficulty": null,
+        "externalId": 6321756,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6321756",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre Terres et Rivières",
+        "description": "Entre Terres et Rivières (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 11.4,
+        "difficulty": null,
+        "externalId": 6335021,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6335021",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les chemins creux",
+        "description": "Les chemins creux (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 16.4,
+        "difficulty": null,
+        "externalId": 6341834,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6341834",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "L'Oisillière",
+        "description": "L'Oisillière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.3,
+        "difficulty": null,
+        "externalId": 6352327,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6352327",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Sorinière",
+        "description": "La Sorinière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 5.2,
+        "difficulty": null,
+        "externalId": 6352440,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6352440",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Robrie",
+        "description": "La Robrie (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.4,
+        "difficulty": null,
+        "externalId": 6352453,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6352453",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Moulin de la Nation",
+        "description": "Le Moulin de la Nation (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6.5,
+        "difficulty": null,
+        "externalId": 6352461,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6352461",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Landas",
+        "description": "Les Landas (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.4,
+        "difficulty": null,
+        "externalId": 6352467,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6352467",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les roseaux et le bocage",
+        "description": "Les roseaux et le bocage (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 29.8,
+        "difficulty": null,
+        "externalId": 6352534,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6352534",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Cariolet",
+        "description": "Le Cariolet (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7,
+        "difficulty": null,
+        "externalId": 6353014,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6353014",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pédibus ligne 3",
+        "description": "Pédibus ligne 3 (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 0.4,
+        "difficulty": null,
+        "externalId": 6358851,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6358851",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Sèvre à la Moine",
+        "description": "Circuit de la Sèvre à la Moine (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.8,
+        "difficulty": null,
+        "externalId": 6373099,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6373099",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Forêt de Machecoul",
+        "description": "Forêt de Machecoul (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6.8,
+        "difficulty": null,
+        "externalId": 6373131,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6373131",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Santier des Vignes - La Priaudière",
+        "description": "Santier des Vignes - La Priaudière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.6,
+        "difficulty": null,
+        "externalId": 6385147,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6385147",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Moulins - La Garnaudière",
+        "description": "Sentier des Moulins - La Garnaudière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6.5,
+        "difficulty": null,
+        "externalId": 6385236,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6385236",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Santier du Bocage",
+        "description": "Santier du Bocage (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.5,
+        "difficulty": null,
+        "externalId": 6385259,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6385259",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pays Nantais",
+        "description": "Pays Nantais (rwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 159.5,
+        "difficulty": null,
+        "externalId": 6393440,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6393440",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre Bourg et Maine",
+        "description": "Entre Bourg et Maine (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 11.4,
+        "difficulty": null,
+        "externalId": 6401401,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6401401",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre Maine et Gorgeat",
+        "description": "Entre Maine et Gorgeat (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.4,
+        "difficulty": null,
+        "externalId": 6405328,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6405328",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Trois Rivières",
+        "description": "Les Trois Rivières (rwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 137.3,
+        "difficulty": null,
+        "externalId": 6424657,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6424657",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Landes de la Vaillantière",
+        "description": "Les Landes de la Vaillantière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 5.3,
+        "difficulty": null,
+        "externalId": 6455555,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6455555",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Source, Le Rupt, l'ancienne voie de chemin de fer",
+        "description": "La Source, Le Rupt, l'ancienne voie de chemin de fer (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.3,
+        "difficulty": null,
+        "externalId": 6455585,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6455585",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Grimaudière, la Gandonnière, aller/retour",
+        "description": "La Grimaudière, la Gandonnière, aller/retour (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 2.7,
+        "difficulty": null,
+        "externalId": 6455722,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6455722",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de Vive-Eve",
+        "description": "Circuit de Vive-Eve (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 4.6,
+        "difficulty": null,
+        "externalId": 6456150,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6456150",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "149",
+        "description": "149 (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.9,
+        "difficulty": null,
+        "externalId": 6459322,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6459322",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "grand circuit Erdre/Gesvres",
+        "description": "grand circuit Erdre/Gesvres (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 19.6,
+        "difficulty": null,
+        "externalId": 6462943,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6462943",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Moulins",
+        "description": "Circuit des Moulins (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 15.3,
+        "difficulty": null,
+        "externalId": 6464724,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6464724",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Marais de Blanche Noë",
+        "description": "Les Marais de Blanche Noë (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 17.7,
+        "difficulty": null,
+        "externalId": 6742223,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6742223",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Santiers des Hauts de Saint-Étienne",
+        "description": "Santiers des Hauts de Saint-Étienne (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.7,
+        "difficulty": null,
+        "externalId": 6745066,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6745066",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "L'Île Mouchet",
+        "description": "L'Île Mouchet (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 3,
+        "difficulty": null,
+        "externalId": 6746213,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6746213",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de la Vallée de la Logne",
+        "description": "Sentier de la Vallée de la Logne (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 15.8,
+        "difficulty": null,
+        "externalId": 6747904,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6747904",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Vallée de la Loire Rive Droite",
+        "description": "Vallée de la Loire Rive Droite (nwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 73,
+        "difficulty": null,
+        "externalId": 6768606,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6768606",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre Sèvre et Côteaux",
+        "description": "Entre Sèvre et Côteaux (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.2,
+        "difficulty": null,
+        "externalId": 6820007,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6820007",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin de Halage du Canal de Nantes à Brest",
+        "description": "Chemin de Halage du Canal de Nantes à Brest (rwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 341.8,
+        "difficulty": null,
+        "externalId": 6882348,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6882348",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Arcades",
+        "description": "Circuit des Arcades (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.2,
+        "difficulty": null,
+        "externalId": 6983770,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6983770",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de Haute-Perche",
+        "description": "Circuit de Haute-Perche (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 16.8,
+        "difficulty": null,
+        "externalId": 7087062,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7087062",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Sicaudais",
+        "description": "La Sicaudais (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.6,
+        "difficulty": null,
+        "externalId": 7087276,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7087276",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Templiers",
+        "description": "Circuit des Templiers (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 21.6,
+        "difficulty": null,
+        "externalId": 7087733,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7087733",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Vallée du Gesvres",
+        "description": "La Vallée du Gesvres (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.4,
+        "difficulty": null,
+        "externalId": 7276350,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7276350",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Autour du Bourg",
+        "description": "Autour du Bourg (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6.4,
+        "difficulty": null,
+        "externalId": 7370871,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7370871",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Bois Joly",
+        "description": "Le Bois Joly (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.2,
+        "difficulty": null,
+        "externalId": 7375191,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7375191",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le lapin bondissant",
+        "description": "Le lapin bondissant (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.4,
+        "difficulty": null,
+        "externalId": 7622188,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7622188",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La chauve-souris",
+        "description": "La chauve-souris (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9,
+        "difficulty": null,
+        "externalId": 7624354,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7624354",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le pic vert",
+        "description": "Le pic vert (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.2,
+        "difficulty": null,
+        "externalId": 7626900,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7626900",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "L'Écluse du Pas d'Héric",
+        "description": "L'Écluse du Pas d'Héric (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.1,
+        "difficulty": null,
+        "externalId": 7629768,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7629768",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "L'Orée du Bois",
+        "description": "L'Orée du Bois (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.5,
+        "difficulty": null,
+        "externalId": 7631751,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7631751",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Villages",
+        "description": "Les Villages (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 17,
+        "difficulty": null,
+        "externalId": 7633764,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7633764",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Au détour des Moulins",
+        "description": "Au détour des Moulins (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12,
+        "difficulty": null,
+        "externalId": 7633767,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7633767",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Marais",
+        "description": "Les Marais (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.8,
+        "difficulty": null,
+        "externalId": 7638361,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7638361",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Chauminette",
+        "description": "La Chauminette (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.5,
+        "difficulty": null,
+        "externalId": 7638377,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7638377",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Boucle de la Paquelais",
+        "description": "La Boucle de la Paquelais (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6.6,
+        "difficulty": null,
+        "externalId": 7642629,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7642629",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Port Mulon",
+        "description": "Le Port Mulon (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 2.5,
+        "difficulty": null,
+        "externalId": 7642644,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7642644",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Canal",
+        "description": "Le Canal (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.7,
+        "difficulty": null,
+        "externalId": 7642717,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7642717",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Boucle de Sévigné",
+        "description": "La Boucle de Sévigné (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 15.2,
+        "difficulty": null,
+        "externalId": 7645254,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7645254",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Boucle du Moulin",
+        "description": "La Boucle du Moulin (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 17.7,
+        "difficulty": null,
+        "externalId": 7645354,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7645354",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Mines de Languin",
+        "description": "Les Mines de Languin (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 4.7,
+        "difficulty": null,
+        "externalId": 7661614,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7661614",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Petit Canal",
+        "description": "Le Petit Canal (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.2,
+        "difficulty": null,
+        "externalId": 7661710,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7661710",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Blanc",
+        "description": "Circuit Blanc (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 30.7,
+        "difficulty": null,
+        "externalId": 7786531,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7786531",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Genêts",
+        "description": "Circuit des Genêts (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 25.4,
+        "difficulty": null,
+        "externalId": 7793361,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7793361",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Aquaterra",
+        "description": "Circuit Aquaterra (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 14.9,
+        "difficulty": null,
+        "externalId": 7794083,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7794083",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit La Foye",
+        "description": "Circuit La Foye (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 11.3,
+        "difficulty": null,
+        "externalId": 7794551,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7794551",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Passerelle",
+        "description": "Circuit Passerelle (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.9,
+        "difficulty": null,
+        "externalId": 7794634,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7794634",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Bord de la Loire",
+        "description": "Le Bord de la Loire (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.1,
+        "difficulty": null,
+        "externalId": 8186441,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8186441",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre Logne et Boulogne",
+        "description": "Entre Logne et Boulogne (lhn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.3,
+        "difficulty": null,
+        "externalId": 8486597,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8486597",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Rochers",
+        "description": "Les Rochers (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.1,
+        "difficulty": null,
+        "externalId": 8548751,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8548751",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Au Cœur de Clisson",
+        "description": "Au Cœur de Clisson (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6.9,
+        "difficulty": null,
+        "externalId": 8550298,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8550298",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Haute Chapelle",
+        "description": "La Haute Chapelle (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.4,
+        "difficulty": null,
+        "externalId": 8554706,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8554706",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Vieux Chemin Royal",
+        "description": "Le Vieux Chemin Royal (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.3,
+        "difficulty": null,
+        "externalId": 8554756,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8554756",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Redour",
+        "description": "Redour (lhn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 17.1,
+        "difficulty": null,
+        "externalId": 9212953,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9212953",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle du Chaintreau",
+        "description": "Boucle du Chaintreau (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 9719815,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9719815",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Piste aux empreintes",
+        "description": "Piste aux empreintes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 2.3,
+        "difficulty": null,
+        "externalId": 9719816,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9719816",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "PR la vallée du Havre",
+        "description": "PR la vallée du Havre (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6,
+        "difficulty": null,
+        "externalId": 9887497,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9887497",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Rigole Alimentaire - Du Lac de Vioreau au Canal de Nantes à Brest",
+        "description": "La Rigole Alimentaire - Du Lac de Vioreau au Canal de Nantes à Brest (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 21.6,
+        "difficulty": null,
+        "externalId": 9932593,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9932593",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Hauteurs",
+        "description": "Circuit des Hauteurs (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.5,
+        "difficulty": null,
+        "externalId": 11123621,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11123621",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Chapelle Saint-Vital",
+        "description": "Circuit de la Chapelle Saint-Vital (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.2,
+        "difficulty": null,
+        "externalId": 11123656,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11123656",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Randonneau des Pierres Levées",
+        "description": "Randonneau des Pierres Levées (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.2,
+        "difficulty": null,
+        "externalId": 11492631,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11492631",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit gallo-romain",
+        "description": "Circuit gallo-romain (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.2,
+        "difficulty": null,
+        "externalId": 12043838,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12043838",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Qui va là",
+        "description": "Qui va là (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 2.5,
+        "difficulty": null,
+        "externalId": 12601218,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12601218",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Loge au Moine (variante courte)",
+        "description": "Circuit de la Loge au Moine (variante courte) (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.1,
+        "difficulty": null,
+        "externalId": 12630551,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12630551",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Loge au Moine",
+        "description": "Circuit de la Loge au Moine (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 14.7,
+        "difficulty": null,
+        "externalId": 12630553,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12630553",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Vallée de Rideau",
+        "description": "La Vallée de Rideau (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 4,
+        "difficulty": null,
+        "externalId": 12710984,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12710984",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Tour du Bourg",
+        "description": "Le Tour du Bourg (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9,
+        "difficulty": null,
+        "externalId": 12714657,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12714657",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Haut Pays",
+        "description": "Le Haut Pays (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 14.3,
+        "difficulty": null,
+        "externalId": 12714658,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12714658",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Côteaux et des Coulées",
+        "description": "Sentier des Côteaux et des Coulées (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.6,
+        "difficulty": null,
+        "externalId": 12734503,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12734503",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Côteaux et des Coulées (Variante petite boucle)",
+        "description": "Sentier des Côteaux et des Coulées (Variante petite boucle) (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 12734528,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12734528",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de la Fontaine Saint-Clair",
+        "description": "Sentier de la Fontaine Saint-Clair (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 11.9,
+        "difficulty": null,
+        "externalId": 12749097,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12749097",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du Pirudel",
+        "description": "Sentier du Pirudel (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 21.1,
+        "difficulty": null,
+        "externalId": 12749236,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12749236",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Sites",
+        "description": "Circuit des Sites (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.9,
+        "difficulty": null,
+        "externalId": 12773520,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12773520",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle du Vignoble",
+        "description": "Boucle du Vignoble (rwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 118.7,
+        "difficulty": null,
+        "externalId": 12805988,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12805988",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit du Canal",
+        "description": "Circuit du Canal (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.3,
+        "difficulty": null,
+        "externalId": 12812300,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12812300",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du Château de Saffré",
+        "description": "Sentier du Château de Saffré (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 5.3,
+        "difficulty": null,
+        "externalId": 12812397,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12812397",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de l'Epine",
+        "description": "Circuit de l'Epine (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.2,
+        "difficulty": null,
+        "externalId": 12812441,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12812441",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit du Pont Bernard",
+        "description": "Circuit du Pont Bernard (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 14,
+        "difficulty": null,
+        "externalId": 12814324,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12814324",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit du Perche",
+        "description": "Circuit du Perche (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.9,
+        "difficulty": null,
+        "externalId": 12820305,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12820305",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Carrières",
+        "description": "Circuit des Carrières (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 13.1,
+        "difficulty": null,
+        "externalId": 12824542,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12824542",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Autour du Bourg",
+        "description": "Circuit Autour du Bourg (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 4.9,
+        "difficulty": null,
+        "externalId": 12841320,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12841320",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Champ de Mont",
+        "description": "Circuit Champ de Mont (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 14.3,
+        "difficulty": null,
+        "externalId": 12841322,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12841322",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Saint-Eloi",
+        "description": "Circuit Saint-Eloi (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.6,
+        "difficulty": null,
+        "externalId": 12841323,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12841323",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Gavalais",
+        "description": "Circuit Gavalais (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.9,
+        "difficulty": null,
+        "externalId": 12841324,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12841324",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit du Canal à la Forêt",
+        "description": "Circuit du Canal à la Forêt (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 31,
+        "difficulty": null,
+        "externalId": 12843385,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12843385",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier entre Isac et Bout de Bois",
+        "description": "Sentier entre Isac et Bout de Bois (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 23.5,
+        "difficulty": null,
+        "externalId": 12847729,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12847729",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Visite Tiers Lieux Nantes",
+        "description": "Visite Tiers Lieux Nantes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 0,
+        "difficulty": null,
+        "externalId": 13187064,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13187064",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Bocage et Marais",
+        "description": "Sentier Bocage et Marais (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 12.6,
+        "difficulty": null,
+        "externalId": 13266431,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13266431",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de l'Île Neuve",
+        "description": "Sentier de l'Île Neuve (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 1.9,
+        "difficulty": null,
+        "externalId": 14160954,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14160954",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Petit Botaniste",
+        "description": "Le Petit Botaniste (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 1.1,
+        "difficulty": null,
+        "externalId": 14511291,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14511291",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de Maine en vignes",
+        "description": "Circuit de Maine en vignes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 15.7,
+        "difficulty": null,
+        "externalId": 14519734,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14519734",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit du Moulin Barbet",
+        "description": "Circuit du Moulin Barbet (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 14.1,
+        "difficulty": null,
+        "externalId": 14519798,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14519798",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de la Maine",
+        "description": "Boucle de la Maine (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 20.9,
+        "difficulty": null,
+        "externalId": 14522752,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14522752",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre vignes et rivières",
+        "description": "Entre vignes et rivières (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.9,
+        "difficulty": null,
+        "externalId": 14522810,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14522810",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des jardins à la Haye Fouassière",
+        "description": "Circuit des jardins à la Haye Fouassière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 14524230,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14524230",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Buissonnier",
+        "description": "Circuit Buissonnier (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.9,
+        "difficulty": null,
+        "externalId": 14524401,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14524401",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcours d’Orientation au Plan d'Eau du Chêne",
+        "description": "Parcours d’Orientation au Plan d'Eau du Chêne (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 2.2,
+        "difficulty": null,
+        "externalId": 14524953,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14524953",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Carrière de Caffino Autrefois",
+        "description": "La Carrière de Caffino Autrefois (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 14524982,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14524982",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Landes",
+        "description": "Circuit des Landes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.9,
+        "difficulty": null,
+        "externalId": 14525112,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14525112",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Haute Divatte",
+        "description": "Circuit de la Haute Divatte (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.7,
+        "difficulty": null,
+        "externalId": 14525222,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14525222",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Marais",
+        "description": "Circuit des Marais (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9.2,
+        "difficulty": null,
+        "externalId": 14526105,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14526105",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Vignes en Villages",
+        "description": "De Vignes en Villages (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.2,
+        "difficulty": null,
+        "externalId": 14526262,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14526262",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit Le Chant des Trois Ruisseaux",
+        "description": "Circuit Le Chant des Trois Ruisseaux (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.2,
+        "difficulty": null,
+        "externalId": 14529453,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14529453",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "L'Agrion de Mercure",
+        "description": "L'Agrion de Mercure (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.2,
+        "difficulty": null,
+        "externalId": 14533438,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14533438",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Moulins et Châteaux",
+        "description": "Moulins et Châteaux (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.4,
+        "difficulty": null,
+        "externalId": 14534042,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14534042",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Côteaux",
+        "description": "Circuit des Côteaux (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 10.1,
+        "difficulty": null,
+        "externalId": 14535327,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14535327",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit du Château de la Noë",
+        "description": "Circuit du Château de la Noë (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.5,
+        "difficulty": null,
+        "externalId": 14535409,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14535409",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre Terres et Vignes",
+        "description": "Entre Terres et Vignes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.8,
+        "difficulty": null,
+        "externalId": 14535437,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14535437",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Maraîchers",
+        "description": "Circuit des Maraîchers (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.6,
+        "difficulty": null,
+        "externalId": 14544778,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14544778",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Sanguèze",
+        "description": "Circuit de la Sanguèze (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.3,
+        "difficulty": null,
+        "externalId": 14549550,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14549550",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Sèvre",
+        "description": "Circuit de la Sèvre (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.2,
+        "difficulty": null,
+        "externalId": 14550197,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14550197",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit du Moulin de la Robinière",
+        "description": "Circuit du Moulin de la Robinière (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 5.6,
+        "difficulty": null,
+        "externalId": 14551039,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14551039",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle du Bocage",
+        "description": "Boucle du Bocage (rwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 141.3,
+        "difficulty": null,
+        "externalId": 15073726,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15073726",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les prairies de l'Erdre",
+        "description": "Les prairies de l'Erdre (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.8,
+        "difficulty": null,
+        "externalId": 15877024,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15877024",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Marches de Vendée",
+        "description": "Circuit des Marches de Vendée (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 18.5,
+        "difficulty": null,
+        "externalId": 16104455,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16104455",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Vignes",
+        "description": "Circuit des Vignes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 9,
+        "difficulty": null,
+        "externalId": 16246110,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16246110",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit du Château de Clermont",
+        "description": "Circuit du Château de Clermont (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 8.5,
+        "difficulty": null,
+        "externalId": 16411713,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16411713",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sur les Pas de Louis",
+        "description": "Sur les Pas de Louis (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 6,
+        "difficulty": null,
+        "externalId": 16411714,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16411714",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Folies Siffait",
+        "description": "Circuit des Folies Siffait (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 5.7,
+        "difficulty": null,
+        "externalId": 16411715,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16411715",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Villages",
+        "description": "Les Villages (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.4,
+        "difficulty": null,
+        "externalId": 16920252,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16920252",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Jonction circuits Arthon – Les Chênes",
+        "description": "Jonction circuits Arthon – Les Chênes (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 1.4,
+        "difficulty": null,
+        "externalId": 17395566,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17395566",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Horizons",
+        "description": "Circuit des Horizons (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 11.9,
+        "difficulty": null,
+        "externalId": 17941761,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17941761",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Moulins et de l'Ouen",
+        "description": "Circuit des Moulins et de l'Ouen (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 14.2,
+        "difficulty": null,
+        "externalId": 17941762,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17941762",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Ombrages",
+        "description": "Circuit des Ombrages (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 15.3,
+        "difficulty": null,
+        "externalId": 18047141,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18047141",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Piliers",
+        "description": "Circuit des Piliers (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 7.7,
+        "difficulty": null,
+        "externalId": 18047160,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18047160",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin de Ronde",
+        "description": "Chemin de Ronde (hiking)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 19355141,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19355141",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Ligne Verte",
+        "description": "La Ligne Verte (lwn)",
+        "coordinates": [
+          47.2186371,
+          -1.5541362
+        ],
+        "length": 3.3,
+        "difficulty": null,
+        "externalId": 19355322,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19355322",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "hikesTotalLength": 2703.9
+  },
+  "housing": {
+    "avgSellPricePerM2": 4308,
+    "avgRentPricePerM2": 14
+  },
+  "qualityOfLife": {
+    "crimeRate": 2.5,
+    "greenSpaces": 8.2,
+    "airQuality": 7.5,
+    "costOfLife": 7,
+    "liveabilityScore": 8,
+    "healthQuality": 7.9
+  },
+  "images": [
+    {
+      "url": "https://images.pexels.com/photos/32962884/pexels-photo-32962884.jpeg?w=1200&h=400&fit=crop&crop=center",
+      "alt": "Vibrant playground art and carousel in a scenic Nantes park, perfect for creative exploration.",
+      "photographer": "L'oeil à deux Vanessa et cédric",
+      "isBanner": true
+    },
+    {
+      "url": "https://images.pexels.com/photos/29586002/pexels-photo-29586002.jpeg",
+      "alt": "An elderly man wearing a coat walks along a cobblestone path during autumn in Nantes, France.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30870313/pexels-photo-30870313.jpeg",
+      "alt": "View of the Château des Ducs de Bretagne in Nantes, showcasing medieval architecture and historic charm.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28886837/pexels-photo-28886837.jpeg",
+      "alt": "Colorful fish-shaped spring ride in a lush park setting in Nantes, France.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17708306/pexels-photo-17708306.jpeg",
+      "alt": "Striking modern architecture with yellow facade against blue sky in Nantes, France.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17355676/pexels-photo-17355676.jpeg",
+      "alt": "Close-up view of bicloo rental bicycles lined up in Nantes, France, awaiting use.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17764846/pexels-photo-17764846.jpeg",
+      "alt": "Close-up of a modern geometric building facade in Nantes, France, under a clear sky.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27264293/pexels-photo-27264293.jpeg",
+      "alt": "Gothic tower spire surrounded by lush green trees in a Nantes park, France.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17324041/pexels-photo-17324041.jpeg",
+      "alt": "Close-up view of a building facade with blue window frames in Nantes.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27300465/pexels-photo-27300465.jpeg",
+      "alt": "A serene statue of two figures in a lush Nantes garden, symbolizing spirituality and peace.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32033029/pexels-photo-32033029.jpeg",
+      "alt": "Vibrant tote bags with Nantes text in a park setting during springtime.",
+      "photographer": "Bingqian Li",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30870290/pexels-photo-30870290.jpeg",
+      "alt": "Scenic view of Château des Ducs de Bretagne with lush greenery and historic buildings in Nantes, France.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17226248/pexels-photo-17226248.jpeg",
+      "alt": "Cable-stayed Saint-Nazaire Bridge with dramatic clouds, located in France.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30870300/pexels-photo-30870300.jpeg",
+      "alt": "Exterior view of Château des Ducs de Bretagne in Nantes with dramatic sky.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29586000/pexels-photo-29586000.jpeg",
+      "alt": "The 'Spirit of Victoria' boat moored at a dock in Nantes, captured under a clear blue sky.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31590368/pexels-photo-31590368.jpeg",
+      "alt": "Beautiful golden fall leaves in Nantes, France, embracing the beauty of autumn.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12338626/pexels-photo-12338626.jpeg",
+      "alt": "Close-up of a bright yellow lily flower in full bloom, surrounded by lush green leaves in Nantes, France.",
+      "photographer": "Gérard PITOIS",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29477010/pexels-photo-29477010.jpeg",
+      "alt": "Charming riverside view of Nantes, France, showcasing boats, buildings, and autumn scenery.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29028458/pexels-photo-29028458.jpeg",
+      "alt": "Vibrant architectural facade in Nantes, France featuring bold colors and unique design.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11148703/pexels-photo-11148703.jpeg",
+      "alt": "Children and adults enjoying bubbles at a street festival in Nantes, France.",
+      "photographer": "Gabriel",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30859235/pexels-photo-30859235.jpeg",
+      "alt": "Elegant fountain and historic church facade in Nantes, France.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32381682/pexels-photo-32381682.jpeg",
+      "alt": "A serene view of a tower and bridge reflecting in the Loire River in Nantes, France.",
+      "photographer": "Antonia Procesi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17764598/pexels-photo-17764598.jpeg",
+      "alt": "Contemporary facade of La Fabrique in Nantes on a clear day.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32564733/pexels-photo-32564733.jpeg",
+      "alt": "Vibrant scene in Orléans, France with historic buildings and lively crowd.",
+      "photographer": "Sergio Scandroglio",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32564736/pexels-photo-32564736.jpeg",
+      "alt": "A modern tram travels through a historic square in Orléans, France under a sunny blue sky.",
+      "photographer": "Sergio Scandroglio",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17645338/pexels-photo-17645338.jpeg",
+      "alt": "Scenic view of Prieure Saint-Nicolas church by the beach in France, under a blue sky.",
+      "photographer": "christine roy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32564732/pexels-photo-32564732.jpeg",
+      "alt": "Explore the intricate Gothic facade of Orléans Cathedral in France's Center region.",
+      "photographer": "Sergio Scandroglio",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31113145/pexels-photo-31113145.jpeg",
+      "alt": "Picturesque scene of Clisson with its historic architecture by the river Loire in France.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9221400/pexels-photo-9221400.jpeg",
+      "alt": "Front view of Ateliers et Chantiers de Nantes with cloudy sky.",
+      "photographer": "Adrien Olichon",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/16105792/pexels-photo-16105792.jpeg",
+      "alt": "Château de Chambord in France, with picturesque clouds and green lawns.",
+      "photographer": "Bingqian Li",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/24205807/pexels-photo-24205807.jpeg",
+      "alt": "Top view of French gourmet dishes including seafood salad, grilled skewers, oysters, and wine in Angers, France.",
+      "photographer": "John Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/165979/pexels-photo-165979.jpeg",
+      "alt": "Breathtaking sunset casting a warm glow over Sainte-Suzanne Castle in Pays de la Loire, France.",
+      "photographer": "Méline Waxx",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/19236284/pexels-photo-19236284.jpeg",
+      "alt": "Stylish woman in a red dress with a sunhat in a vibrant sunflower field at Le Mans, France.",
+      "photographer": "Karina Rymarchuk",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/33505431/pexels-photo-33505431.jpeg",
+      "alt": "Majestic medieval château nestled among lush greenery in Nouvelle-Aquitaine, France.",
+      "photographer": "Bas Linders",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/33505451/pexels-photo-33505451.jpeg",
+      "alt": "Charming boat on Dordogne River near a medieval castle in Nouvelle-Aquitaine, France.",
+      "photographer": "Bas Linders",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/33505416/pexels-photo-33505416.jpeg",
+      "alt": "Charming medieval castle nestled in the verdant forests of Dordogne, France, in picturesque Nouvelle-Aquitaine.",
+      "photographer": "Bas Linders",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27575932/pexels-photo-27575932.jpeg",
+      "alt": "A picturesque, vintage half-timbered house with blue and white patterns in Deauville, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27721366/pexels-photo-27721366.jpeg",
+      "alt": "Discover the beautiful Renaissance architecture of a chateau in Amboise, France.",
+      "photographer": "Valentin Onu",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29241081/pexels-photo-29241081.jpeg",
+      "alt": "Beautiful symmetry in the architectural design of the Palace of Versailles, France.",
+      "photographer": "Sebastian Luna",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31992435/pexels-photo-31992435.jpeg",
+      "alt": "Breathtaking view of the picturesque village of Gordes in Provence, France under a clear blue sky.",
+      "photographer": "Geert Willemarck",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/16628339/pexels-photo-16628339.jpeg",
+      "alt": "Explore the stunning gardens and majestic architecture of Château de Chaumont-sur-Loire, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27419788/pexels-photo-27419788.jpeg",
+      "alt": "A scenic view of a historic mansion surrounded by lush greenery and trees in Deauville, Normandy, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32348589/pexels-photo-32348589.jpeg",
+      "alt": "Peaceful garden path with lush hedges and statue at Versailles, France.",
+      "photographer": "Candelario Benítez",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31168628/pexels-photo-31168628.jpeg",
+      "alt": "Elegant château architecture against a vibrant blue sky in Amboise, France.",
+      "photographer": "Jean-Paul Wettstein",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10714001/pexels-photo-10714001.jpeg",
+      "alt": "Charming medieval castle with towers in Pommiers, France, surrounded by lush greenery.",
+      "photographer": "Burkard Meyendriesch",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2363/france-landmark-lights-night.jpg",
+      "alt": "Stunning nighttime view of the illuminated Louvre Pyramid and reflection in Paris, France.",
+      "photographer": "Pixabay",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/25211987/pexels-photo-25211987.jpeg",
+      "alt": "A man reads in the Luxembourg Gardens with a view of the palace in Paris, France.",
+      "photographer": "Alina Chernii",
+      "isBanner": false
+    }
+  ],
+  "dataQuality": {
+    "completeness": 95,
+    "lastUpdated": "2025-08-22",
+    "sources": {
+      "weather": "Météo-France, 2023 data",
+      "population": "INSEE, 2023 estimate",
+      "education": "French Ministry of Education, 2023",
+      "culture": "French Ministry of Culture, 2023",
+      "transportation": "Google Maps / SNCF, 2023",
+      "geography": "Google Maps / AllTrails, 2023",
+      "housing": "MeilleursAgents / FNAIM, 2023",
+      "qualityOfLife": "French government sources, 2023",
+      "images": "Pexels API"
+    }
+  }
+}

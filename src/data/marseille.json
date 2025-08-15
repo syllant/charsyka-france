@@ -1,0 +1,4452 @@
+{
+  "id": "marseille",
+  "name": "Marseille",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "coordinates": [
+    43.2965,
+    5.3698
+  ],
+  "weather": {
+    "sunnyDays": 235,
+    "rainyDays": 131,
+    "avgTemp": 16.9,
+    "monthlyData": [
+      9.8,
+      10.6,
+      12.2,
+      15.6,
+      18.8,
+      24.9,
+      25.2,
+      24.1,
+      20,
+      18.3,
+      13.5,
+      9.4
+    ],
+    "monthlySunnyDays": [
+      14,
+      13,
+      19,
+      18,
+      17,
+      29,
+      27,
+      31,
+      17,
+      10,
+      16,
+      24
+    ],
+    "monthlyRainyDays": [
+      17,
+      15,
+      12,
+      12,
+      14,
+      1,
+      4,
+      1,
+      13,
+      21,
+      14,
+      7
+    ],
+    "monthlyPrecipitation": [
+      84,
+      49.4,
+      116.3,
+      56,
+      30.3,
+      5,
+      32.2,
+      0.7,
+      86.9,
+      71.4,
+      58.2,
+      13.5
+    ]
+  },
+  "population": {
+    "total": 870000,
+    "studentPercentage": 18,
+    "density": 3600
+  },
+  "education": {
+    "highSchools": [
+      {
+        "name": "Lycée Saint-Joseph les Maristes",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.28631859499157,
+          5.381980211099259
+        ],
+        "website": "http://www.st-joseph-les-maristes.com",
+        "externalId": "0131331B",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131331B&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Joseph%20les%20Maristes&code_postal=13006",
+        "osmId": "fr-education:0131331B",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée de chimie-biologie La Forbine",
+        "address": "13011, Marseille",
+        "coordinates": [
+          43.286727236276235,
+          5.466459886447978
+        ],
+        "website": "http://www.laforbine.com",
+        "externalId": "0131681G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131681G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20de%20chimie-biologie%20La%20Forbine&code_postal=13011",
+        "osmId": "fr-education:0131681G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée général privé Bnei Elazar",
+        "address": "13009, Marseille",
+        "coordinates": [
+          43.25763378834823,
+          5.400011884859197
+        ],
+        "website": "https://www.gsbe.fr/",
+        "externalId": "0134250Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0134250Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20g%C3%A9n%C3%A9ral%20priv%C3%A9%20Bnei%20Elazar&code_postal=13009",
+        "osmId": "fr-education:0134250Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée de Tour Sainte",
+        "address": "13014, Marseille",
+        "coordinates": [
+          43.344040917968634,
+          5.388351139465697
+        ],
+        "website": "http://www.toursainte.fr",
+        "externalId": "0131327X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131327X&type_etablissement=Lycée&selection=Lyc%C3%A9e%20de%20Tour%20Sainte&code_postal=13014",
+        "osmId": "fr-education:0131327X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Sévigné",
+        "address": "13013, Marseille",
+        "coordinates": [
+          43.32897911964102,
+          5.418850135038053
+        ],
+        "website": "http://www.sevigne-db13.com",
+        "externalId": "0131348V",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131348V&type_etablissement=Lycée&selection=Lyc%C3%A9e%20S%C3%A9vign%C3%A9&code_postal=13013",
+        "osmId": "fr-education:0131348V",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Simone Veil",
+        "address": "13013, Marseille",
+        "coordinates": [
+          43.345641402780934,
+          5.4138806626078955
+        ],
+        "website": "http://www.lyc-veil-marseille.ac-aix-marseille.fr/spip/",
+        "externalId": "0134155W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0134155W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Simone%20Veil&code_postal=13013",
+        "osmId": "fr-education:0134155W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel la Floride",
+        "address": "13014, Marseille",
+        "coordinates": [
+          43.3373460810989,
+          5.375055448427796
+        ],
+        "website": "http://www.lyc-floride.ac-aix-marseille.fr",
+        "externalId": "0130056R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130056R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20la%20Floride&code_postal=13014",
+        "osmId": "fr-education:0130056R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent hôtelier régional Jean-Paul Passedat",
+        "address": "13295, Marseille",
+        "coordinates": [
+          43.24557318283892,
+          5.392080820738188
+        ],
+        "website": "http://www.lyc-hotelier.ac-aix-marseille.fr/",
+        "externalId": "0132974M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0132974M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20h%C3%B4telier%20r%C3%A9gional%20Jean-Paul%20Passedat&code_postal=13295",
+        "osmId": "fr-education:0132974M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Charles Péguy",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.28823223279467,
+          5.374769721783571
+        ],
+        "website": "https://charlespeguymarseille.com/",
+        "externalId": "0131402D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131402D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Charles%20P%C3%A9guy&code_postal=13006",
+        "osmId": "fr-education:0131402D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée général Ibn Khaldoun",
+        "address": "13015, Marseille",
+        "coordinates": [
+          43.33507373147014,
+          5.360909728147842
+        ],
+        "website": "http://college-ibnkhaldoun.com",
+        "externalId": "0134107U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0134107U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20g%C3%A9n%C3%A9ral%20Ibn%20Khaldoun&code_postal=13015",
+        "osmId": "fr-education:0134107U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Notre-Dame de Sion",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.282730167794504,
+          5.381379909961709
+        ],
+        "website": "http://www.notredamedesion.fr/",
+        "externalId": "0131341M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131341M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Notre-Dame%20de%20Sion&code_postal=13006",
+        "osmId": "fr-education:0131341M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Joseph de la Madeleine",
+        "address": "13248, Marseille",
+        "coordinates": [
+          43.30133121878656,
+          5.3950843922032545
+        ],
+        "website": "http://www.stjomadeleine.org",
+        "externalId": "0131339K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131339K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Joseph%20de%20la%20Madeleine&code_postal=13248",
+        "osmId": "fr-education:0131339K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent modèle électronique",
+        "address": "13396, Marseille",
+        "coordinates": [
+          43.286415280580066,
+          5.468770036604357
+        ],
+        "website": "http://www.eme-enseignement.fr",
+        "externalId": "0131436R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131436R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20mod%C3%A8le%20%C3%A9lectronique&code_postal=13396",
+        "osmId": "fr-education:0131436R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Marie Gasquet",
+        "address": "13012, Marseille",
+        "coordinates": [
+          43.30491597308443,
+          5.4171935214377465
+        ],
+        "website": "http://www.lycee-marie-gasquet.eu/",
+        "externalId": "0133474F",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133474F&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Marie%20Gasquet&code_postal=13012",
+        "osmId": "fr-education:0133474F",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Marseilleveyre",
+        "address": "13285, Marseille",
+        "coordinates": [
+          43.23883962245833,
+          5.377749616457136
+        ],
+        "website": "http://www.lyc-marseilleveyre.ac-aix-marseille.fr",
+        "externalId": "0130038W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130038W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Marseilleveyre&code_postal=13285",
+        "osmId": "fr-education:0130038W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel le Chatelier",
+        "address": "13003, Marseille",
+        "coordinates": [
+          43.313959071324106,
+          5.371030255772379
+        ],
+        "website": "http://www.lyc-chatelier.ac-aix-marseille.fr",
+        "externalId": "0130055P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130055P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20le%20Chatelier&code_postal=13003",
+        "osmId": "fr-education:0130055P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Sainte-Trinité",
+        "address": "13009, Marseille",
+        "coordinates": [
+          43.24800394592174,
+          5.408235345567571
+        ],
+        "website": "http://www.sainte-trinite.fr",
+        "externalId": "0131347U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131347U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Sainte-Trinit%C3%A9&code_postal=13009",
+        "osmId": "fr-education:0131347U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Colbert",
+        "address": "13284, Marseille",
+        "coordinates": [
+          43.28821901581595,
+          5.357329570155207
+        ],
+        "website": "http://www.lyc-colbert.ac-aix-marseille.fr",
+        "externalId": "0130071G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130071G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Colbert&code_postal=13284",
+        "osmId": "fr-education:0130071G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Notre-Dame de la Viste",
+        "address": "13314, Marseille",
+        "coordinates": [
+          43.35248128251459,
+          5.359269984052946
+        ],
+        "website": "http://ecole-ndv.fr",
+        "externalId": "0133931C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133931C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Notre-Dame%20de%20la%20Viste&code_postal=13314",
+        "osmId": "fr-education:0133931C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Pastré - Grande Bastide",
+        "address": "13009, Marseille",
+        "coordinates": [
+          43.26278814317507,
+          5.422171758098137
+        ],
+        "website": "https://extrapgb.fr/pastre/",
+        "externalId": "0131456M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131456M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Pastr%C3%A9%20-%20Grande%20Bastide&code_postal=13009",
+        "osmId": "fr-education:0131456M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel René Caillié",
+        "address": "13011, Marseille",
+        "coordinates": [
+          43.28583110779726,
+          5.438931849150504
+        ],
+        "website": "http://www.lyc-caillie.ac-aix-marseille.fr",
+        "externalId": "0130057S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130057S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Ren%C3%A9%20Cailli%C3%A9&code_postal=13011",
+        "osmId": "fr-education:0130057S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée des métiers La Calade - Jane Vialle",
+        "address": "13326, Marseille",
+        "coordinates": [
+          43.34104514685386,
+          5.352610382864538
+        ],
+        "website": "http://www.lyc-calade.ac-aix-marseille.fr",
+        "externalId": "0131606A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131606A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20des%20m%C3%A9tiers%20La%20Calade%20-%20Jane%20Vialle&code_postal=13326",
+        "osmId": "fr-education:0131606A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Leau",
+        "address": "13008, Marseille",
+        "coordinates": [
+          43.254172921932245,
+          5.38520996117575
+        ],
+        "website": "http://www.lyc-leau.ac-aix-marseille.fr",
+        "externalId": "0130063Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130063Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Leau&code_postal=13008",
+        "osmId": "fr-education:0130063Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Notre-Dame de France",
+        "address": "13253, Marseille",
+        "coordinates": [
+          43.28474718576696,
+          5.378020065449739
+        ],
+        "website": "http://www.ndfrance.org",
+        "externalId": "0131333D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131333D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Notre-Dame%20de%20France&code_postal=13253",
+        "osmId": "fr-education:0131333D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée L'Olivier - Robert Coffy",
+        "address": "13012, Marseille",
+        "coordinates": [
+          43.30572109671376,
+          5.426248147839343
+        ],
+        "website": "https://www.lycee-lolivier.fr",
+        "externalId": "0131345S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131345S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20L'Olivier%20-%20Robert%20Coffy&code_postal=13012",
+        "osmId": "fr-education:0131345S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Antonin Artaud",
+        "address": "13013, Marseille",
+        "coordinates": [
+          43.34044091495535,
+          5.424230447928836
+        ],
+        "website": "http://www.lyc-artaud.ac-aix-marseille.fr",
+        "externalId": "0132733A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0132733A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Antonin%20Artaud&code_postal=13013",
+        "osmId": "fr-education:0132733A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Saint-Henri",
+        "address": "13016, Marseille",
+        "coordinates": [
+          43.365861145497604,
+          5.339649783936652
+        ],
+        "website": "http://www.fmsthenri.fr",
+        "externalId": "0131433M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131433M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Saint-Henri&code_postal=13016",
+        "osmId": "fr-education:0131433M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Saint-André (les Routiers)",
+        "address": "13016, Marseille",
+        "coordinates": [
+          43.360669905943034,
+          5.342520184600628
+        ],
+        "website": "http://www.fmstandre.fr",
+        "externalId": "0131432L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131432L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Saint-Andr%C3%A9%20(les%20Routiers)&code_postal=13016",
+        "osmId": "fr-education:0131432L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Chevreul - Blancarde",
+        "address": "13004, Marseille",
+        "coordinates": [
+          43.30262303185718,
+          5.4016395772832775
+        ],
+        "website": "http://www.chevreulblancarde.com/",
+        "externalId": "0131335F",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131335F&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Chevreul%20-%20Blancarde&code_postal=13004",
+        "osmId": "fr-education:0131335F",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée technologique régional Marie Curie",
+        "address": "13392, Marseille",
+        "coordinates": [
+          43.29373990341497,
+          5.400600554641929
+        ],
+        "website": "http://www.lyc-curie.ac-aix-marseille.fr/",
+        "externalId": "0130051K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130051K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20technologique%20r%C3%A9gional%20Marie%20Curie&code_postal=13392",
+        "osmId": "fr-education:0130051K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Jean-Baptiste Brochier",
+        "address": "13010, Marseille",
+        "coordinates": [
+          43.28224043877359,
+          5.403780471427762
+        ],
+        "website": "http://www.atrium-paca.fr/web/lp-lyc-metier-jean-baptiste-brochier-130101/accueil",
+        "externalId": "0130064Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130064Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Jean-Baptiste%20Brochier&code_postal=13010",
+        "osmId": "fr-education:0130064Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel agricole des Calanques",
+        "address": "13008, Marseille",
+        "coordinates": [
+          43.23883962245833,
+          5.377749616457136
+        ],
+        "website": "http://www.epl.valabre.educagri.fr",
+        "externalId": "0131848N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131848N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20agricole%20des%20Calanques&code_postal=13008",
+        "osmId": "fr-education:0131848N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Exupéry",
+        "address": "13326, Marseille",
+        "coordinates": [
+          43.34660530479218,
+          5.35472053976269
+        ],
+        "website": "http://www.lyc-stexupery.ac-aix-marseille.fr/",
+        "externalId": "0130048G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130048G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Exup%C3%A9ry&code_postal=13326",
+        "osmId": "fr-education:0130048G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Paul Melizan",
+        "address": "13011, Marseille",
+        "coordinates": [
+          43.299991989880745,
+          5.492524157481288
+        ],
+        "website": "http://www.lycee-paul-melizan.com",
+        "externalId": "0131328Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131328Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Paul%20Melizan&code_postal=13011",
+        "osmId": "fr-education:0131328Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Charles Camas",
+        "address": "13392, Marseille",
+        "coordinates": [
+          43.298028121698344,
+          5.393020047110823
+        ],
+        "website": "http://www.stcharles-camas.com",
+        "externalId": "0131342N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131342N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Charles%20Camas&code_postal=13392",
+        "osmId": "fr-education:0131342N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Lacordaire",
+        "address": "13013, Marseille",
+        "coordinates": [
+          43.319756110985445,
+          5.405729741447149
+        ],
+        "website": "http://www.lacordaire.com",
+        "externalId": "0131324U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131324U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Lacordaire&code_postal=13013",
+        "osmId": "fr-education:0131324U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent La Cadenelle",
+        "address": "13012, Marseille",
+        "coordinates": [
+          43.30199383825447,
+          5.457140038782091
+        ],
+        "website": "http://www.cadenelle.com",
+        "externalId": "0132828D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0132828D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20La%20Cadenelle&code_postal=13012",
+        "osmId": "fr-education:0132828D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Don Bosco",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.28578684295234,
+          5.379360141237068
+        ],
+        "website": "http://www.donbosco-marseille.fr",
+        "externalId": "0133396W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133396W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Don%20Bosco&code_postal=13006",
+        "osmId": "fr-education:0133396W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Nelson Mandela",
+        "address": "13012, Marseille",
+        "coordinates": [
+          43.29790520542149,
+          5.42642444275718
+        ],
+        "website": "https://www.site.ac-aix-marseille.fr/lyc-nelson-mandela-marseille/spip/",
+        "externalId": "0134003F",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0134003F&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Nelson%20Mandela&code_postal=13012",
+        "osmId": "fr-education:0134003F",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Denis Diderot",
+        "address": "13388, Marseille",
+        "coordinates": [
+          43.32545465620047,
+          5.414180374228703
+        ],
+        "website": "http://www.lyc-diderot.ac-aix-marseille.fr",
+        "externalId": "0130050J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130050J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Denis%20Diderot&code_postal=13388",
+        "osmId": "fr-education:0130050J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Alexandre Gueidon",
+        "address": "13013, Marseille",
+        "coordinates": [
+          43.32367134567756,
+          5.42051838764781
+        ],
+        "website": "http://www.formationmetier.fr",
+        "externalId": "0131463V",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131463V&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Alexandre%20Gueidon&code_postal=13013",
+        "osmId": "fr-education:0131463V",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Saint-Vincent de Paul",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.28740766216395,
+          5.378379862206026
+        ],
+        "website": "http://stvincentdepaul13.fr/",
+        "externalId": "0131403E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131403E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Saint-Vincent%20de%20Paul&code_postal=13006",
+        "osmId": "fr-education:0131403E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Edmond Rostand",
+        "address": "13008, Marseille",
+        "coordinates": [
+          43.27472102324108,
+          5.397146079538821
+        ],
+        "website": "http://www.provence-formation.fr/lycees/lycee-edmond-rostand",
+        "externalId": "0132193N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0132193N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Edmond%20Rostand&code_postal=13008",
+        "osmId": "fr-education:0132193N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel et technologique régional L'Estaque",
+        "address": "13016, Marseille",
+        "coordinates": [
+          43.36280361296551,
+          5.325675413884278
+        ],
+        "website": "http://www.lyc-estaque.ac-aix-marseille.fr",
+        "externalId": "0130058T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130058T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20et%20technologique%20r%C3%A9gional%20L'Estaque&code_postal=13016",
+        "osmId": "fr-education:0130058T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Marcel Pagnol",
+        "address": "13395, Marseille",
+        "coordinates": [
+          43.28325946239639,
+          5.433640545674273
+        ],
+        "website": "https://www.site.ac-aix-marseille.fr/lyc-pagnol/spip/",
+        "externalId": "0130037V",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130037V&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Marcel%20Pagnol&code_postal=13395",
+        "osmId": "fr-education:0130037V",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Yavné",
+        "address": "13013, Marseille",
+        "coordinates": [
+          43.31792263408475,
+          5.409819445493916
+        ],
+        "website": "http://www.yavnemarseille.com",
+        "externalId": "0132472S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0132472S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Yavn%C3%A9&code_postal=13013",
+        "osmId": "fr-education:0132472S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Périer",
+        "address": "13295, Marseille",
+        "coordinates": [
+          43.28114529853373,
+          5.381830598806038
+        ],
+        "website": "http://www.lyc-perier.ac-aix-marseille.fr",
+        "externalId": "0130036U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130036U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20P%C3%A9rier&code_postal=13295",
+        "osmId": "fr-education:0130036U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Cours Bastide",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.28970596843975,
+          5.38692000476291
+        ],
+        "website": "http://www.coursbastide.fr/page/etablissement",
+        "externalId": "0131344R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131344R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Cours%20Bastide&code_postal=13006",
+        "osmId": "fr-education:0131344R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel la Viste",
+        "address": "13015, Marseille",
+        "coordinates": [
+          43.35904471588193,
+          5.355484414834365
+        ],
+        "website": "http://www.lyc-viste.ac-aix-marseille.fr",
+        "externalId": "0130065A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130065A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20la%20Viste&code_postal=13015",
+        "osmId": "fr-education:0130065A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée cité internationale Jacques Chirac",
+        "address": "13002, Marseille",
+        "coordinates": [
+          43.315272976099386,
+          5.367337387272287
+        ],
+        "website": "https://www.site.ac-aix-marseille.fr/lyc-chirac/spip/-Le-lycee-",
+        "externalId": "0134472R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0134472R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20cit%C3%A9%20internationale%20Jacques%20Chirac&code_postal=13002",
+        "osmId": "fr-education:0134472R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Blaise Pascal",
+        "address": "13012, Marseille",
+        "coordinates": [
+          43.31305264909755,
+          5.420539604366283
+        ],
+        "website": "http://www.lyc-pascal.ac-aix-marseille.fr",
+        "externalId": "0130059U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130059U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Blaise%20Pascal&code_postal=13012",
+        "osmId": "fr-education:0130059U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Frédéric Mistral",
+        "address": "13417, Marseille",
+        "coordinates": [
+          43.2586229529331,
+          5.392339912750116
+        ],
+        "website": "http://www.lyc-mistral-marseille.ac-aix-marseille.fr",
+        "externalId": "0130062X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130062X&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Fr%C3%A9d%C3%A9ric%20Mistral&code_postal=13417",
+        "osmId": "fr-education:0130062X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel École libre de métiers",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.29088660397697,
+          5.3882698956258395
+        ],
+        "website": "http://www.lycee-elm.fr/",
+        "externalId": "0131434N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131434N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20%C3%89cole%20libre%20de%20m%C3%A9tiers&code_postal=13006",
+        "osmId": "fr-education:0131434N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée de Provence",
+        "address": "13272, Marseille",
+        "coordinates": [
+          43.270276865928004,
+          5.384506349927876
+        ],
+        "website": "http://www.ecoleprovence.fr",
+        "externalId": "0131323T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131323T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20de%20Provence&code_postal=13272",
+        "osmId": "fr-education:0131323T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Jeanne Perrimond",
+        "address": "13007, Marseille",
+        "coordinates": [
+          43.27877012738272,
+          5.367589430429747
+        ],
+        "website": "https://www.perrimond.eu/",
+        "externalId": "0131684K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131684K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Jeanne%20Perrimond&code_postal=13007",
+        "osmId": "fr-education:0131684K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Honoré Daumier",
+        "address": "13008, Marseille",
+        "coordinates": [
+          43.26115753776659,
+          5.387322425357512
+        ],
+        "website": "http://www.lyc-daumier.ac-aix-marseille.fr/",
+        "externalId": "0130175V",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130175V&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Honor%C3%A9%20Daumier&code_postal=13008",
+        "osmId": "fr-education:0130175V",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Saint-Michel",
+        "address": "13005, Marseille",
+        "coordinates": [
+          43.29673078284298,
+          5.387140588471159
+        ],
+        "website": "http://lycee-stmichel.fr/",
+        "externalId": "0131441W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131441W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Saint-Michel&code_postal=13005",
+        "osmId": "fr-education:0131441W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Ami",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.287157620035245,
+          5.381560280792709
+        ],
+        "website": "http://www.ganami.com",
+        "externalId": "0133555U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133555U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Ami&code_postal=13006",
+        "osmId": "fr-education:0133555U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Jean Perrin",
+        "address": "13395, Marseille",
+        "coordinates": [
+          43.27459669959619,
+          5.426499462063741
+        ],
+        "website": "http://www.lyc-perrin.ac-aix-marseille.fr",
+        "externalId": "0130053M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130053M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Jean%20Perrin&code_postal=13395",
+        "osmId": "fr-education:0130053M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée général et technologique ORT Léon Bramson",
+        "address": "13010, Marseille",
+        "coordinates": [
+          43.27906499945752,
+          5.410299748943632
+        ],
+        "website": "https://ort-france.fr/marseille",
+        "externalId": "0133334D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133334D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20g%C3%A9n%C3%A9ral%20et%20technologique%20ORT%20L%C3%A9on%20Bramson&code_postal=13010",
+        "osmId": "fr-education:0133334D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel ORT Léon Bramson",
+        "address": "13010, Marseille",
+        "coordinates": [
+          43.27906499945752,
+          5.410299748943632
+        ],
+        "website": "https://ort-france.fr/marseille",
+        "externalId": "0131424C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131424C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20ORT%20L%C3%A9on%20Bramson&code_postal=13010",
+        "osmId": "fr-education:0131424C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Maximilien de Sully",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.2921973414689,
+          5.3875196533808
+        ],
+        "website": "http://www.ltpsully.com",
+        "externalId": "0131398Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131398Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Maximilien%20de%20Sully&code_postal=13006",
+        "osmId": "fr-education:0131398Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Montgrand",
+        "address": "13291, Marseille",
+        "coordinates": [
+          43.291572692885865,
+          5.378339745555982
+        ],
+        "website": "http://www.lyc-montgrand-marseille.ac-aix-marseille.fr",
+        "externalId": "0130042A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130042A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Montgrand&code_postal=13291",
+        "osmId": "fr-education:0130042A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Belsunce",
+        "address": "13002, Marseille",
+        "coordinates": [
+          43.30443971920629,
+          5.371740430154394
+        ],
+        "website": "http://collegelyceebelsunce.fr/",
+        "externalId": "0133286B",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133286B&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Belsunce&code_postal=13002",
+        "osmId": "fr-education:0133286B",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Hamaskaïne",
+        "address": "13012, Marseille",
+        "coordinates": [
+          43.31487406153795,
+          5.441360062119766
+        ],
+        "website": "https://hamaskaine.org/",
+        "externalId": "0133446A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133446A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Hamaska%C3%AFne&code_postal=13012",
+        "osmId": "fr-education:0133446A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Charles",
+        "address": "13232, Marseille",
+        "coordinates": [
+          43.305892052603895,
+          5.392089487859632
+        ],
+        "website": "http://www.lyc-stcharles.ac-aix-marseille.fr",
+        "externalId": "0130039X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130039X&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Charles&code_postal=13232",
+        "osmId": "fr-education:0130039X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Camille Jullian",
+        "address": "13011, Marseille",
+        "coordinates": [
+          43.286101465311226,
+          5.477369266624509
+        ],
+        "website": "http://www.lyc-jullian.ac-aix-marseille.fr",
+        "externalId": "0130068D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130068D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Camille%20Jullian&code_postal=13011",
+        "osmId": "fr-education:0130068D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Charlotte Grawitz",
+        "address": "13013, Marseille",
+        "coordinates": [
+          43.33494597122075,
+          5.420750349442879
+        ],
+        "website": "http://www.provence-formation.fr/lycees/lycee-charlotte-grawitz",
+        "externalId": "0131445A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131445A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Charlotte%20Grawitz&code_postal=13013",
+        "osmId": "fr-education:0131445A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Ampère",
+        "address": "13010, Marseille",
+        "coordinates": [
+          43.2794385834048,
+          5.423170376037871
+        ],
+        "website": "http://www.lyc-ampere.ac-aix-marseille.fr",
+        "externalId": "0130072H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130072H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Amp%C3%A8re&code_postal=13010",
+        "osmId": "fr-education:0130072H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Phocea René Attoyan",
+        "address": "13006, Marseille",
+        "coordinates": [
+          43.28956140524956,
+          5.377269964765382
+        ],
+        "website": "http://www.lycee-rene-attoyan.com",
+        "externalId": "0131437S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131437S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Phocea%20Ren%C3%A9%20Attoyan&code_postal=13006",
+        "osmId": "fr-education:0131437S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent privé Saint-Louis",
+        "address": "13015, Marseille",
+        "coordinates": [
+          43.34696856228714,
+          5.355397620915075
+        ],
+        "website": "https://www.stlouis-marseille.fr/",
+        "externalId": "0134101M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0134101M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20priv%C3%A9%20Saint-Louis&code_postal=13015",
+        "osmId": "fr-education:0134101M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Victor Hugo",
+        "address": "13003, Marseille",
+        "coordinates": [
+          43.30495718760559,
+          5.380052774087543
+        ],
+        "website": "http://www.lyc-hugo-marseille.ac-aix-marseille.fr",
+        "externalId": "0130043B",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130043B&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Victor%20Hugo&code_postal=13003",
+        "osmId": "fr-education:0130043B",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Thiers",
+        "address": "13232, Marseille",
+        "coordinates": [
+          43.296854155506374,
+          5.382610144906995
+        ],
+        "website": "http://www.lyc-thiers.ac-aix-marseille.fr/spip/",
+        "externalId": "0130040Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130040Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Thiers&code_postal=13232",
+        "osmId": "fr-education:0130040Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Germaine Poinso-Chapuis",
+        "address": "13272, Marseille",
+        "coordinates": [
+          43.24201991878422,
+          5.381019647319131
+        ],
+        "website": "http://www.lyc-poinsochapuis.ac-aix-marseille.fr",
+        "externalId": "0130054N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130054N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Germaine%20Poinso-Chapuis&code_postal=13272",
+        "osmId": "fr-education:0130054N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée régional César Baldaccini (anciennement lycée du Rempart)",
+        "address": "13007, Marseille",
+        "coordinates": [
+          43.28895261589586,
+          5.365189974271439
+        ],
+        "website": "http://www.lyc-rempart.ac-aix-marseille.fr/",
+        "externalId": "0130049H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130049H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20r%C3%A9gional%20C%C3%A9sar%20Baldaccini%20(anciennement%20lyc%C3%A9e%20du%20Rempart)&code_postal=13007",
+        "osmId": "fr-education:0130049H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:48.291Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ],
+    "universities": [
+      {
+        "name": "Institut supérieur du bâtiment et des travaux publics",
+        "address": "11 avenue de Luminy, 13009, Marseille",
+        "coordinates": [
+          43.247519881264544,
+          5.437304377555848
+        ],
+        "website": "https://www.isba.fr/",
+        "osmId": "fr-esr:UU00759",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:31.291Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Centrale Méditerranée",
+        "address": "38 rue Frédéric-Joliot-Curie, 13451, Marseille CEDEX 13",
+        "coordinates": [
+          43.34136,
+          5.43829
+        ],
+        "website": "https://www.centrale-mediterranee.fr/fr",
+        "osmId": "fr-esr:UU00759",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:31.291Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Sciences Po Aix",
+        "address": "25 rue Gaston de Saporta, 13625, Aix-en-Provence CEDEX 1",
+        "coordinates": [
+          43.53146,
+          5.44663
+        ],
+        "website": "http://www.sciencespo-aix.fr/",
+        "osmId": "fr-esr:UU00759",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:31.291Z",
+        "type": "Autre établissement",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Aix-Marseille Université",
+        "address": "58 boulevard Charles Livon, 13284, Marseille CEDEX 07",
+        "coordinates": [
+          43.2935,
+          5.35781
+        ],
+        "website": "https://www.univ-amu.fr/",
+        "osmId": "fr-esr:UU00759",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:31.291Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      }
+    ],
+    "internationalHighSchools": [
+      {
+        "name": "Lycée Marseilleveyre",
+        "address": "13285, Marseille",
+        "coordinates": [
+          43.23883962245833,
+          5.377749616457136
+        ],
+        "website": "http://www.lyc-marseilleveyre.ac-aix-marseille.fr",
+        "externalId": "0130038W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130038W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Marseilleveyre&code_postal=13285",
+        "osmId": "fr-education:0130038W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:33.837Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée cité internationale Jacques Chirac",
+        "address": "13002, Marseille",
+        "coordinates": [
+          43.315272976099386,
+          5.367337387272287
+        ],
+        "website": "https://www.site.ac-aix-marseille.fr/lyc-chirac/spip/-Le-lycee-",
+        "externalId": "0134472R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0134472R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20cit%C3%A9%20internationale%20Jacques%20Chirac&code_postal=13002",
+        "osmId": "fr-education:0134472R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:33.837Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Charles",
+        "address": "13232, Marseille",
+        "coordinates": [
+          43.305892052603895,
+          5.392089487859632
+        ],
+        "website": "http://www.lyc-stcharles.ac-aix-marseille.fr",
+        "externalId": "0130039X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130039X&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Charles&code_postal=13232",
+        "osmId": "fr-education:0130039X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:33.837Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ]
+  },
+  "culture": {
+    "museums": [
+      {
+        "name": "musée d'archéologie méditerranéenne",
+        "address": "2 r. de la Charité, 13002 Marseille 2e Arrondissement",
+        "coordinates": [
+          43.300135,
+          5.367791
+        ],
+        "website": null,
+        "externalId": "M0919",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20d'arch%C3%A9ologie%20m%C3%A9diterran%C3%A9enne",
+        "osmId": "fr-culture:M0919",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "muséum d'histoire naturelle",
+        "address": "7 r. Edouard Stephan, 13004 Marseille 4e Arrondissement",
+        "coordinates": [
+          43.3049741560171,
+          5.39595209614794
+        ],
+        "website": null,
+        "externalId": "M7044",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9um%20d'histoire%20naturelle",
+        "osmId": "fr-culture:M7044",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "Cabinet des Monnaies Et Médailles de Marseille",
+        "address": "10 r. Clovis Hugues Archives Municipales Palais des Beaux-Arts, 13006 Marseille 6e Arrondissement",
+        "coordinates": [
+          43.308966,
+          5.386972
+        ],
+        "website": null,
+        "externalId": "1305506",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Cabinet%20des%20Monnaies%20Et%20M%C3%A9dailles%20de%20Marseille",
+        "osmId": "fr-culture:1305506",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des arts décoratifs, de la faïence et de la mode",
+        "address": "143 av. Clot-Bey, 13008 Marseille 8e Arrondissement",
+        "coordinates": [
+          43.2565177104902,
+          5.3820732845862
+        ],
+        "website": null,
+        "externalId": "M0914",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20arts%20d%C3%A9coratifs%2C%20de%20la%20fa%C3%AFence%20et%20de%20la%20mode",
+        "osmId": "fr-culture:M0914",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des civilisations de l'Europe et de la méditerranée",
+        "address": "1 espl. J4 7 prm. Robert Laffont, 13002 Marseille 2e Arrondissement",
+        "coordinates": [
+          43.2969049104056,
+          5.36107176932487
+        ],
+        "website": null,
+        "externalId": "M5002",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20civilisations%20de%20l'Europe%20et%20de%20la%20m%C3%A9diterran%C3%A9e",
+        "osmId": "fr-culture:M5002",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "Musée des Civilisations de L'europe Et de La Méditerranée",
+        "address": "7 prm. Robert Laffont, 13002 Marseille 2e Arrondissement",
+        "coordinates": [
+          43.2985256308126,
+          5.36302850385701
+        ],
+        "website": null,
+        "externalId": "1320201",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Mus%C3%A9e%20des%20Civilisations%20de%20L'europe%20Et%20de%20La%20M%C3%A9diterran%C3%A9e",
+        "osmId": "fr-culture:1320201",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "Musée des Beaux-Arts de Marseille",
+        "address": "Palais Longchamp Aile Gauche, 13004 Marseille 4e Arrondissement",
+        "coordinates": [
+          43.3049741560171,
+          5.39595209614794
+        ],
+        "website": null,
+        "externalId": "1320401",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Mus%C3%A9e%20des%20Beaux-Arts%20de%20Marseille",
+        "osmId": "fr-culture:1320401",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des beaux-arts",
+        "address": "9 r. Edouard Stephan, 13004 Marseille 4e Arrondissement",
+        "coordinates": [
+          43.3047186378766,
+          5.39404145768414
+        ],
+        "website": null,
+        "externalId": "M0913",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20beaux-arts",
+        "osmId": "fr-culture:M0913",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des docks romains",
+        "address": "28 pl. Vivaux, 13002 Marseille 2e Arrondissement",
+        "coordinates": [
+          43.2965170562418,
+          5.36831706514178
+        ],
+        "website": null,
+        "externalId": "M0916",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20docks%20romains",
+        "osmId": "fr-culture:M0916",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée Grobet-Labadié",
+        "address": "140 bd Lonchamp, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.3032379803193,
+          5.39304825564449
+        ],
+        "website": null,
+        "externalId": "M0917",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Grobet-Labadi%C3%A9",
+        "osmId": "fr-culture:M0917",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée Cantini",
+        "address": "19 r. Grignan, 13006 Marseille 6e Arrondissement",
+        "coordinates": [
+          43.2921482893177,
+          5.37823264491506
+        ],
+        "website": null,
+        "externalId": "M0915",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Cantini",
+        "osmId": "fr-culture:M0915",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des arts africains, océaniens, amérindiens",
+        "address": "2 r. de la Charité, 13002 Marseille 2e Arrondissement",
+        "coordinates": [
+          43.300135,
+          5.367791
+        ],
+        "website": null,
+        "externalId": "M0920",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20arts%20africains%2C%20oc%C3%A9aniens%2C%20am%C3%A9rindiens",
+        "osmId": "fr-culture:M0920",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "cabinet des monnaies et médailles",
+        "address": "1 pl. Carli, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.295789,
+          5.383313
+        ],
+        "website": null,
+        "externalId": "M0912",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=cabinet%20des%20monnaies%20et%20m%C3%A9dailles",
+        "osmId": "fr-culture:M0912",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "MICRO-FOLIE MARSEILLE LA FABULERIE",
+        "address": "la Fabulerie (tiers-Lieu), 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.296977,
+          5.380978
+        ],
+        "website": null,
+        "externalId": "5596758520",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MICRO-FOLIE%20MARSEILLE%20LA%20FABULERIE",
+        "osmId": "fr-culture:5596758520",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:51.416Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Microfolie"
+      }
+    ],
+    "theaters": [
+      {
+        "name": "Friche la Belle de Mai",
+        "address": "41 r. Jobin, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.3097311967035,
+          5.39070493721799
+        ],
+        "website": null,
+        "externalId": "ORG003005",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Friche%20la%20Belle%20de%20Mai",
+        "osmId": "fr-culture:ORG003005",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Théâtre hors label",
+        "theaterSeats": "522",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Compagnie Aurige Théâtre / Théâtre Les Argonautes",
+        "address": "33 bd Longchamp, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.3014813661409,
+          5.38825655049088
+        ],
+        "website": null,
+        "externalId": "ORG004058",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Compagnie%20Aurige%20Th%C3%A9%C3%A2tre%20%2F%20Th%C3%A9%C3%A2tre%20Les%20Argonautes",
+        "osmId": "fr-culture:ORG004058",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "50",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Badaboum Théâtre",
+        "address": "16 q. de Rive-Neuve, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.29300431671,
+          5.37064787712103
+        ],
+        "website": null,
+        "externalId": "ORG003982",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Badaboum%20Th%C3%A9%C3%A2tre",
+        "osmId": "fr-culture:ORG003982",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "100",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre du Gymnase-Bernardines",
+        "address": "4 r. du Théâtre Français, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.2974097777305,
+          5.38204585839291
+        ],
+        "website": null,
+        "externalId": "ORG003159",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20du%20Gymnase-Bernardines",
+        "osmId": "fr-culture:ORG003159",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "695",
+        "theaterOrganism": null
+      },
+      {
+        "name": "R de la Mer / Compagnie Théâtre de la Mer",
+        "address": "53 r. de la Joliette, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.3026658213675,
+          5.37096136503985
+        ],
+        "website": null,
+        "externalId": "ORG004048",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=R%20de%20la%20Mer%20%2F%20Compagnie%20Th%C3%A9%C3%A2tre%20de%20la%20Mer",
+        "osmId": "fr-culture:ORG004048",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": null,
+        "theaterOrganism": null
+      },
+      {
+        "name": "Compagnie Richard Martin / Théâtre Toursky international",
+        "address": "16 pass. Léo Ferré, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.3155103682191,
+          5.37796970420077
+        ],
+        "website": null,
+        "externalId": "ORG004082",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Compagnie%20Richard%20Martin%20%2F%20Th%C3%A9%C3%A2tre%20Toursky%20international",
+        "osmId": "fr-culture:ORG004082",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "1742",
+        "theaterOrganism": null
+      },
+      {
+        "name": "ZimZam",
+        "address": "9 r. Vian, 13006 Marseille 6e Arrondissement",
+        "coordinates": [
+          43.294518,
+          5.383865
+        ],
+        "website": null,
+        "externalId": "ORG004290",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=ZimZam",
+        "osmId": "fr-culture:ORG004290",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Théâtre hors label",
+        "theaterSeats": null,
+        "theaterOrganism": "ZimZam"
+      },
+      {
+        "name": "Théâtre du Gymnase-Bernardines - Les Bernardines",
+        "address": "17 bd Garibaldi, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.2967517778075,
+          5.38141011591089
+        ],
+        "website": null,
+        "externalId": "ORG003159-EQU000363",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20du%20Gymnase-Bernardines%20-%20Les%20Bernardines",
+        "osmId": "fr-culture:ORG003159-EQU000363",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "98",
+        "theaterOrganism": "Théâtre du Gymnase-Bernardines"
+      },
+      {
+        "name": "Théâtre de l'Odéon",
+        "address": "162 la Canebière, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.2980020959375,
+          5.384733184946
+        ],
+        "website": null,
+        "externalId": "ORG003348",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20de%20l'Od%C3%A9on",
+        "osmId": "fr-culture:ORG003348",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "774",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Compagnie de la Cité / Théâtre La Cité",
+        "address": "54 r. Edmond Rostand, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.2864317046899,
+          5.38103174231617
+        ],
+        "website": null,
+        "externalId": "ORG003992",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Compagnie%20de%20la%20Cit%C3%A9%20%2F%20Th%C3%A9%C3%A2tre%20La%20Cit%C3%A9",
+        "osmId": "fr-culture:ORG003992",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:53.870Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "74",
+        "theaterOrganism": null
+      }
+    ],
+    "cinemas": [
+      {
+        "name": "LES VARIETES",
+        "address": "37 r. Vincent Scotto, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.297447,
+          5.379767
+        ],
+        "website": null,
+        "externalId": "249791",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=LES%20VARIETES",
+        "osmId": "fr-culture:249791",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Art et essai",
+        "screens": "7",
+        "seats": "565",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CESAR",
+        "address": "4 pl. Castellane, 13006 Marseille 6e Arrondissement",
+        "coordinates": [
+          43.28624,
+          5.383262
+        ],
+        "website": null,
+        "externalId": "249563",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CESAR",
+        "osmId": "fr-culture:249563",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Art et essai",
+        "screens": "3",
+        "seats": "458",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CHAMBORD",
+        "address": "283 av. du Prado, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.273044,
+          5.391418
+        ],
+        "website": null,
+        "externalId": "249581",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CHAMBORD",
+        "osmId": "fr-culture:249581",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": null,
+        "screens": "4",
+        "seats": "460",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "ARTPLEXE",
+        "address": "sq. Léon Blum, 13001 Marseille 1er Arrondissement",
+        "coordinates": [
+          43.298607,
+          5.383105
+        ],
+        "website": null,
+        "externalId": "723920",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=ARTPLEXE",
+        "osmId": "fr-culture:723920",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": null,
+        "screens": "7",
+        "seats": "824",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "MUCEM",
+        "address": "7 prm. Robert Laffont, 13002 Marseille 2e Arrondissement",
+        "coordinates": [
+          43.297725,
+          5.360374
+        ],
+        "website": null,
+        "externalId": "722240",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MUCEM",
+        "osmId": "fr-culture:722240",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": null,
+        "screens": "1",
+        "seats": "263",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "GYPTIS",
+        "address": "136 r. Loubon, 13003 Marseille 3e Arrondissement",
+        "coordinates": [
+          43.312724,
+          5.384422
+        ],
+        "website": null,
+        "externalId": "250412",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=GYPTIS",
+        "osmId": "fr-culture:250412",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "230",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "PRADO",
+        "address": "36 av. du Prado, 13006 Marseille 6e Arrondissement",
+        "coordinates": [
+          43.28385,
+          5.384511
+        ],
+        "website": null,
+        "externalId": "249441",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=PRADO",
+        "osmId": "fr-culture:249441",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": null,
+        "screens": "11",
+        "seats": "1433",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "LA BALEINE",
+        "address": "59 crs. Julien, 13006 Marseille 6e Arrondissement",
+        "coordinates": [
+          43.2936968,
+          5.383868200000052
+        ],
+        "website": null,
+        "externalId": "723560",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=LA%20BALEINE",
+        "osmId": "fr-culture:723560",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "89",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "PATHE MADELEINE",
+        "address": "36 av. du Marechal Foch, 13004 Marseille 4e Arrondissement",
+        "coordinates": [
+          43.300347,
+          5.399852
+        ],
+        "website": null,
+        "externalId": "249471",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=PATHE%20MADELEINE",
+        "osmId": "fr-culture:249471",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:52.638Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": null,
+        "screens": "8",
+        "seats": "1358",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      }
+    ],
+    "operas": []
+  },
+  "transportation": {
+    "internationalFlights": 12,
+    "transitScore": 8.5,
+    "distanceToParisWithCar": 13,
+    "distanceToParisWithTrain": 3.2,
+    "distanceToLyonWithCar": 5.3,
+    "distanceToLyonWithTrain": 2.8
+  },
+  "geography": {
+    "hikes": [
+      {
+        "name": "Sentier Imoucha",
+        "description": "Sentier Imoucha (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 5.5,
+        "difficulty": null,
+        "externalId": 1475161,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/1475161",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du Cap Canaille",
+        "description": "Sentier du Cap Canaille (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 8.5,
+        "difficulty": null,
+        "externalId": 2669775,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2669775",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Petit Prince",
+        "description": "Petit Prince (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.7,
+        "difficulty": null,
+        "externalId": 2681018,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2681018",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de Grande Randonnée 98",
+        "description": "Sentier de Grande Randonnée 98 (nwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 62.4,
+        "difficulty": null,
+        "externalId": 2681053,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2681053",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Douanier",
+        "description": "Sentier des Douanier (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 8.4,
+        "difficulty": null,
+        "externalId": 3004839,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3004839",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le fort de Niolon",
+        "description": "Le fort de Niolon (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4.2,
+        "difficulty": null,
+        "externalId": 4121748,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4121748",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du pas de la Savonette",
+        "description": "Sentier du pas de la Savonette (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.3,
+        "difficulty": null,
+        "externalId": 6105191,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6105191",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du pas du moine",
+        "description": "Sentier du pas du moine (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.3,
+        "difficulty": null,
+        "externalId": 6105192,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6105192",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "(Sentier marron)",
+        "description": "(Sentier marron) (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 7.7,
+        "difficulty": null,
+        "externalId": 6105302,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6105302",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des deux aiguilles",
+        "description": "Sentier des deux aiguilles (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.9,
+        "difficulty": null,
+        "externalId": 6105306,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6105306",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du pas du Clapier",
+        "description": "Sentier du pas du Clapier (hiking)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 6174829,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6174829",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Via Aurelia, Aix - Salon de Provence",
+        "description": "Via Aurelia, Aix - Salon de Provence (iwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 40.6,
+        "difficulty": null,
+        "externalId": 8298777,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8298777",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Via Aurelia, St Maximin - Aix",
+        "description": "Via Aurelia, St Maximin - Aix (iwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 47.2,
+        "difficulty": null,
+        "externalId": 8300047,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8300047",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier patrimonial de la Pointe Grenier",
+        "description": "Sentier patrimonial de la Pointe Grenier (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 9336882,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9336882",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du littoral",
+        "description": "Sentier du littoral (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 9.9,
+        "difficulty": null,
+        "externalId": 9354083,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9354083",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Engraviers",
+        "description": "Sentier des Engraviers (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 9369812,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9369812",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de grande randonnée 2013",
+        "description": "Sentier de grande randonnée 2013 (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 336.3,
+        "difficulty": null,
+        "externalId": 9382806,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9382806",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Regagnas",
+        "description": "Le Regagnas (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.4,
+        "difficulty": null,
+        "externalId": 9505047,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9505047",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les moulins",
+        "description": "Les moulins (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3.7,
+        "difficulty": null,
+        "externalId": 9505305,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9505305",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre Aurélien et Regagnas",
+        "description": "Entre Aurélien et Regagnas (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 13.9,
+        "difficulty": null,
+        "externalId": 9506033,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9506033",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le mont Julien",
+        "description": "Le mont Julien (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3.4,
+        "difficulty": null,
+        "externalId": 9509772,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9509772",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La grotte des fées",
+        "description": "La grotte des fées (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 9509773,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9509773",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le mont du Marseillais",
+        "description": "Le mont du Marseillais (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 7.2,
+        "difficulty": null,
+        "externalId": 9512858,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9512858",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Mer et colline Valestéloué",
+        "description": "Mer et colline Valestéloué (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 14.5,
+        "difficulty": null,
+        "externalId": 9546944,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9546944",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du pas de l'Escalette",
+        "description": "Sentier du pas de l'Escalette (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 9594190,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9594190",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin des Venturiers",
+        "description": "Chemin des Venturiers (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4.8,
+        "difficulty": null,
+        "externalId": 9598803,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9598803",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Bastide neuve - Tête ronde - Pas du loup",
+        "description": "La Bastide neuve - Tête ronde - Pas du loup (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.2,
+        "difficulty": null,
+        "externalId": 9599115,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9599115",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Saint-Pons - Col de Brest",
+        "description": "Saint-Pons - Col de Brest (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.3,
+        "difficulty": null,
+        "externalId": 9642336,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9642336",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle des Bergers",
+        "description": "Boucle des Bergers (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 9820164,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820164",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de la Bastidonne",
+        "description": "Boucle de la Bastidonne (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 9820249,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820249",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de l'Etoile",
+        "description": "Boucle de l'Etoile (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 9820252,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820252",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle du Château de Ners",
+        "description": "Boucle du Château de Ners (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 5.4,
+        "difficulty": null,
+        "externalId": 9820253,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820253",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle des Grands Ubacs",
+        "description": "Boucle des Grands Ubacs (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 13,
+        "difficulty": null,
+        "externalId": 9820254,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820254",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Grand Sentier de la Côte Bleue",
+        "description": "Grand Sentier de la Côte Bleue (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 57.4,
+        "difficulty": null,
+        "externalId": 9844195,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9844195",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle des Bourgailles Caucarières",
+        "description": "Boucle des Bourgailles Caucarières (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4.2,
+        "difficulty": null,
+        "externalId": 9846944,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9846944",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Grand Vallat - Littoral",
+        "description": "Grand Vallat - Littoral (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4.9,
+        "difficulty": null,
+        "externalId": 9847166,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9847166",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre calanques et collines",
+        "description": "Entre calanques et collines (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 12.4,
+        "difficulty": null,
+        "externalId": 9848848,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9848848",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Tour du Romaron",
+        "description": "Le Tour du Romaron (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 7.3,
+        "difficulty": null,
+        "externalId": 9848967,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9848967",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Vallon de Jaume par les Grottes",
+        "description": "Le Vallon de Jaume par les Grottes (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 7.5,
+        "difficulty": null,
+        "externalId": 9849960,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9849960",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La calanque des Eaux Salées",
+        "description": "La calanque des Eaux Salées (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.1,
+        "difficulty": null,
+        "externalId": 9853478,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9853478",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle \"Notre-Dame-du-Rouet et la plaine du Bon Jean\"",
+        "description": "Boucle \"Notre-Dame-du-Rouet et la plaine du Bon Jean\" (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 10.8,
+        "difficulty": null,
+        "externalId": 9853891,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9853891",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Mer et Pinéde Valapoux",
+        "description": "Mer et Pinéde Valapoux (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 6.6,
+        "difficulty": null,
+        "externalId": 9858786,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9858786",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier botanique Roselière",
+        "description": "Sentier botanique Roselière (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.1,
+        "difficulty": null,
+        "externalId": 9859075,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9859075",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La boucle du Cap Couronne",
+        "description": "La boucle du Cap Couronne (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 24,
+        "difficulty": null,
+        "externalId": 9859319,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9859319",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier botanique de la plaine de Carro",
+        "description": "Sentier botanique de la plaine de Carro (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3.9,
+        "difficulty": null,
+        "externalId": 9865898,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9865898",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de Boumandariel",
+        "description": "Boucle de Boumandariel (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 5.7,
+        "difficulty": null,
+        "externalId": 9866178,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9866178",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les carrières de pierre de La Couronne",
+        "description": "Les carrières de pierre de La Couronne (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 11.6,
+        "difficulty": null,
+        "externalId": 9866419,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9866419",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Vestiges Militaires",
+        "description": "Vestiges Militaires (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 10,
+        "difficulty": null,
+        "externalId": 9867853,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9867853",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de Figuerolles",
+        "description": "Boucle de Figuerolles (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 6,
+        "difficulty": null,
+        "externalId": 9882161,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9882161",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Tours Gros",
+        "description": "Les Tours Gros (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 6.5,
+        "difficulty": null,
+        "externalId": 9899688,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9899688",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Forêt de Castillon Etangs de Pourra et d’Engrenier",
+        "description": "Forêt de Castillon Etangs de Pourra et d’Engrenier (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 6.1,
+        "difficulty": null,
+        "externalId": 9899847,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9899847",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du Crépon aux Rocalèdes",
+        "description": "Du Crépon aux Rocalèdes (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 6.1,
+        "difficulty": null,
+        "externalId": 9902510,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9902510",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La randonnée des amis",
+        "description": "La randonnée des amis (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 9.1,
+        "difficulty": null,
+        "externalId": 9903858,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9903858",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le balcon du Caderaou",
+        "description": "Le balcon du Caderaou (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 12.4,
+        "difficulty": null,
+        "externalId": 9904563,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9904563",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre mer et étangs",
+        "description": "Entre mer et étangs (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 38.7,
+        "difficulty": null,
+        "externalId": 9904672,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9904672",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du littoral Martégal",
+        "description": "Sentier du littoral Martégal (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 10.4,
+        "difficulty": null,
+        "externalId": 9905807,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9905807",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Presqu’ile - Le sentier du littoral",
+        "description": "La Presqu’ile - Le sentier du littoral (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4.2,
+        "difficulty": null,
+        "externalId": 9906998,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9906998",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Destrousse - Mont du Marseillais",
+        "description": "La Destrousse - Mont du Marseillais (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.8,
+        "difficulty": null,
+        "externalId": 9950258,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9950258",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de grande randonnée 9A",
+        "description": "Sentier de grande randonnée 9A (nwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 12.7,
+        "difficulty": null,
+        "externalId": 10385031,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10385031",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "yellow",
+        "description": "yellow (hiking)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 5.3,
+        "difficulty": null,
+        "externalId": 12316231,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12316231",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Variante GRP évitant le Mont du Marseillais",
+        "description": "Variante GRP évitant le Mont du Marseillais (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.9,
+        "difficulty": null,
+        "externalId": 12466134,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12466134",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "jaune",
+        "description": "jaune (hiking)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3.3,
+        "difficulty": null,
+        "externalId": 12466135,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12466135",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Promenade du Canal Saint Julien",
+        "description": "Promenade du Canal Saint Julien (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.7,
+        "difficulty": null,
+        "externalId": 12544853,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12544853",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Castellane à la Bonne Mère par les Traviolles",
+        "description": "De Castellane à la Bonne Mère par les Traviolles (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.5,
+        "difficulty": null,
+        "externalId": 12745977,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12745977",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin pastoral de Aix-en-Provence à Rians",
+        "description": "Chemin pastoral de Aix-en-Provence à Rians (hiking)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 37.8,
+        "difficulty": null,
+        "externalId": 14034518,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14034518",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Forcioli",
+        "description": "Sentier Forcioli (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 14176210,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14176210",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Aix à Saint-Jurs",
+        "description": "De Aix à Saint-Jurs (nwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 118.1,
+        "difficulty": null,
+        "externalId": 14234325,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14234325",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le grand couloir",
+        "description": "Le grand couloir (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 14606091,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14606091",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Baudino",
+        "description": "Sentier Baudino (hiking)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.8,
+        "difficulty": null,
+        "externalId": 14606092,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14606092",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du vallon Gentil",
+        "description": "Sentier du vallon Gentil (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 14606093,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14606093",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Pierre Tchernia",
+        "description": "Sentier Pierre Tchernia (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 14607645,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14607645",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Gréasque au poteau ET-31",
+        "description": "De Gréasque au poteau ET-31 (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 15897244,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15897244",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET-34 au poteau ET x1",
+        "description": "Du poteau ET-34 au poteau ET x1 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 15897711,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15897711",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Belcodène au poteau RE 09",
+        "description": "De Belcodène au poteau RE 09 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3.4,
+        "difficulty": null,
+        "externalId": 15897826,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15897826",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 24 à Auriol",
+        "description": "Du poteau RE 24 à Auriol (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4.7,
+        "difficulty": null,
+        "externalId": 15898997,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15898997",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Auriol à La Destrousse",
+        "description": "De Auriol à La Destrousse (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 5.2,
+        "difficulty": null,
+        "externalId": 15899842,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15899842",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De La Destrousse à Peypin",
+        "description": "De La Destrousse à Peypin (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.9,
+        "difficulty": null,
+        "externalId": 15901175,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15901175",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Peypin au poteau GB-57",
+        "description": "De Peypin au poteau GB-57 (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4.9,
+        "difficulty": null,
+        "externalId": 15901790,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15901790",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du Mont du Marseillais au poteau GB-71",
+        "description": "Du Mont du Marseillais au poteau GB-71 (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 6.5,
+        "difficulty": null,
+        "externalId": 15901909,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15901909",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB-39 au Mont du Marseillais",
+        "description": "Du poteau GB-39 au Mont du Marseillais (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1,
+        "difficulty": null,
+        "externalId": 15902409,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15902409",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB-73 au Poteau ET 03",
+        "description": "Du poteau GB-73 au Poteau ET 03 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.7,
+        "difficulty": null,
+        "externalId": 15902957,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15902957",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 02 au poteau ET 30",
+        "description": "Du poteau ET 02 au poteau ET 30 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 5,
+        "difficulty": null,
+        "externalId": 15902963,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15902963",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 08 à Mimet",
+        "description": "Du poteau ET 08 à Mimet (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 15903339,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15903339",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Mimet au poteau ET 39",
+        "description": "De Mimet au poteau ET 39 (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.9,
+        "difficulty": null,
+        "externalId": 15903340,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15903340",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du Poteau ET 39 à Gréasque",
+        "description": "Du Poteau ET 39 à Gréasque (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3.9,
+        "difficulty": null,
+        "externalId": 15903341,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15903341",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Trets à Peynier",
+        "description": "Trets à Peynier (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 5.7,
+        "difficulty": null,
+        "externalId": 15908092,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15908092",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Peynier au poteau RE 01",
+        "description": "De Peynier au poteau RE 01 (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 15908189,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15908189",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Des Michels au poteau ET 37",
+        "description": "Des Michels au poteau ET 37 (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4,
+        "difficulty": null,
+        "externalId": 15909411,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15909411",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 32 au poteau ET-36",
+        "description": "Du poteau ET 32 au poteau ET-36 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 15909494,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15909494",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 36 à Meyreuil",
+        "description": "Du poteau ET 36 à Meyreuil (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 12.6,
+        "difficulty": null,
+        "externalId": 15913434,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15913434",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Meyreuil à Gardanne",
+        "description": "De Meyreuil à Gardanne (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 9.4,
+        "difficulty": null,
+        "externalId": 15916243,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15916243",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Gardanne au Poteau ET 11",
+        "description": "De Gardanne au Poteau ET 11 (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 9.9,
+        "difficulty": null,
+        "externalId": 15917394,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15917394",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 32 au poteau ET 33",
+        "description": "Du poteau ET 32 au poteau ET 33 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3.2,
+        "difficulty": null,
+        "externalId": 16054358,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16054358",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 33 au poteau ET 34",
+        "description": "Du poteau ET 33 au poteau ET 34 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 16054407,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16054407",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 09 au poteau RE 10",
+        "description": "Du poteau RE 09 au poteau RE 10 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3.3,
+        "difficulty": null,
+        "externalId": 16054737,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16054737",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 10 au poteau RE 24",
+        "description": "Du poteau RE 10 au poteau RE 24 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.4,
+        "difficulty": null,
+        "externalId": 16055175,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16055175",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB 39 au poteau GB 57",
+        "description": "Du poteau GB 39 au poteau GB 57 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.1,
+        "difficulty": null,
+        "externalId": 16055643,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16055643",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB 71 au poteau GB 72",
+        "description": "Du poteau GB 71 au poteau GB 72 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.4,
+        "difficulty": null,
+        "externalId": 16058140,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16058140",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB 72 au poteau GB 73",
+        "description": "Du poteau GB 72 au poteau GB 73 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 16058151,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16058151",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 02 au poteau ET 03",
+        "description": "Du poteau ET 02 au poteau ET 03 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 16058239,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16058239",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du Poteau ET 07 au poteau ET 08",
+        "description": "Du Poteau ET 07 au poteau ET 08 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.1,
+        "difficulty": null,
+        "externalId": 16058439,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16058439",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 36 au poteau ET 37",
+        "description": "Du poteau ET 36 au poteau ET 37 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 16061275,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061275",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 11 à Mimet",
+        "description": "Du poteau ET 11 à Mimet (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.8,
+        "difficulty": null,
+        "externalId": 16061687,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061687",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 10 au poteau RE 12",
+        "description": "Du poteau RE 10 au poteau RE 12 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.5,
+        "difficulty": null,
+        "externalId": 16061771,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061771",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 01 au poteau RE 02",
+        "description": "Du poteau RE 01 au poteau RE 02 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 16061892,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061892",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 02 aux Michels",
+        "description": "Du poteau RE 02 aux Michels (rwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 3,
+        "difficulty": null,
+        "externalId": 16061893,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061893",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Encanaux de 15 Km",
+        "description": "Circuit des Encanaux de 15 Km (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 13.9,
+        "difficulty": null,
+        "externalId": 16126192,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16126192",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin des énergies",
+        "description": "Chemin des énergies (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.5,
+        "difficulty": null,
+        "externalId": 16192579,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16192579",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 31 au poteau ET 32",
+        "description": "Du poteau ET 31 au poteau ET 32 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 1.1,
+        "difficulty": null,
+        "externalId": 16203947,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16203947",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 30 au poteau ET 33",
+        "description": "Du poteau ET 30 au poteau ET 33 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.3,
+        "difficulty": null,
+        "externalId": 16204005,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16204005",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 30 au poteau ET 31",
+        "description": "Du poteau ET 30 au poteau ET 31 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.4,
+        "difficulty": null,
+        "externalId": 16204006,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16204006",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 07 au poteau ET 30",
+        "description": "Du poteau ET 07 au poteau ET 30 (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 2.8,
+        "difficulty": null,
+        "externalId": 16216038,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16216038",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE ?? à Belcodéne",
+        "description": "Du poteau RE ?? à Belcodéne (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 4.1,
+        "difficulty": null,
+        "externalId": 16230597,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16230597",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Crêtes",
+        "description": "Circuit des Crêtes (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 9.3,
+        "difficulty": null,
+        "externalId": 17251442,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17251442",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Noir 3a",
+        "description": "Noir 3a (hiking)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.1,
+        "difficulty": null,
+        "externalId": 18357227,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18357227",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Lys de Sable",
+        "description": "Sentier des Lys de Sable (hiking)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 18465848,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18465848",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pas du Loup - Taoumé",
+        "description": "Pas du Loup - Taoumé (lwn)",
+        "coordinates": [
+          43.2961743,
+          5.3699525
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 19354478,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19354478",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "hikesTotalLength": 1227.2
+  },
+  "housing": {
+    "avgSellPricePerM2": 5385,
+    "avgRentPricePerM2": 15
+  },
+  "qualityOfLife": {
+    "crimeRate": 3.5,
+    "greenSpaces": 7.5,
+    "airQuality": 7.8,
+    "costOfLife": 6.5,
+    "liveabilityScore": 7.8,
+    "healthQuality": 7.8
+  },
+  "images": [
+    {
+      "url": "https://images.pexels.com/photos/32572004/pexels-photo-32572004.jpeg?w=1200&h=400&fit=crop&crop=center",
+      "alt": "Scenic view of Fort Saint-Jean and Mucem with clear blue sky in Marseille, France.",
+      "photographer": "Yu Han Huang",
+      "isBanner": true
+    },
+    {
+      "url": "https://images.pexels.com/photos/8604911/pexels-photo-8604911.jpeg",
+      "alt": "Scenic view of Palais du Pharo in Marseille, France, by the Mediterranean Sea.",
+      "photographer": "Lauro Laureano",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28396322/pexels-photo-28396322.jpeg",
+      "alt": "A breathtaking aerial view of the rocky coastline in Calanques National Park, Marseille.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28396718/pexels-photo-28396718.jpeg",
+      "alt": "Stunning aerial view of the Calanques in Marseille, showcasing vibrant blue waters and rugged cliffs.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12003126/pexels-photo-12003126.jpeg",
+      "alt": "Stunning aerial view of the Calanque de Morgiou harbor in France with boats and rocky formations.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20121215/pexels-photo-20121215.jpeg",
+      "alt": "A panoramic view of Marseille's bustling harbor with sailboats and sunlight reflecting on the water.",
+      "photographer": "Nadine Ginzel",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28425809/pexels-photo-28425809.jpeg",
+      "alt": "Stunning coastal cliffs and clear blue waters in Marseille's Calanques.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/33182153/pexels-photo-33182153.jpeg",
+      "alt": "Majestic view of Château Borély surrounded by lush gardens in Marseille, France.",
+      "photographer": "Travel Photographer",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7882707/pexels-photo-7882707.jpeg",
+      "alt": "Breathtaking view of rocky coastline and blue Mediterranean Sea in Marseille, France.",
+      "photographer": "Djé Marseille",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15773540/pexels-photo-15773540.jpeg",
+      "alt": "A clear view of Marseille's Vieux Port and city skyline with people exploring the area.",
+      "photographer": "Ulrick Trappschuh",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28376144/pexels-photo-28376144.jpeg",
+      "alt": "Breathtaking view of Marseille's Calanques showcasing rugged cliffs and lush greenery under a clear blue sky.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11831575/pexels-photo-11831575.jpeg",
+      "alt": "Stunning landscape of Calanque de Sormiou with clear blue waters and rocky cliffs in southern France.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12003128/pexels-photo-12003128.jpeg",
+      "alt": "Scenic view of sailboats by rocky coastline in clear blue Mediterranean waters, France.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18671873/pexels-photo-18671873.jpeg",
+      "alt": "Palais du Pharo, Marseille's architectural gem, with sea view.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18671880/pexels-photo-18671880.jpeg",
+      "alt": "Captivating view of the historic fort and marina in Marseille, France under bright sunlight.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29571037/pexels-photo-29571037.jpeg",
+      "alt": "Breathtaking view of Cap Canaille and the rocky coast in Cassis, France under a clear blue sky.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/16574602/pexels-photo-16574602.jpeg",
+      "alt": "Coastal view of Palais du Pharo and Marseille's picturesque shoreline with tranquil sea and clear sky.",
+      "photographer": "Cynrar",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18706903/pexels-photo-18706903.jpeg",
+      "alt": "The Palais du Pharo in Marseille with a coastal view and scenic city backdrop.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30063728/pexels-photo-30063728.jpeg",
+      "alt": "Scenic view of Palais du Pharo in Marseille, France, surrounded by lush greenery and overlooking the sea.",
+      "photographer": "Lukas Lussi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18671882/pexels-photo-18671882.jpeg",
+      "alt": "Beautiful view of Marseille's coast featuring sailboats and the iconic Palais du Pharo.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7443974/pexels-photo-7443974.jpeg",
+      "alt": "Dramatic nighttime aerial view of La Cité du Vin and surrounding urban landscape in Bordeaux, France.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30063731/pexels-photo-30063731.jpeg",
+      "alt": "Elegant view of Palais du Pharo against a blue sky in Marseille, France.",
+      "photographer": "Lukas Lussi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9259054/pexels-photo-9259054.jpeg",
+      "alt": "Breathtaking view of the mountains and valleys near Marseille, France",
+      "photographer": "kifkif13 photos",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18671879/pexels-photo-18671879.jpeg",
+      "alt": "The stunning Palais du Pharo sits majestically above the Mediterranean in Marseille.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29803742/pexels-photo-29803742.jpeg",
+      "alt": "Couple and dog relaxing by the harbor with Marseille skyline.",
+      "photographer": "Quentin Guiot",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29803747/pexels-photo-29803747.jpeg",
+      "alt": "A vibrant scene of Marseille's harbor with yachts and the iconic Notre-Dame de la Garde Basilica.",
+      "photographer": "Quentin Guiot",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1275393/pexels-photo-1275393.jpeg",
+      "alt": "A hand holding a floating globe with a scenic Marseille backdrop, capturing adventure and exploration.",
+      "photographer": "Valentin Antonucci",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430269/pexels-photo-8430269.jpeg",
+      "alt": "A captivating aerial view of Lyon, France, showcasing the timeless architecture and scenic river.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2973323/pexels-photo-2973323.jpeg",
+      "alt": "View of a historic architectural building in Marseille, surrounded by lush trees on a sunny day.",
+      "photographer": "Shoeb Khan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/3651804/pexels-photo-3651804.jpeg",
+      "alt": "Beautiful historic facade of the Opera Municipal in Marseille captured in dawn's soft light.",
+      "photographer": "Luca Nardone",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2076720/pexels-photo-2076720.jpeg",
+      "alt": "Captivating urban roof structure showcasing modern glass design in Marseille, France.",
+      "photographer": "Maël  BALLAND",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2014460/pexels-photo-2014460.jpeg",
+      "alt": "Breathtaking view of snow-covered mountains in Chamonix, France, under a clear blue sky.",
+      "photographer": "Artem Lysenko",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9992774/pexels-photo-9992774.jpeg",
+      "alt": "Aerial shot of Marseille's dockside with serene waters and clear skies.",
+      "photographer": "Corentin HENRY",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/763699/pexels-photo-763699.jpeg",
+      "alt": "Breathtaking view of Marseille's rocky coastline with dynamic waves under a vivid sky.",
+      "photographer": "Sumit Shinde",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/3784139/pexels-photo-3784139.jpeg",
+      "alt": "Woman with backpack gazing at sailboats in Marseille harbor, Provence-Alpes-Côte d'Azur, France.",
+      "photographer": "Luca Nardone",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1074535/pexels-photo-1074535.jpeg",
+      "alt": "Man sits alone on a bench by the coastline in Marseille. Perfect blend of tranquil sea and sky.",
+      "photographer": "Bas Masseus",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30336099/pexels-photo-30336099.jpeg",
+      "alt": "Silhouette of a couple standing on a cliff with a stunning sunset over the sea in Marseille, France.",
+      "photographer": "Quentin Guiot",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29837796/pexels-photo-29837796.jpeg",
+      "alt": "Stunning view of lavender fields with mountains in Provence, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402918/pexels-photo-32402918.jpeg",
+      "alt": "A bustling fish market by the scenic Vieux-Port in Marseille, France, capturing local life and rustic charm.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402925/pexels-photo-32402925.jpeg",
+      "alt": "A tranquil morning view of Vieux-Port in Marseille with sailboats reflecting in the water.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402926/pexels-photo-32402926.jpeg",
+      "alt": "Panoramic view of boats docked in Marseille harbor under clear skies.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402924/pexels-photo-32402924.jpeg",
+      "alt": "Charming view of boats in Marseille's vibrant Old Port with warm morning light and historic architecture.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402927/pexels-photo-32402927.jpeg",
+      "alt": "Fisherman working at Marseille's Vieux Port with boats and cityscape in the background.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20081299/pexels-photo-20081299.jpeg",
+      "alt": "Picturesque scene of yachts at Marseille's historic Old Port under a clear blue sky.",
+      "photographer": "alex ohan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402921/pexels-photo-32402921.jpeg",
+      "alt": "Aerial view of Marseille port at sunset, showcasing bustling city life and serene waterfront.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402916/pexels-photo-32402916.jpeg",
+      "alt": "Explore the bustling Old Port in Marseille with sailboats under a bright sky.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20081301/pexels-photo-20081301.jpeg",
+      "alt": "Explore the bustling harbor of Marseille with boats against a backdrop of historic architecture.",
+      "photographer": "alex ohan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6030953/pexels-photo-6030953.jpeg",
+      "alt": "Scenic view of Marseille harbor with historic buildings and moored boats under a cloudy sky.",
+      "photographer": "Serinus",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6030957/pexels-photo-6030957.jpeg",
+      "alt": "Bustling harbor in Marseille, filled with boats and historic buildings in the backdrop.",
+      "photographer": "Serinus",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11690121/pexels-photo-11690121.jpeg",
+      "alt": "Explore the vibrant Vieux Port marina in Marseille with moored boats and historic architecture under a warm sunset.",
+      "photographer": "Jo Kassis",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32483529/pexels-photo-32483529.jpeg",
+      "alt": "Scenic aerial view of Marseille's bustling harbor and the iconic Notre-Dame de la Garde basilica.",
+      "photographer": "Yu Han Huang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20526900/pexels-photo-20526900.jpeg",
+      "alt": "Explore the charming Old Port of Marseille with moored boats and a cityscape backdrop.",
+      "photographer": "Adrià  Masi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27587788/pexels-photo-27587788.png",
+      "alt": "Explore the serene Marseille Vieux Port with yachts and a view of Notre-Dame de la Garde.",
+      "photographer": "Jan Tang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32572028/pexels-photo-32572028.jpeg",
+      "alt": "Discover the stunning skyline of Marseille with azure Mediterranean waters.",
+      "photographer": "Yu Han Huang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402929/pexels-photo-32402929.jpeg",
+      "alt": "Beautiful day at Marseille harbor with boats and clear reflections on the water.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402928/pexels-photo-32402928.jpeg",
+      "alt": "Vibrant traditional boats reflecting in calm waters at Marseille harbor, showcasing nautical charm.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402919/pexels-photo-32402919.jpeg",
+      "alt": "A beautiful view of Marseille's port on a bright day, showcasing boats and classic architecture.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402920/pexels-photo-32402920.jpeg",
+      "alt": "Charming wooden shop by Marseille's harbor, capturing a rustic, nautical vibe.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32402922/pexels-photo-32402922.jpeg",
+      "alt": "A woman sits by the marina in Marseille, enjoying the view of boats and clear reflections.",
+      "photographer": "Mariya",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32547699/pexels-photo-32547699.jpeg",
+      "alt": "A stunning aerial view of Marseille cityscape under a bright blue sky, capturing the vibrant essence of the urban layout.",
+      "photographer": "Yu Han Huang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29824893/pexels-photo-29824893.jpeg",
+      "alt": "Picturesque harbor scene in Provence-Alpes-Côte d'Azur, France with boats and historic architecture.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11690127/pexels-photo-11690127.jpeg",
+      "alt": "Street view in Marseille with buildings, parked cars, and a glimpse of the harbor.",
+      "photographer": "Jo Kassis",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32327355/pexels-photo-32327355.jpeg",
+      "alt": "Picturesque urban architecture view in Marseille, capturing classic French design.",
+      "photographer": "Sebastien Devocelle",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29824882/pexels-photo-29824882.jpeg",
+      "alt": "Vibrant sailboats docked in the picturesque harbor of Provence-Alpes-Côte d'Azur, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18671872/pexels-photo-18671872.jpeg",
+      "alt": "Scenic view of Marseille's historic Fort Saint-Jean and vibrant harbor in France, capturing urban architecture and waterfront activity.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27587791/pexels-photo-27587791.png",
+      "alt": "Capture of Marseille's vibrant cityscape with its famous harbor and iconic architecture.",
+      "photographer": "Jan Tang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29851509/pexels-photo-29851509.jpeg",
+      "alt": "Colorful waterfront houses and yachts in Provence-Alpes-Côte d'Azur, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29824885/pexels-photo-29824885.jpeg",
+      "alt": "Scenic view of a vibrant harbor with boats and architecture in Provence-Alpes-Côte d'Azur, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32483487/pexels-photo-32483487.jpeg",
+      "alt": "Aerial view of Marseille's Old Port with yachts and cityscape under clear blue sky.",
+      "photographer": "Yu Han Huang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32483530/pexels-photo-32483530.jpeg",
+      "alt": "Aerial view of Marseille's Old Port and Notre-Dame de la Garde under clear blue skies.",
+      "photographer": "Yu Han Huang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12594629/pexels-photo-12594629.jpeg",
+      "alt": "Explore the vibrant cityscape of Marseille against the Mediterranean backdrop.",
+      "photographer": "alex ohan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15878303/pexels-photo-15878303.jpeg",
+      "alt": "A picturesque view of Vieux Port in Marseille showing docks full of boats and the city skyline.",
+      "photographer": "Ulrick Trappschuh",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20121118/pexels-photo-20121118.jpeg",
+      "alt": "Marseille harbor scene with yachts moored, set against a city backdrop under a summer day.",
+      "photographer": "Nadine Ginzel",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20121163/pexels-photo-20121163.jpeg",
+      "alt": "A tranquil view of Marseille's harbor, featuring winding roads, historical architecture, and a serene waterfront.",
+      "photographer": "Nadine Ginzel",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28539205/pexels-photo-28539205.jpeg",
+      "alt": "Panoramic view of Marseille skyline with Notre-Dame de la Garde under cloudy skies.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32572032/pexels-photo-32572032.jpeg",
+      "alt": "Marvelous panoramic view of Marseille's cityscape and harbor under a bright blue sky.",
+      "photographer": "Yu Han Huang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/25323190/pexels-photo-25323190.jpeg",
+      "alt": "A clear view of Notre-Dame de la Garde basilica on a hill in Marseille, France.",
+      "photographer": "Walter Coppola",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20520465/pexels-photo-20520465.jpeg",
+      "alt": "Scenic cityscape of Marseille featuring Notre-Dame de la Garde on a hilltop under a cloudy sky.",
+      "photographer": "Adrià  Masi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/23999299/pexels-photo-23999299.jpeg",
+      "alt": "Stone sculpture with Notre-Dame de la Garde in the background, Marseille, summer sunlight.",
+      "photographer": "René Lussi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32483525/pexels-photo-32483525.jpeg",
+      "alt": "Scenic view of Marseille's harbor and Notre-Dame de la Garde under a blue sky.",
+      "photographer": "Yu Han Huang",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30025976/pexels-photo-30025976.jpeg",
+      "alt": "Capture of Notre-Dame de la Garde through Mucem's lattice design in Marseille.",
+      "photographer": "Quentin Guiot",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20121155/pexels-photo-20121155.jpeg",
+      "alt": "Panoramic view of Marseille cityscape highlighting Notre-Dame-de-la-Garde Cathedral and urban roads.",
+      "photographer": "Nadine Ginzel",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20121207/pexels-photo-20121207.jpeg",
+      "alt": "View of Notre-Dame de la Garde with rocky cliff in Marseille under bright summer sky.",
+      "photographer": "Nadine Ginzel",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32162708/pexels-photo-32162708.jpeg",
+      "alt": "Beautiful daytime view of Marseille featuring Fort Saint-Jean and Notre-Dame de la Garde.",
+      "photographer": "Jordi Young",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30036850/pexels-photo-30036850.jpeg",
+      "alt": "Street scene in Marseille with the Basilica of Notre-Dame de la Garde visible.",
+      "photographer": "Bingqian Li",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15936648/pexels-photo-15936648.jpeg",
+      "alt": "A bustling urban scene in Marseille featuring the iconic cathedral and busy streets.",
+      "photographer": "Ulrick Trappschuh",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28040955/pexels-photo-28040955.jpeg",
+      "alt": "A stunning aerial view of Marseille, France, showcasing the city's skyline and the Mediterranean Sea.",
+      "photographer": "Nabil Barry",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9962684/pexels-photo-9962684.jpeg",
+      "alt": "A picturesque chapel on Étretat cliffs in Normandie, France, with lush greenery and a clear blue sky.",
+      "photographer": "Bruno Charlier",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17966336/pexels-photo-17966336.jpeg",
+      "alt": "Beautiful chapel overlooking the sea in Étretat, Normandy, France.",
+      "photographer": "Laurent JULIEN",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1460145/pexels-photo-1460145.jpeg",
+      "alt": "Architectural beauty of Notre Dame Cathedral with crowds in Paris, France.",
+      "photographer": "Adrienn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4452038/pexels-photo-4452038.jpeg",
+      "alt": "Scenic view of Notre Dame Cathedral beside the Seine River in Paris, France.",
+      "photographer": "Vlada Karpovich",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30596981/pexels-photo-30596981.jpeg",
+      "alt": "A detailed aerial view of Notre-Dame Cathedral during renovation in Paris, France.",
+      "photographer": "Travel with  Lenses",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31317009/pexels-photo-31317009.jpeg",
+      "alt": "Notre Dame Cathedral silhouette with dramatic sunset sky in Paris, France.",
+      "photographer": "Adrià  Masi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30173090/pexels-photo-30173090.jpeg",
+      "alt": "A classic Parisian bistro with outdoor seating and vibrant street life in Paris, France.",
+      "photographer": "Daria Agafonova",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11360311/pexels-photo-11360311.jpeg",
+      "alt": "Beautiful daytime view of Notre Dame Cathedral on the Seine River in Paris, France.",
+      "photographer": "Andres Carrera",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/16785485/pexels-photo-16785485.png",
+      "alt": "A stunning view of Notre Dame Cathedral by the Seine River in Paris, France, showcasing Gothic architecture.",
+      "photographer": "Gianluca Pugliese",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/25323204/pexels-photo-25323204.jpeg",
+      "alt": "Explore the ornate interior of Notre-Dame-des-Anges Church in L'Isle-Sur-La-Sorgue, France.",
+      "photographer": "Walter Coppola",
+      "isBanner": false
+    }
+  ],
+  "dataQuality": {
+    "completeness": 95,
+    "lastUpdated": "2025-08-22",
+    "sources": {
+      "weather": "Météo-France, 2023 data",
+      "population": "INSEE, 2023 estimate",
+      "education": "French Ministry of Education, 2023",
+      "culture": "French Ministry of Culture, 2023",
+      "transportation": "Google Maps / SNCF, 2023",
+      "geography": "Google Maps / AllTrails, 2023",
+      "housing": "MeilleursAgents / FNAIM, 2023",
+      "qualityOfLife": "French government sources, 2023",
+      "images": "Pexels API"
+    }
+  }
+}

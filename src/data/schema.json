@@ -1,0 +1,796 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://charsyka-france.com/schemas/city-data.json",
+  "title": "City Data Schema",
+  "description": "Schema for city comparison data with comprehensive metrics and data sources",
+  "type": "object",
+  "required": ["id", "name", "region", "coordinates", "weather", "population", "education", "culture", "transportation", "geography", "housing", "qualityOfLife", "images"],
+
+  "definitions": {
+    "metricFormat": {
+      "type": "object",
+      "properties": {
+        "unit": { "type": "string" },
+        "format": { "type": "string" },
+        "precision": { "type": "number" },
+        "higherBetter": { "type": "boolean" },
+        "source": { "type": "string" },
+        "sourceUrl": { "type": "string" }
+      }
+    },
+    "metricLabels": {
+      "type": "object",
+      "description": "Standardized labels for all metrics",
+      "properties": {
+        "population": {
+          "total": "Population",
+          "studentPercentage": "Student %",
+          "density": "Density"
+        },
+        "weather": {
+          "sunnyDays": "Sunny Days",
+          "rainyDays": "Rainy Days",
+          "avgTemp": "Avg Temperature"
+        },
+        "transportation": {
+          "transitScore": "Transit Score",
+          "distanceToParis": "Time to Paris",
+          "distanceToLyon": "Time to Lyon"
+        },
+        "geography": {
+        },
+        "housing": {
+          "avgSellPricePerM2": "Avg House Price",
+          "avgRentPricePerM2": "Avg Rent"
+        },
+        "qualityOfLife": {
+          "crimeRate": "Crime Rate",
+          "greenSpaces": "Green Spaces",
+          "airQuality": "Air Quality",
+          "costOfLife": "Cost of Life",
+          "liveabilityScore": "Liveability",
+          "healthQuality": "Health Quality"
+        }
+      }
+    },
+    "metricFormatters": {
+      "type": "object",
+      "description": "Standardized formatting rules for different metric types",
+      "properties": {
+        "population": {
+          "total": { "unit": "", "format": "compact", "precision": 0 },
+          "studentPercentage": { "unit": "%", "format": "integer", "precision": 0 },
+          "density": { "unit": "/km²", "format": "integer", "precision": 0 }
+        },
+        "weather": {
+          "sunnyDays": { "unit": "", "format": "integer", "precision": 0 },
+          "rainyDays": { "unit": "", "format": "integer", "precision": 0 },
+          "avgTemp": { "unit": "°C", "format": "decimal", "precision": 1 }
+        },
+        "transportation": {
+          "transitScore": { "unit": "", "format": "decimal", "precision": 1 },
+          "distanceToParis": { "unit": "hours", "format": "decimal", "precision": 1 },
+          "distanceToLyon": { "unit": "hours", "format": "decimal", "precision": 1 }
+        },
+        "geography": {
+
+        },
+        "housing": {
+          "avgSellPricePerM2": { "unit": "€/m²", "format": "integer", "precision": 0 },
+          "avgRentPricePerM2": { "unit": "€/m²", "format": "integer", "precision": 0 }
+        },
+        "qualityOfLife": {
+          "crimeRate": { "unit": "", "format": "decimal", "precision": 1 },
+          "greenSpaces": { "unit": "", "format": "decimal", "precision": 1 },
+          "airQuality": { "unit": "", "format": "decimal", "precision": 1 },
+          "costOfLife": { "unit": "", "format": "decimal", "precision": 1 },
+          "liveabilityScore": { "unit": "", "format": "decimal", "precision": 1 },
+          "healthQuality": { "unit": "", "format": "decimal", "precision": 1 }
+        }
+      }
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique city identifier",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "City name"
+    },
+    "region": {
+      "type": "string",
+      "description": "Administrative region or state"
+    },
+    "coordinates": {
+      "type": "array",
+      "description": "GPS coordinates [latitude, longitude]",
+      "items": {
+        "type": "number"
+      },
+      "minItems": 2,
+      "maxItems": 2,
+      "source": "OpenStreetMap / Google Maps",
+      "sourceUrl": "https://www.openstreetmap.org/"
+    },
+    "weather": {
+      "type": "object",
+      "required": ["sunnyDays", "rainyDays", "avgTemp", "monthlyData", "monthlySunnyDays", "monthlyRainyDays", "monthlyPrecipitation"],
+      "properties": {
+        "sunnyDays": {
+          "type": "number",
+          "description": "Number of sunny days annually",
+          "minimum": 150,
+          "maximum": 350,
+          "unit": "",
+          "format": "integer",
+          "precision": 0,
+          "higherBetter": true,
+          "source": "Open-Meteo Historical API",
+          "sourceUrl": "https://open-meteo.com/"
+        },
+        "rainyDays": {
+          "type": "number",
+          "description": "Number of rainy days annually (precipitation > 1mm)",
+          "minimum": 40,
+          "maximum": 150,
+          "unit": "",
+          "format": "integer",
+          "precision": 0,
+          "higherBetter": false,
+          "source": "Open-Meteo Historical API",
+          "sourceUrl": "https://open-meteo.com/"
+        },
+        "avgTemp": {
+          "type": "number",
+          "description": "Average annual temperature",
+          "minimum": -50,
+          "maximum": 50,
+          "unit": "°C",
+          "format": "decimal",
+          "precision": 1,
+          "higherBetter": true,
+          "source": "Open-Meteo Historical API",
+          "sourceUrl": "https://open-meteo.com/"
+        },
+        "monthlyData": {
+          "type": "array",
+          "description": "Monthly average temperatures [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 12,
+          "maxItems": 12,
+          "unit": "°C",
+          "source": "Open-Meteo Historical API",
+          "sourceUrl": "https://open-meteo.com/"
+        },
+        "monthlySunnyDays": {
+          "type": "array",
+          "description": "Monthly sunny days [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 12,
+          "maxItems": 12,
+          "unit": "days",
+          "source": "Open-Meteo Historical API",
+          "sourceUrl": "https://open-meteo.com/"
+        },
+        "monthlyRainyDays": {
+          "type": "array",
+          "description": "Monthly rainy days [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 12,
+          "maxItems": 12,
+          "unit": "days",
+          "source": "Open-Meteo Historical API",
+          "sourceUrl": "https://open-meteo.com/"
+        },
+        "monthlyPrecipitation": {
+          "type": "array",
+          "description": "Monthly precipitation in millimeters [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]",
+          "items": {
+            "type": "number"
+          },
+          "minItems": 12,
+          "maxItems": 12,
+          "unit": "mm",
+          "source": "Open-Meteo Historical API",
+          "sourceUrl": "https://open-meteo.com/"
+        }
+      }
+    },
+    "population": {
+      "type": "object",
+      "required": ["total", "studentPercentage", "density"],
+      "properties": {
+        "total": {
+          "type": "number",
+          "description": "Total city population",
+          "minimum": 0,
+          "unit": "",
+          "format": "compact",
+          "precision": 0,
+          "higherBetter": true,
+          "source": "INSEE (French National Institute of Statistics) / US Census Bureau",
+          "sourceUrl": "https://www.insee.fr/fr/statistiques"
+        },
+        "studentPercentage": {
+          "type": "number",
+          "description": "Percentage of population that are students",
+          "minimum": 0,
+          "maximum": 100,
+          "unit": "%",
+          "format": "integer",
+          "precision": 0,
+          "higherBetter": true,
+          "source": "INSEE (French National Institute of Statistics) / US Census Bureau",
+          "sourceUrl": "https://www.insee.fr/fr/statistiques"
+        },
+        "density": {
+          "type": "number",
+          "description": "Population density per square kilometer (lower is better)",
+          "minimum": 0,
+          "unit": "/km²",
+          "format": "integer",
+          "precision": 0,
+          "higherBetter": false,
+          "source": "INSEE (French National Institute of Statistics) / US Census Bureau",
+          "sourceUrl": "https://www.insee.fr/fr/statistiques"
+        }
+      }
+    },
+    "education": {
+      "type": "object",
+      "required": ["highSchools", "universities", "internationalHighSchools"],
+      "properties": {
+        "highSchools": {
+          "type": "array",
+          "description": "List of high schools (lycées)",
+          "items": {
+            "allOf": [
+              { "$ref": "#/definitions/placeDetails" },
+              {
+                "type": "object",
+                "properties": {
+                  "rating": {
+                    "type": "number",
+                    "description": "Rating out of 5",
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "ratingSource": {
+                    "type": "string",
+                    "description": "Source of the rating (e.g., Google Reviews, TripAdvisor)"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "universities": {
+          "type": "array",
+          "description": "List of universities and higher education institutions",
+          "items": {
+            "allOf": [
+              { "$ref": "#/definitions/placeDetails" },
+              {
+                "type": "object",
+                "properties": {
+                  "rating": {
+                    "type": "number",
+                    "description": "Rating out of 5",
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "ratingSource": {
+                    "type": "string",
+                    "description": "Source of the rating (e.g., Google Reviews, TripAdvisor)"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "internationalHighSchools": {
+          "type": "array",
+          "description": "List of international high schools",
+          "items": {
+            "allOf": [
+              { "$ref": "#/definitions/placeDetails" },
+              {
+                "type": "object",
+                "properties": {
+                  "rating": {
+                    "type": "number",
+                    "description": "Rating out of 5",
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "ratingSource": {
+                    "type": "string",
+                    "description": "Source of the rating (e.g., Google Reviews, TripAdvisor)"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "culture": {
+      "type": "object",
+      "required": ["museums", "cinemas", "theaters", "operas"],
+      "properties": {
+        "museums": {
+          "type": "array",
+          "description": "List of museums and art galleries",
+          "items": {
+            "allOf": [
+              { "$ref": "#/definitions/placeDetails" },
+              {
+                "type": "object",
+                "properties": {
+                  "rating": {
+                    "type": "number",
+                    "description": "Visitor rating out of 5",
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "ratingSource": {
+                    "type": "string",
+                    "description": "Source of the rating (e.g., Google Reviews, TripAdvisor)"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "cinemas": {
+          "type": "array",
+          "description": "List of cinemas",
+          "items": {
+            "allOf": [
+              { "$ref": "#/definitions/placeDetails" },
+              {
+                "type": "object",
+                "properties": {
+                  "rating": {
+                    "type": "number",
+                    "description": "Visitor rating out of 5",
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "ratingSource": {
+                    "type": "string",
+                    "description": "Source of the rating (e.g., Google Reviews, TripAdvisor)"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "theaters": {
+          "type": "array",
+          "description": "List of theaters",
+          "items": {
+            "allOf": [
+              { "$ref": "#/definitions/placeDetails" },
+              {
+                "type": "object",
+                "properties": {
+                  "rating": {
+                    "type": "number",
+                    "description": "Visitor rating out of 5",
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "ratingSource": {
+                    "type": "string",
+                    "description": "Source of the rating (e.g., Google Reviews, TripAdvisor)"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "operas": {
+          "type": "array",
+          "description": "List of opera houses",
+          "items": {
+            "allOf": [
+              { "$ref": "#/definitions/placeDetails" },
+              {
+                "type": "object",
+                "properties": {
+                  "rating": {
+                    "type": "number",
+                    "description": "Visitor rating out of 5",
+                    "minimum": 1,
+                    "maximum": 5
+                  },
+                  "ratingSource": {
+                    "type": "string",
+                    "description": "Source of the rating (e.g., Google Reviews, TripAdvisor)"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "transportation": {
+      "type": "object",
+      "required": ["internationalFlights", "distanceToParisWithCar", "distanceToParisWithTrain", "distanceToLyonWithCar", "distanceToLyonWithTrain", "transitScore"],
+      "properties": {
+        "internationalFlights": {
+          "type": "array",
+          "description": "List of international flight destinations",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Name of the destination city"
+              },
+              "description": {
+                "type": "string",
+                "description": "Brief description of the destination"
+              },
+              "url": {
+                "type": "string",
+                "description": "Flight booking or destination information URL",
+                "format": "uri"
+              },
+              "coordinates": {
+                "type": "array",
+                "description": "GPS coordinates [latitude, longitude] of the destination",
+                "items": { "type": "number" },
+                "minItems": 2,
+                "maxItems": 2
+              },
+              "rating": {
+                "type": "number",
+                "description": "Destination rating out of 5",
+                "minimum": 1,
+                "maximum": 5
+              },
+              "ratingSource": {
+                "type": "string",
+                "description": "Source of the rating (e.g., TripAdvisor, Lonely Planet)"
+              }
+            },
+            "required": ["name", "description", "coordinates"]
+          }
+        },
+        "distanceToParisWithCar": {
+          "type": "number",
+          "description": "Travel time to Paris by car (lower is better)",
+          "source": "Google Maps",
+          "sourceUrl": "https://maps.google.com/",
+          "minimum": 0,
+          "unit": "hours",
+          "higherBetter": false
+        },
+        "distanceToParisWithTrain": {
+          "type": "number",
+          "description": "Travel time to Paris by train (lower is better)",
+          "source": "SNCF (French Railways)",
+          "sourceUrl": "https://www.sncf.com/",
+          "minimum": 0,
+          "unit": "hours",
+          "higherBetter": false
+        },
+        "distanceToLyonWithCar": {
+          "type": "number",
+          "description": "Travel time to Lyon by car (lower is better)",
+          "source": "Google Maps",
+          "sourceUrl": "https://maps.google.com/",
+          "minimum": 0,
+          "unit": "hours",
+          "higherBetter": false
+        },
+        "distanceToLyonWithTrain": {
+          "type": "number",
+          "description": "Travel time to Lyon by train (lower is better)",
+          "source": "SNCF (French Railways)",
+          "sourceUrl": "https://www.sncf.com/",
+          "minimum": 0,
+          "unit": "hours",
+          "higherBetter": false
+        },
+        "transitScore": {
+          "type": "number",
+          "description": "Public transportation quality score",
+          "minimum": 1,
+          "maximum": 10,
+          "unit": "",
+          "format": "decimal",
+          "precision": 1,
+          "higherBetter": true,
+          "source": "Local transit authorities and user ratings",
+          "sourceUrl": "https://www.transport.data.gouv.fr/"
+        }
+      }
+    },
+    "geography": {
+      "type": "object",
+      "required": ["hikes", "hikesTotalLength"],
+      "properties": {
+        "hikes": {
+          "type": "array",
+          "description": "List of hiking trails from OpenStreetMap",
+          "items": {
+            "allOf": [
+              { "$ref": "#/definitions/placeDetails" },
+              {
+                "type": "object",
+                "properties": {
+                  "length": {
+                    "type": "number",
+                    "description": "Trail length in kilometers",
+                    "minimum": 0,
+                    "unit": "km",
+                    "format": "decimal",
+                    "precision": 1
+                  },
+                  "difficulty": {
+                    "type": "string",
+                    "description": "Trail difficulty level",
+                    "enum": ["Easy", "Moderate", "Hard", "Expert", "Unknown"]
+                  },
+                  "externalId": {
+                    "type": "string",
+                    "description": "External type identifier"
+                  },
+                  "externalType": {
+                    "type": "string",
+                    "description": "External type identifier"
+                  },
+                  "externalUrl": {
+                    "type": "string",
+                    "description": "Direct link to the trail on the external platform",
+                    "format": "uri"
+                  },
+                  "source": {
+                    "type": "string",
+                    "description": "Data source (e.g., OpenStreetMap)",
+                    "default": "OpenStreetMap"
+                  }
+                },
+                "required": ["length", "difficulty", "externalId", "externalType", "externalUrl", "source"]
+              }
+            ]
+          }
+        },
+        "hikesTotalLength": {
+          "type": "number",
+          "description": "Total length of all hiking trails",
+          "minimum": 0,
+          "unit": "km",
+          "format": "decimal",
+          "precision": 1,
+          "higherBetter": true,
+          "source": "OpenStreetMap",
+          "sourceUrl": "https://www.openstreetmap.org/"
+        }
+      }
+    },
+    "housing": {
+      "type": "object",
+      "required": ["avgSellPricePerM2", "avgRentPricePerM2"],
+      "properties": {
+        "avgSellPricePerM2": {
+          "type": "number",
+          "description": "Average house selling price per square meter (lower is better)",
+          "minimum": 2000,
+          "maximum": 15000,
+          "unit": "€/m²",
+          "format": "integer",
+          "precision": 0,
+          "higherBetter": false,
+          "source": "MeilleursAgents / FNAIM (French) / Redfin (US)",
+          "sourceUrl": "https://www.meilleursagents.com/"
+        },
+        "avgRentPricePerM2": {
+          "type": "number",
+          "description": "Average monthly rent price per square meter (lower is better)",
+          "minimum": 10,
+          "maximum": 50,
+          "unit": "€/m²",
+          "format": "integer",
+          "precision": 0,
+          "higherBetter": false,
+          "source": "SeLoger / Century 21 (French) / Realtor.com (US)",
+          "sourceUrl": "https://www.seloger.com/"
+        }
+      }
+    },
+    "qualityOfLife": {
+      "type": "object",
+      "required": ["crimeRate", "greenSpaces", "airQuality", "costOfLife", "liveabilityScore", "healthQuality"],
+      "properties": {
+        "crimeRate": {
+          "type": "number",
+          "description": "Crime rate per 1000 inhabitants (lower is better)",
+          "minimum": 0,
+          "unit": "",
+          "format": "decimal",
+          "precision": 1,
+          "higherBetter": false,
+          "source": "French Ministry of Interior / FBI Crime Statistics",
+          "sourceUrl": "https://www.interieur.gouv.fr/"
+        },
+        "greenSpaces": {
+          "type": "number",
+          "description": "Green spaces quality and accessibility score",
+          "minimum": 1,
+          "maximum": 10,
+          "unit": "score 1-10",
+          "format": "decimal",
+          "precision": 1,
+          "higherBetter": true,
+          "source": "Local urban planning departments",
+          "sourceUrl": "https://www.ecologie.gouv.fr/"
+        },
+        "airQuality": {
+          "type": "number",
+          "description": "Air quality index score",
+          "minimum": 1,
+          "maximum": 10,
+          "unit": "score 1-10",
+          "source": "AirParif (Paris) / Atmo Auvergne-Rhône-Alpes / Local air quality monitors",
+          "sourceUrl": "https://www.airparif.asso.fr/",
+          "higherBetter": true
+        },
+        "costOfLife": {
+          "type": "number",
+          "description": "Cost of living index (higher is better)",
+          "minimum": 1,
+          "maximum": 10,
+          "unit": "",
+          "format": "decimal",
+          "precision": 1,
+          "higherBetter": true,
+          "source": "Numbeo / Local cost of living surveys",
+          "sourceUrl": "https://www.numbeo.com/"
+        },
+        "liveabilityScore": {
+          "type": "number",
+          "description": "Overall liveability score",
+          "minimum": 1,
+          "maximum": 10,
+          "unit": "score 1-10",
+          "source": "Local government assessments / Quality of life surveys",
+          "sourceUrl": "https://www.data.gouv.fr/",
+          "higherBetter": true
+        },
+        "healthQuality": {
+          "type": "number",
+          "description": "Healthcare quality and accessibility score",
+          "minimum": 1,
+          "maximum": 10,
+          "unit": "score 1-10",
+          "source": "French Ministry of Health / California Health Department",
+          "sourceUrl": "https://solidarites-sante.gouv.fr/",
+          "higherBetter": true
+        }
+      }
+    },
+    "images": {
+      "type": "array",
+      "description": "City attraction and landmark images",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Image URL"
+          },
+          "alt": {
+            "type": "string",
+            "description": "Image description/alt text"
+          },
+          "photographer": {
+            "type": "string",
+            "description": "Photographer name"
+          },
+          "isBanner": {
+            "type": "boolean",
+            "description": "Whether this is the banner image"
+          }
+        },
+        "required": ["url", "alt"]
+      },
+      "minItems": 1,
+      "maxItems": 101,
+      "source": "Pexels API",
+      "sourceUrl": "https://www.pexels.com/api/"
+    }
+  },
+  "additionalProperties": false,
+  "definitions": {
+    "placeDetails": {
+      "type": "object",
+      "description": "Standard structure for place information from OpenStreetMap",
+      "required": ["name", "address", "coordinates", "osmId", "osmType", "lastUpdated"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Official name of the place"
+        },
+        "description": {
+          "type": "string",
+          "description": "Brief description of the place"
+        },
+        "address": {
+          "type": "string",
+          "description": "Full formatted address"
+        },
+        "coordinates": {
+          "type": "array",
+          "description": "GPS coordinates [latitude, longitude]",
+          "items": { "type": "number" },
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "osmId": {
+          "type": "string",
+          "description": "OpenStreetMap ID for the place"
+        },
+        "osmType": {
+          "type": "string",
+          "description": "OpenStreetMap element type (node, way, relation)",
+          "enum": ["node", "way", "relation"]
+        },
+        "osmUrl": {
+          "type": "string",
+          "description": "OpenStreetMap URL for the place",
+          "format": "uri"
+        },
+        "website": {
+          "type": "string",
+          "description": "Official website URL if available",
+          "format": "uri"
+        },
+        "phone": {
+          "type": "string",
+          "description": "Contact phone number if available"
+        },
+        "email": {
+          "type": "string",
+          "description": "Contact email if available",
+          "format": "email"
+        },
+        "openingHours": {
+          "type": "string",
+          "description": "Opening hours information if available"
+        },
+        "tags": {
+          "type": "object",
+          "description": "Additional OpenStreetMap tags and metadata",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "lastUpdated": {
+          "type": "string",
+          "description": "ISO timestamp when this data was last updated",
+          "format": "date-time"
+        },
+        "dataSource": {
+          "type": "string",
+          "description": "Source of the data (OpenStreetMap)",
+          "default": "OpenStreetMap"
+        }
+      }
+    }
+  }
+}

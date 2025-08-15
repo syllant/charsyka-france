@@ -1,70 +1,176 @@
-# Getting Started with Create React App
+# Charsyka France - City Comparison Webapp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A comprehensive web application designed to help French/American families compare different French cities for relocation decisions. Built with React, this webapp provides detailed comparisons across multiple dimensions including weather, education, culture, transportation, and quality of life.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+### 🗺️ Interactive Map
+- Interactive map of France showing all compared cities
+- Click on city markers to view details
+- Responsive design with OpenStreetMap integration
 
-### `npm start`
+### 📊 Comprehensive Comparison Table
+- Side-by-side comparison of all cities
+- Color-coded values (green to red) indicating performance
+- Covers all major dimensions:
+  - **Weather & Climate**: Sunny days, rainy days, temperature
+  - **Population**: Total population, student percentage, density
+  - **Education**: High schools, international high schools, universities
+  - **Culture**: Museums, theaters, cultural events
+  - **Transportation**: International flights, transit scores, distances
+  - **Geography**: Beach proximity, ski access, hiking trails
+  - **Housing**: Average prices and rental costs
+  - **Quality of Life**: Crime rates, green spaces, air quality
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🏙️ Detailed City Pages
+- Individual city detail pages with comprehensive information
+- Interactive charts for weather data
+- City maps with neighborhood information
+- Photo galleries of city attractions
+- Position indicators showing city ranking in each dimension
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Cities Included
 
-### `npm test`
+- **Aix-en-Provence** - Provence-Alpes-Côte d'Azur
+- **Bordeaux** - Nouvelle-Aquitaine
+- **Marseille** - Provence-Alpes-Côte d'Azur
+- **Montpellier** - Occitanie
+- **Nantes** - Pays de la Loire
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technology Stack
 
-### `npm run build`
+- **Frontend**: React 18 with React Router
+- **Maps**: Leaflet with React-Leaflet
+- **Charts**: Recharts for data visualization
+- **Icons**: Lucide React for modern iconography
+- **Styling**: Custom CSS with responsive design
+- **Data**: Context API for state management
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
+- Node.js (version 16 or higher)
+- npm or yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installation
 
-### `npm run eject`
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd charsyka-france
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Install dependencies:
+```bash
+npm install --legacy-peer-deps
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Set up environment variables:
+```bash
+# Copy the example environment file
+cp env.example .env
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Edit .env and add your API keys
+# PEXELS_API_KEY=your_actual_pexels_api_key_here
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Start the development server:
+```bash
+npm start
+```
 
-## Learn More
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Building for Production
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm run build
+```
 
-### Code Splitting
+## Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+src/
+├── components/
+│   ├── HomePage.js          # Main page with map and comparison table
+│   ├── CityDetailPage.js    # Individual city detail pages
+│   └── ComparisonTable.js   # Comparison table component
+├── context/
+│   └── CityContext.js       # City data and context management
+├── App.js                   # Main app component with routing
+└── App.css                  # Comprehensive styling
+```
 
-### Analyzing the Bundle Size
+## Data Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Each city includes comprehensive data across multiple dimensions:
 
-### Making a Progressive Web App
+```javascript
+{
+  id: 'city-id',
+  name: 'City Name',
+  region: 'Region Name',
+  coordinates: [lat, lng],
+  weather: { sunnyDays, rainyDays, avgTemp, monthlyData },
+  population: { total, studentPercentage, density },
+  education: { highSchools, internationalHighSchools, universities },
+  culture: { museums, cinemas, theaters, operas, culturalEvents },
+  transportation: { internationalFlights, distanceToParis, distanceToLyon, transitScore },
+  geography: { hikes },
+  housing: { avgSellPrice, avgRentPrice },
+  qualityOfLife: { crimeRate, greenSpaces, airQuality, costOfLife, liveabilityScore, healthQuality },
+  images: [imageUrls]
+}
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Usage
 
-### Advanced Configuration
+### Home Page
+- View the interactive map of France
+- See all cities marked with clickable markers
+- Access the comprehensive comparison table
+- Click on city names in the table to view detailed information
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### City Detail Pages
+- Navigate through detailed information for each dimension
+- View interactive weather charts
+- See city positioning in rankings
+- Explore photo galleries of attractions
+- Use the back button to return to the comparison
 
-### Deployment
+### Comparison Table
+- Scroll horizontally to see all cities
+- Use color coding to quickly identify best/worst performers
+- Click on city names to navigate to detail pages
+- Reference the legend for color meanings
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Design Principles
 
-### `npm run build` fails to minify
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Color Coding**: Intuitive green-to-red gradient for performance indicators
+- **Interactive Elements**: Hover effects, smooth transitions, and engaging user experience
+- **Accessibility**: Clear navigation, readable fonts, and logical information hierarchy
+- **Performance**: Optimized rendering and efficient data management
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Future Enhancements
+
+- Real-time data integration with external APIs
+- User preferences and custom city lists
+- Advanced filtering and sorting options
+- Export functionality for comparison data
+- Multi-language support
+- User reviews and ratings
+- Cost of living calculators
+- School district information
+
+## Contributing
+
+This project is designed to help families make informed decisions about relocation. Contributions are welcome to improve data accuracy, add new cities, or enhance the user experience.
+
+## License
+
+This project is built for educational and personal use to assist with relocation decisions.
+
+---
+
+Built with ❤️ to help families find their perfect French city!

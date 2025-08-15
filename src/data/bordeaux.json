@@ -1,0 +1,2267 @@
+{
+  "id": "bordeaux",
+  "name": "Bordeaux",
+  "region": "Nouvelle-Aquitaine",
+  "coordinates": [
+    44.8378,
+    -0.5792
+  ],
+  "weather": {
+    "sunnyDays": 195,
+    "rainyDays": 171,
+    "avgTemp": 15.1,
+    "monthlyData": [
+      7.5,
+      9.3,
+      11,
+      14.6,
+      17.5,
+      23.5,
+      22.6,
+      22.9,
+      16.9,
+      16.1,
+      11.9,
+      7.5
+    ],
+    "monthlySunnyDays": [
+      10,
+      16,
+      16,
+      15,
+      16,
+      15,
+      17,
+      25,
+      11,
+      14,
+      21,
+      19
+    ],
+    "monthlyRainyDays": [
+      21,
+      12,
+      15,
+      15,
+      15,
+      15,
+      14,
+      7,
+      19,
+      17,
+      9,
+      12
+    ],
+    "monthlyPrecipitation": [
+      123.5,
+      56.5,
+      46.3,
+      104.7,
+      43.3,
+      42.6,
+      26.2,
+      38.2,
+      130.3,
+      114.2,
+      61.7,
+      71.5
+    ]
+  },
+  "population": {
+    "total": 260000,
+    "studentPercentage": 22,
+    "density": 1200
+  },
+  "education": {
+    "highSchools": [
+      {
+        "name": "Lycée professionnel privé Saint-Vincent de Paul",
+        "address": "33074, Bordeaux",
+        "coordinates": [
+          44.825427223533325,
+          -0.5753725303794125
+        ],
+        "website": "https://svpbordeaux.fr",
+        "externalId": "0332497K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332497K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Saint-Vincent%20de%20Paul&code_postal=33074",
+        "osmId": "fr-education:0332497K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel privé la Ruche",
+        "address": "33072, Bordeaux",
+        "coordinates": [
+          44.84288266950555,
+          -0.558446422383625
+        ],
+        "website": "http://www.lpplaruche.fr",
+        "externalId": "0331561T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331561T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20la%20Ruche&code_postal=33072",
+        "osmId": "fr-education:0331561T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Sainte-Marie Grand Lebrun",
+        "address": "33073, Bordeaux",
+        "coordinates": [
+          44.85030016668629,
+          -0.6056626677908147
+        ],
+        "website": "https://grandlebrun.com",
+        "externalId": "0331503E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331503E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Sainte-Marie%20Grand%20Lebrun&code_postal=33073",
+        "osmId": "fr-education:0331503E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Saint-Genès La Salle",
+        "address": "33081, Bordeaux",
+        "coordinates": [
+          44.824807830236,
+          -0.5814396254325896
+        ],
+        "website": "https://www.saint-genes.com",
+        "externalId": "0331493U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331493U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Saint-Gen%C3%A8s%20La%20Salle&code_postal=33081",
+        "osmId": "fr-education:0331493U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Louis",
+        "address": "33028, Bordeaux",
+        "coordinates": [
+          44.86648428572395,
+          -0.5674100961785384
+        ],
+        "website": "http://www.lyceesaintlouis.fr",
+        "externalId": "0332468D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332468D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Louis&code_postal=33028",
+        "osmId": "fr-education:0332468D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel du Lycée polyvalent G Eiffel",
+        "address": "33031, Bordeaux",
+        "coordinates": [
+          44.82896378920074,
+          -0.5645932914308095
+        ],
+        "website": null,
+        "externalId": "0332800P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332800P&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel%20du%20Lyc%C3%A9e%20polyvalent%20G%20Eiffel&code_postal=33031",
+        "osmId": "fr-education:0332800P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée général privé Bordeaux International School Bis",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.840339290805964,
+          -0.596697809056484
+        ],
+        "website": null,
+        "externalId": "0333579L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0333579L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20g%C3%A9n%C3%A9ral%20priv%C3%A9%20Bordeaux%20International%20School%20Bis&code_postal=33000",
+        "osmId": "fr-education:0333579L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Montesquieu",
+        "address": "33029, Bordeaux",
+        "coordinates": [
+          44.850302703767035,
+          -0.5820502060798751
+        ],
+        "website": "http://www.lycee-montesquieu.fr",
+        "externalId": "0330022V",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330022V&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Montesquieu&code_postal=33029",
+        "osmId": "fr-education:0330022V",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Saint-Joseph de Tivoli",
+        "address": "33073, Bordeaux",
+        "coordinates": [
+          44.85385362327046,
+          -0.5970924695792135
+        ],
+        "website": "http://www.tivoli-33.org",
+        "externalId": "0331502D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331502D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Saint-Joseph%20de%20Tivoli&code_postal=33073",
+        "osmId": "fr-education:0331502D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Sainte-Famille Saintonge",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.83214235441901,
+          -0.5800684109149119
+        ],
+        "website": "http://www.lyceesaintefamille.com",
+        "externalId": "0331556M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331556M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Sainte-Famille%20Saintonge&code_postal=33000",
+        "osmId": "fr-education:0331556M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Michel Montaigne",
+        "address": "33075, Bordeaux",
+        "coordinates": [
+          44.83348222766258,
+          -0.5730635067578785
+        ],
+        "website": "http://www.montaigne-bordeaux.fr",
+        "externalId": "0330021U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330021U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Michel%20Montaigne&code_postal=33075",
+        "osmId": "fr-education:0330021U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Nicolas Brémontier",
+        "address": "33800, Bordeaux",
+        "coordinates": [
+          44.82402262760881,
+          -0.5702961480222736
+        ],
+        "website": "http://www.lyceebremontier.fr/",
+        "externalId": "0330032F",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330032F&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Nicolas%20Br%C3%A9montier&code_postal=33800",
+        "osmId": "fr-education:0330032F",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Nicolas Brémontier",
+        "address": "33800, Bordeaux",
+        "coordinates": [
+          44.82398898745547,
+          -0.570333266630794
+        ],
+        "website": "http://www.lyceebremontier.fr",
+        "externalId": "0330029C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330029C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Nicolas%20Br%C3%A9montier&code_postal=33800",
+        "osmId": "fr-education:0330029C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Edgar Morin",
+        "address": "33100, Bordeaux",
+        "coordinates": [
+          44.84970567294946,
+          -0.5613216119210588
+        ],
+        "website": "https://www.lycee-edgarmorin.com/",
+        "externalId": "0333368G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0333368G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Edgar%20Morin&code_postal=33100",
+        "osmId": "fr-education:0333368G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole technique privée d'Esthétique Françoise B - Groupe Sylvia Terrade",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.84745812983589,
+          -0.5712394070170967
+        ],
+        "website": null,
+        "externalId": "0331557N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331557N&type_etablissement=Lycée&selection=Ecole%20technique%20priv%C3%A9e%20d'Esth%C3%A9tique%20Fran%C3%A7oise%20B%20-%20Groupe%20Sylvia%20Terrade&code_postal=33000",
+        "osmId": "fr-education:0331557N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Académie d'art dentaire Isabelle Dutel (AADID)",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.84412291488802,
+          -0.5957493964274212
+        ],
+        "website": null,
+        "externalId": "0332868N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332868N&type_etablissement=Lycée&selection=Acad%C3%A9mie%20d'art%20dentaire%20Isabelle%20Dutel%20(AADID)&code_postal=33000",
+        "osmId": "fr-education:0332868N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Adonis Gironde Bordeaux",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.83829396204702,
+          -0.5876935208792664
+        ],
+        "website": null,
+        "externalId": "0333267X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0333267X&type_etablissement=Lycée&selection=Adonis%20Gironde%20Bordeaux&code_postal=33000",
+        "osmId": "fr-education:0333267X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Ermitage International School Bordeaux",
+        "address": "33200, Bordeaux",
+        "coordinates": [
+          44.8434581889302,
+          -0.607948169611773
+        ],
+        "website": null,
+        "externalId": "0333601K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0333601K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Ermitage%20International%20School%20Bordeaux&code_postal=33200",
+        "osmId": "fr-education:0333601K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel privé Saint-Genès La Salle",
+        "address": "33081, Bordeaux",
+        "coordinates": [
+          44.824904840364745,
+          -0.5813938901927379
+        ],
+        "website": "http://www.saint-genes.com",
+        "externalId": "0332550T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332550T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Saint-Gen%C3%A8s%20La%20Salle&code_postal=33081",
+        "osmId": "fr-education:0332550T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Bel Orme",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.849789279906226,
+          -0.5941612521143088
+        ],
+        "website": "https://www.belorme.com",
+        "externalId": "0331591A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331591A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Bel%20Orme&code_postal=33000",
+        "osmId": "fr-education:0331591A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Notre-Dame",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.84264141599289,
+          -0.5820680837615095
+        ],
+        "website": "http://www.notredamebordeaux.com",
+        "externalId": "0331499A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331499A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Notre-Dame&code_postal=33000",
+        "osmId": "fr-education:0331499A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée François Magendie",
+        "address": "33023, Bordeaux",
+        "coordinates": [
+          44.82694185208546,
+          -0.5853763200069433
+        ],
+        "website": "http://www.magendie.net",
+        "externalId": "0330026Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330026Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Fran%C3%A7ois%20Magendie&code_postal=33023",
+        "osmId": "fr-education:0330026Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Trégey Rive de Garonne",
+        "address": "33015, Bordeaux",
+        "coordinates": [
+          44.839351035466805,
+          -0.5479990528350409
+        ],
+        "website": "https://tregey.net/",
+        "externalId": "0330142A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330142A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Tr%C3%A9gey%20Rive%20de%20Garonne&code_postal=33015",
+        "osmId": "fr-education:0330142A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel des Menuts",
+        "address": "33800, Bordeaux",
+        "coordinates": [
+          44.830059688152616,
+          -0.5636965228171947
+        ],
+        "website": "https://blogpeda.ac-bordeaux.fr/lplesmenuts/",
+        "externalId": "0330033G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330033G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20des%20Menuts&code_postal=33800",
+        "osmId": "fr-education:0330033G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Jean Condorcet",
+        "address": "33030, Bordeaux",
+        "coordinates": [
+          44.85906780495569,
+          -0.5776829076302
+        ],
+        "website": "http://www.lcondorcetbx.fr",
+        "externalId": "0332747G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332747G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Jean%20Condorcet&code_postal=33030",
+        "osmId": "fr-education:0332747G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel les Chartrons",
+        "address": "33026, Bordeaux",
+        "coordinates": [
+          44.85585713131863,
+          -0.5733044623896109
+        ],
+        "website": "http://www.lyceeleschartrons.fr",
+        "externalId": "0331460H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331460H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20les%20Chartrons&code_postal=33026",
+        "osmId": "fr-education:0331460H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Assomption Sainte Clotilde",
+        "address": "33073, Bordeaux",
+        "coordinates": [
+          44.8520192458742,
+          -0.5945713839434625
+        ],
+        "website": "http://www.assomption-bordeaux.com",
+        "externalId": "0331495W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331495W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Assomption%20Sainte%20Clotilde&code_postal=33073",
+        "osmId": "fr-education:0331495W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Montessori de Bordeaux-Wilson",
+        "address": "33200, Bordeaux",
+        "coordinates": [
+          44.842248818491,
+          -0.6033973657042246
+        ],
+        "website": null,
+        "externalId": "0333576H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0333576H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Montessori%20de%20Bordeaux-Wilson&code_postal=33200",
+        "osmId": "fr-education:0333576H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Sainte-Marie Bastide",
+        "address": "33072, Bordeaux",
+        "coordinates": [
+          44.84301287184102,
+          -0.5520789557158561
+        ],
+        "website": "http://www.smb33.fr",
+        "externalId": "0331501C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331501C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Sainte-Marie%20Bastide&code_postal=33072",
+        "osmId": "fr-education:0331501C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel privé Sainte-Famille Saintonge",
+        "address": "33023, Bordeaux",
+        "coordinates": [
+          44.832145742955156,
+          -0.5799913670431448
+        ],
+        "website": "http://www.lyceesaintefamille.com/",
+        "externalId": "0332496J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332496J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Sainte-Famille%20Saintonge&code_postal=33023",
+        "osmId": "fr-education:0332496J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée François Mauriac",
+        "address": "33015, Bordeaux",
+        "coordinates": [
+          44.839353543802865,
+          -0.555575332926838
+        ],
+        "website": "http://lyceemauriac.fr",
+        "externalId": "0330027A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330027A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Fran%C3%A7ois%20Mauriac&code_postal=33015",
+        "osmId": "fr-education:0330027A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Toulouse Lautrec",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.8337748005179,
+          -0.5927954090492732
+        ],
+        "website": "http://www.lautrecbordeaux.fr",
+        "externalId": "0330031E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330031E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Toulouse%20Lautrec&code_postal=33000",
+        "osmId": "fr-education:0330031E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Gustave Eiffel",
+        "address": "33074, Bordeaux",
+        "coordinates": [
+          44.82891084178311,
+          -0.564361965386203
+        ],
+        "website": "http://www.eiffel-bordeaux.org",
+        "externalId": "0330028B",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330028B&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Gustave%20Eiffel&code_postal=33074",
+        "osmId": "fr-education:0330028B",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Saint-Vincent de Paul",
+        "address": "33074, Bordeaux",
+        "coordinates": [
+          44.82547366651575,
+          -0.5753856185475857
+        ],
+        "website": "https://svpbordeaux.fr/",
+        "externalId": "0331590Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331590Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Saint-Vincent%20de%20Paul&code_postal=33074",
+        "osmId": "fr-education:0331590Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Camille Jullian",
+        "address": "33074, Bordeaux",
+        "coordinates": [
+          44.84462341783412,
+          -0.5902035283353789
+        ],
+        "website": "http://www.camillejullian.com",
+        "externalId": "0330023W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330023W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Camille%20Jullian&code_postal=33074",
+        "osmId": "fr-education:0330023W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Albert Le Grand",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.823937482245064,
+          -0.5819615849023279
+        ],
+        "website": "http://albert-le-grand.com",
+        "externalId": "0331491S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331491S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Albert%20Le%20Grand&code_postal=33000",
+        "osmId": "fr-education:0331491S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel privé Bel-Orme",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.849825462652845,
+          -0.5941293608625177
+        ],
+        "website": "http://www.belorme.com",
+        "externalId": "0332495H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332495H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Bel-Orme&code_postal=33000",
+        "osmId": "fr-education:0332495H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Le Mirail - le lycée du matin",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.83346960302127,
+          -0.5709652466719848
+        ],
+        "website": "http://www.le-mirail.fr/",
+        "externalId": "0331498Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331498Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Le%20Mirail%20-%20le%20lyc%C3%A9e%20du%20matin&code_postal=33000",
+        "osmId": "fr-education:0331498Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Alphonse Beau de Rochas",
+        "address": "33028, Bordeaux",
+        "coordinates": [
+          44.86652816851035,
+          -0.5675028657905554
+        ],
+        "website": "https://lyceebeauderochas.fr/",
+        "externalId": "0332445D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332445D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Alphonse%20Beau%20de%20Rochas&code_postal=33028",
+        "osmId": "fr-education:0332445D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel privé Saint-Augustin",
+        "address": "33035, Bordeaux",
+        "coordinates": [
+          44.83453373630023,
+          -0.6071466968492667
+        ],
+        "website": "https://essa33.fr/",
+        "externalId": "0331585U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331585U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Saint-Augustin&code_postal=33035",
+        "osmId": "fr-education:0331585U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole technique privée Ambre Select Académie",
+        "address": "33100, Bordeaux",
+        "coordinates": [
+          44.840804587823236,
+          -0.557457126509687
+        ],
+        "website": null,
+        "externalId": "0332880B",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0332880B&type_etablissement=Lycée&selection=Ecole%20technique%20priv%C3%A9e%20Ambre%20Select%20Acad%C3%A9mie&code_postal=33100",
+        "osmId": "fr-education:0332880B",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Général et Technologique EIN GEDI - Etablissement expérimental et innovant au service des jeunes ayant une déficience intellectuelle",
+        "address": "33000, Bordeaux",
+        "coordinates": [
+          44.825568631462524,
+          -0.5883204364671979
+        ],
+        "website": null,
+        "externalId": "0333537R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0333537R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20G%C3%A9n%C3%A9ral%20et%20Technologique%20EIN%20GEDI%20-%20Etablissement%20exp%C3%A9rimental%20et%20innovant%20au%20service%20des%20jeunes%20ayant%20une%20d%C3%A9ficience%20intellectuelle&code_postal=33000",
+        "osmId": "fr-education:0333537R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:41.526Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ],
+    "universities": [
+      {
+        "name": "Bordeaux INP",
+        "address": "Avenue des facultés, 33405, Talence",
+        "coordinates": [
+          44.80572,
+          -0.60506
+        ],
+        "website": "https://www.ipb.fr/",
+        "osmId": "fr-esr:UU33701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:24.014Z",
+        "type": "Grand établissement",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École d'ingénieurs des sciences aérospatiales",
+        "address": "Allée des Charbonnières, 33127, Saint-Jean-d'Illac",
+        "coordinates": [
+          44.800616,
+          -0.777097
+        ],
+        "website": "http://www.elisa-aerospace.fr/",
+        "osmId": "fr-esr:UU33701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:24.014Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École nationale supérieure des sciences agronomiques de Bordeaux Aquitaine",
+        "address": "1 cours du Général de Gaulle, 33175, Gradignan CEDEX",
+        "coordinates": [
+          44.792718,
+          -0.608576
+        ],
+        "website": "https://www.agro-bordeaux.fr/",
+        "osmId": "fr-esr:UU33701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:24.014Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "KEDGE Business School",
+        "address": "680 COURS DE LA LIBERATION, 33405, TALENCE CEDEX",
+        "coordinates": [
+          44.79622,
+          -0.600218
+        ],
+        "website": "https://kedge.edu/",
+        "osmId": "fr-esr:UU33701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:24.014Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Sciences Po Bordeaux",
+        "address": "11 allée Ausone, 33607, Pessac CEDEX",
+        "coordinates": [
+          44.79886,
+          -0.61409
+        ],
+        "website": "https://www.sciencespobordeaux.fr/",
+        "osmId": "fr-esr:UU33701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:24.014Z",
+        "type": "Autre établissement",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Université de Bordeaux",
+        "address": "351 cours de la Libération, 33405, Talence CEDEX",
+        "coordinates": [
+          44.809966,
+          -0.596578
+        ],
+        "website": "https://www.u-bordeaux.fr/",
+        "osmId": "fr-esr:UU33701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:24.014Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Université Bordeaux Montaigne",
+        "address": "Domaine Universitaire, 33607, Pessac Cedex",
+        "coordinates": [
+          44.8015,
+          -0.615058
+        ],
+        "website": "http://www.u-bordeaux-montaigne.fr/",
+        "osmId": "fr-esr:UU33701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:24.014Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      }
+    ],
+    "internationalHighSchools": [
+      {
+        "name": "Lycée Nicolas Brémontier",
+        "address": "33800, Bordeaux",
+        "coordinates": [
+          44.82398898745547,
+          -0.570333266630794
+        ],
+        "website": "http://www.lyceebremontier.fr",
+        "externalId": "0330029C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330029C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Nicolas%20Br%C3%A9montier&code_postal=33800",
+        "osmId": "fr-education:0330029C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:27.375Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée François Magendie",
+        "address": "33023, Bordeaux",
+        "coordinates": [
+          44.82694185208546,
+          -0.5853763200069433
+        ],
+        "website": "http://www.magendie.net",
+        "externalId": "0330026Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330026Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Fran%C3%A7ois%20Magendie&code_postal=33023",
+        "osmId": "fr-education:0330026Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:27.375Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Assomption Sainte Clotilde",
+        "address": "33073, Bordeaux",
+        "coordinates": [
+          44.8520192458742,
+          -0.5945713839434625
+        ],
+        "website": "http://www.assomption-bordeaux.com",
+        "externalId": "0331495W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0331495W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Assomption%20Sainte%20Clotilde&code_postal=33073",
+        "osmId": "fr-education:0331495W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:27.375Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Camille Jullian",
+        "address": "33074, Bordeaux",
+        "coordinates": [
+          44.84462341783412,
+          -0.5902035283353789
+        ],
+        "website": "http://www.camillejullian.com",
+        "externalId": "0330023W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0330023W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Camille%20Jullian&code_postal=33074",
+        "osmId": "fr-education:0330023W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:27.375Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ]
+  },
+  "culture": {
+    "museums": [
+      {
+        "name": "musée des beaux-arts",
+        "address": "20 crs. d'Albret, 33000 Bordeaux",
+        "coordinates": [
+          44.8378486918577,
+          -0.580119032453588
+        ],
+        "website": null,
+        "externalId": "M0065",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20beaux-arts",
+        "osmId": "fr-culture:M0065",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:37.582Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée de la Création Franche",
+        "address": "58 av. du Maréchal de Lattre-de-Tassigny, 33130 Bègles",
+        "coordinates": [
+          44.8054923831933,
+          -0.54365802456935
+        ],
+        "website": null,
+        "externalId": "M1222",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20de%20la%20Cr%C3%A9ation%20Franche",
+        "osmId": "fr-culture:M1222",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:37.582Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Musée de France"
+      },
+      {
+        "name": "CAPC - musée d'art contemporain",
+        "address": "7 r. Ferrère, 33000 Bordeaux",
+        "coordinates": [
+          44.8485611478585,
+          -0.572210237607783
+        ],
+        "website": null,
+        "externalId": "M0067",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CAPC%20-%20mus%C3%A9e%20d'art%20contemporain",
+        "osmId": "fr-culture:M0067",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:37.582Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Musée de France"
+      },
+      {
+        "name": "centre national Jean Moulin",
+        "address": "48 r. Vital Carles, 33000 Bordeaux",
+        "coordinates": [
+          44.8381739083359,
+          -0.577849972787014
+        ],
+        "website": null,
+        "externalId": "M0068",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=centre%20national%20Jean%20Moulin",
+        "osmId": "fr-culture:M0068",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:37.582Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée d'Aquitaine",
+        "address": "20 crs. Pasteur, 33000 Bordeaux",
+        "coordinates": [
+          44.8356767958214,
+          -0.57470323998935
+        ],
+        "website": null,
+        "externalId": "M0064",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20d'Aquitaine",
+        "osmId": "fr-culture:M0064",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:37.582Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée Goupil",
+        "address": "20 crs. Pasteur, 33000 Bordeaux",
+        "coordinates": [
+          44.8356767958214,
+          -0.57470323998935
+        ],
+        "website": null,
+        "externalId": "M0069",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Goupil",
+        "osmId": "fr-culture:M0069",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:37.582Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Musée de France"
+      },
+      {
+        "name": "muséum d'histoire naturelle",
+        "address": "5 pl. Bardineau, 33000 Bordeaux",
+        "coordinates": [
+          44.8483779590435,
+          -0.580164968639324
+        ],
+        "website": null,
+        "externalId": "M7026",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9um%20d'histoire%20naturelle",
+        "osmId": "fr-culture:M7026",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:37.582Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des arts décoratifs et du design",
+        "address": "39 r. Bouffard, 33000 Bordeaux",
+        "coordinates": [
+          44.8388474263637,
+          -0.580220720898315
+        ],
+        "website": null,
+        "externalId": "M0066",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20arts%20d%C3%A9coratifs%20et%20du%20design",
+        "osmId": "fr-culture:M0066",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:37.582Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Musée de France"
+      }
+    ],
+    "theaters": [
+      {
+        "name": "Compagnie théâtrale L'Œil / Théâtre La Lucarne",
+        "address": "1-3 r. Beyssac, 33000 Bordeaux",
+        "coordinates": [
+          44.8332716095187,
+          -0.562964134248362
+        ],
+        "website": null,
+        "externalId": "ORG004079",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Compagnie%20th%C3%A9%C3%A2trale%20L'%C5%92il%20%2F%20Th%C3%A9%C3%A2tre%20La%20Lucarne",
+        "osmId": "fr-culture:ORG004079",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:40.079Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "49",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre du Pont Tournant",
+        "address": "13 r. Charlevoix de Villers, 33000 Bordeaux",
+        "coordinates": [
+          44.8706893806191,
+          -0.548446405226518
+        ],
+        "website": null,
+        "externalId": "ORG003998",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20du%20Pont%20Tournant",
+        "osmId": "fr-culture:ORG003998",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:40.079Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "150",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Ville de Pessac - Service culturel - Le Royal",
+        "address": "av. Jean Cordier, 33600 Pessac",
+        "coordinates": [
+          44.816382,
+          -0.618828
+        ],
+        "website": null,
+        "externalId": "ORG003217-EQU000426",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Ville%20de%20Pessac%20-%20Service%20culturel%20-%20Le%20Royal",
+        "osmId": "fr-culture:ORG003217-EQU000426",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:40.079Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Théâtre de ville",
+        "theaterSeats": "178",
+        "theaterOrganism": "Service culturel de Pessac"
+      },
+      {
+        "name": "Théâtre en Miettes - Salle du Prêche",
+        "address": "2 r. du Prêche, 33130 Bègles",
+        "coordinates": [
+          44.8113491403418,
+          -0.545573626878241
+        ],
+        "website": null,
+        "externalId": "ORG004073-EQU001140",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20en%20Miettes%20-%20Salle%20du%20Pr%C3%AAche",
+        "osmId": "fr-culture:ORG004073-EQU001140",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:40.079Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "117",
+        "theaterOrganism": "Théâtre en Miettes"
+      },
+      {
+        "name": "Ville de Pessac - Salle Le Royal",
+        "address": "32 bis av. Jean Cordier, 33600 Pessac",
+        "coordinates": [
+          44.8133609290338,
+          -0.622382486818458
+        ],
+        "website": null,
+        "externalId": "ORG005499-EQU001665",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Ville%20de%20Pessac%20-%20Salle%20Le%20Royal",
+        "osmId": "fr-culture:ORG005499-EQU001665",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:40.079Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Théâtre de ville",
+        "theaterSeats": "1044",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre des Salinières",
+        "address": "4 r. Buhan, 33000 Bordeaux",
+        "coordinates": [
+          44.8370380559358,
+          -0.570610055593433
+        ],
+        "website": null,
+        "externalId": "ORG003474",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20des%20Salini%C3%A8res",
+        "osmId": "fr-culture:ORG003474",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:40.079Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Théâtre privé",
+        "theaterSeats": "280",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Boîte à jouer",
+        "address": "129 crs. Edouard Vaillant, 33000 Bordeaux",
+        "coordinates": [
+          44.8638226311456,
+          -0.562125734307747
+        ],
+        "website": null,
+        "externalId": "ORG002991",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Bo%C3%AEte%20%C3%A0%20jouer",
+        "osmId": "fr-culture:ORG002991",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:40.079Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Théâtre hors label",
+        "theaterSeats": "70",
+        "theaterOrganism": null
+      }
+    ],
+    "cinemas": [
+      {
+        "name": "UGC CINE CITE",
+        "address": "13-15 r. Georges Bonnac, 33000 Bordeaux",
+        "coordinates": [
+          44.8405690256879,
+          -0.582003756063152
+        ],
+        "website": null,
+        "externalId": "62804",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=UGC%20CINE%20CITE",
+        "osmId": "fr-culture:62804",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:38.799Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": null,
+        "screens": "18",
+        "seats": "2731",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "MEGA CGR LE FRANCAIS",
+        "address": "rond-point de l' Intendance, 33000 Bordeaux",
+        "coordinates": [
+          44.841914,
+          -0.577194
+        ],
+        "website": null,
+        "externalId": "62802",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MEGA%20CGR%20LE%20FRANCAIS",
+        "osmId": "fr-culture:62802",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:38.799Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": null,
+        "screens": "12",
+        "seats": "1789",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "UTOPIA",
+        "address": "5 pl. Camille Jullian, 33000 Bordeaux",
+        "coordinates": [
+          44.8392079399139,
+          -0.572425433783591
+        ],
+        "website": null,
+        "externalId": "63411",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=UTOPIA",
+        "osmId": "fr-culture:63411",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:38.799Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Art et essai",
+        "screens": "5",
+        "seats": "553",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "UGC TALENCE",
+        "address": "all. du 7eme Art, 33400 Talence",
+        "coordinates": [
+          44.811682,
+          -0.592543
+        ],
+        "website": null,
+        "externalId": "421242",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=UGC%20TALENCE",
+        "osmId": "fr-culture:421242",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:38.799Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": null,
+        "screens": "12",
+        "seats": "2403",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "MEGARAMA",
+        "address": "7 q. des Queyries, 33000 Bordeaux",
+        "coordinates": [
+          44.8419569157299,
+          -0.56157846832026
+        ],
+        "website": null,
+        "externalId": "62871",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MEGARAMA",
+        "osmId": "fr-culture:62871",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:38.799Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": null,
+        "screens": "17",
+        "seats": "2878",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "UGC CINE CITE BASSINS A FLOT",
+        "address": "6 q. Virginie Hériot Bassins À Flot N 2, 33000 Bordeaux",
+        "coordinates": [
+          44.8664280427556,
+          -0.561068032911375
+        ],
+        "website": null,
+        "externalId": "725080",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=UGC%20CINE%20CITE%20BASSINS%20A%20FLOT",
+        "osmId": "fr-culture:725080",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:38.799Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": null,
+        "screens": "13",
+        "seats": "2394",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "LE FESTIVAL",
+        "address": "151 bd Albert 1er, 33130 Bègles",
+        "coordinates": [
+          44.813225,
+          -0.563936
+        ],
+        "website": null,
+        "externalId": "46862",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=LE%20FESTIVAL",
+        "osmId": "fr-culture:46862",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:38.799Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Art et essai",
+        "screens": "2",
+        "seats": "374",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      }
+    ],
+    "operas": [
+      {
+        "name": "Opéra National de Bordeaux",
+        "address": "pl. de la Comédie, 33000 Bordeaux",
+        "coordinates": [
+          44.8428339640122,
+          -0.573079791622658
+        ],
+        "website": null,
+        "externalId": "5952701",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Op%C3%A9ra%20National%20de%20Bordeaux",
+        "osmId": "fr-culture:5952701",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:41.295Z",
+        "type": "Opéra",
+        "dataSource": "French Ministry of Culture",
+        "region": "Nouvelle-Aquitaine",
+        "departement": "Gironde",
+        "label": "Opéra national en région"
+      }
+    ]
+  },
+  "transportation": {
+    "internationalFlights": 8,
+    "transitScore": 8.2,
+    "distanceToParisWithCar": 9.7,
+    "distanceToParisWithTrain": 2.5,
+    "distanceToLyonWithCar": 9.2,
+    "distanceToLyonWithTrain": 4.5
+  },
+  "geography": {
+    "hikes": [
+      {
+        "name": "Balade de l'Estuaire",
+        "description": "Balade de l'Estuaire (hiking)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 13.2,
+        "difficulty": null,
+        "externalId": 7350084,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7350084",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de Landiras nº 1 : boucle locale",
+        "description": "Boucle de Landiras nº 1 : boucle locale (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 8.9,
+        "difficulty": null,
+        "externalId": 9377336,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9377336",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de Landiras nº 2 : boucle locale",
+        "description": "Boucle de Landiras nº 2 : boucle locale (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 10.2,
+        "difficulty": null,
+        "externalId": 9735819,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9735819",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle locale de Barsac",
+        "description": "Boucle locale de Barsac (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 17.5,
+        "difficulty": null,
+        "externalId": 10508277,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10508277",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Fargues-Saint-Hilaire : boucle locale",
+        "description": "Fargues-Saint-Hilaire : boucle locale (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 3.5,
+        "difficulty": null,
+        "externalId": 10745278,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10745278",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Monprimblanc et Loupiac : boucle locale",
+        "description": "Monprimblanc et Loupiac : boucle locale (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 10.5,
+        "difficulty": null,
+        "externalId": 11210158,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11210158",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle locale de Cérons",
+        "description": "Boucle locale de Cérons (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 10.9,
+        "difficulty": null,
+        "externalId": 11680236,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11680236",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Des Bords de Garonne : circuit départemental",
+        "description": "Des Bords de Garonne : circuit départemental (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 25.4,
+        "difficulty": null,
+        "externalId": 13370542,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13370542",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle locale d'Arbanats",
+        "description": "Boucle locale d'Arbanats (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 5.9,
+        "difficulty": null,
+        "externalId": 13464296,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13464296",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle locale de Béguey",
+        "description": "Boucle locale de Béguey (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 5.5,
+        "difficulty": null,
+        "externalId": 14785669,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14785669",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle locale de Cadillac",
+        "description": "Boucle locale de Cadillac (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 9.9,
+        "difficulty": null,
+        "externalId": 15537034,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15537034",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Étape 8 • Chemin d'Amadour",
+        "description": "Étape 8 • Chemin d'Amadour (nwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 27.1,
+        "difficulty": null,
+        "externalId": 15693672,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15693672",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Étape 7 • Chemin d'Amadour",
+        "description": "Étape 7 • Chemin d'Amadour (nwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 33.8,
+        "difficulty": null,
+        "externalId": 15693673,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15693673",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Étape 5 • Chemin d'Amadour",
+        "description": "Étape 5 • Chemin d'Amadour (nwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 26.2,
+        "difficulty": null,
+        "externalId": 15693675,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15693675",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Étape 4 • Chemin d'Amadour",
+        "description": "Étape 4 • Chemin d'Amadour (nwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 27.4,
+        "difficulty": null,
+        "externalId": 15693676,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15693676",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Étape 6 • Chemin d'Amadour",
+        "description": "Étape 6 • Chemin d'Amadour (nwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 19.5,
+        "difficulty": null,
+        "externalId": 15699320,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15699320",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcours Sport Santé",
+        "description": "Parcours Sport Santé (lwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 17594385,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17594385",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Via Sancti Martini - Chemin de Saragosse",
+        "description": "Via Sancti Martini - Chemin de Saragosse (iwn)",
+        "coordinates": [
+          44.841225,
+          -0.5800364
+        ],
+        "length": 911.9,
+        "difficulty": null,
+        "externalId": 19347081,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19347081",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "hikesTotalLength": 1168.2
+  },
+  "housing": {
+    "avgSellPricePerM2": 5429,
+    "avgRentPricePerM2": 16
+  },
+  "qualityOfLife": {
+    "crimeRate": 2.8,
+    "greenSpaces": 8,
+    "airQuality": 7.8,
+    "costOfLife": 7.2,
+    "liveabilityScore": 8.2,
+    "healthQuality": 8
+  },
+  "images": [
+    {
+      "url": "https://images.pexels.com/photos/5913761/pexels-photo-5913761.jpeg?w=1200&h=400&fit=crop&crop=center",
+      "alt": "The Pont Jacques Chaban-Delmas bridge in Bordeaux on a sunny day, with cars and pedestrians.",
+      "photographer": "Aurélien Grail",
+      "isBanner": true
+    },
+    {
+      "url": "https://images.pexels.com/photos/30832872/pexels-photo-30832872.jpeg",
+      "alt": "Aerial view of a wine cellar with oak barrels in Margaux, France, showcasing wine production.",
+      "photographer": "Liv Kao",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/33529169/pexels-photo-33529169.jpeg",
+      "alt": "La Cité du Vin in Bordeaux with moored boats on the Garonne River, a blend of modern architecture and natural beauty.",
+      "photographer": "wim de mont",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1694360/pexels-photo-1694360.jpeg",
+      "alt": "Charming facade of a classic French manor in Bordeaux, showcasing unique architecture.",
+      "photographer": "Niki Nagy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18398399/pexels-photo-18398399.jpeg",
+      "alt": "Urban group fashion portrait on steps of Bordeaux architecture.",
+      "photographer": "Lucas Toyes",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg",
+      "alt": "Breathtaking sunset reflection at Place de la Bourse, Bordeaux, France, showcasing historic architecture.",
+      "photographer": "Borja Lopez",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1420511/pexels-photo-1420511.jpeg",
+      "alt": "Couple shares a tender moment in a decaying, graffiti-covered room in Bordeaux.",
+      "photographer": "Chrysostomos Galathris",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/916446/pexels-photo-916446.jpeg",
+      "alt": "Traditional French storefront of Le Comptoir de Mathilde in Bordeaux, offering local delicacies.",
+      "photographer": "John",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1694359/pexels-photo-1694359.jpeg",
+      "alt": "Discover the charming architecture of Saint Émilion, France, with its historic buildings and scenic landscape.",
+      "photographer": "Niki Nagy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1694432/pexels-photo-1694432.jpeg",
+      "alt": "Explore the charming historic architecture of Bordeaux, France, showcasing old town rooftops and vintage facades.",
+      "photographer": "Niki Nagy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15759974/pexels-photo-15759974.jpeg",
+      "alt": "A sunny street view of Maison Dubernet in Bordeaux with people walking by.",
+      "photographer": "Paulo Cerqueira",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/173884/pexels-photo-173884.jpeg",
+      "alt": "Two pigeons perched on a decorative lamp post against a cloudy sky in Bordeaux, France.",
+      "photographer": "ciboulette",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2469212/pexels-photo-2469212.jpeg",
+      "alt": "Urban street view of Bordeaux, France with people biking and walking.",
+      "photographer": "Borja Lopez",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2215578/pexels-photo-2215578.jpeg",
+      "alt": "Group of friends enjoying leisure time at an outdoor cafe in Bordeaux.",
+      "photographer": "Borja Lopez",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4913464/pexels-photo-4913464.jpeg",
+      "alt": "Square with Garonne river and aged house facades near road with cars in Bordeaux",
+      "photographer": "Maria Orlova",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/724091/pexels-photo-724091.jpeg",
+      "alt": "Close-up of Château Martineaux Bordeaux wine bottles highlighting elegance and luxury.",
+      "photographer": "Min An",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1398236/pexels-photo-1398236.jpeg",
+      "alt": "A couple enjoys a peaceful walk through a lush forest in Bordeaux, France, showcasing nature's tranquility.",
+      "photographer": "Chrysostomos Galathris",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1694428/pexels-photo-1694428.jpeg",
+      "alt": "Stunning Gothic architecture of Bordeaux cathedral with people in view.",
+      "photographer": "Niki Nagy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1398224/pexels-photo-1398224.jpeg",
+      "alt": "A romantic moment between two men in nature, captured in Bordeaux, France.",
+      "photographer": "Chrysostomos Galathris",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9938007/pexels-photo-9938007.jpeg",
+      "alt": "Aerial view of Bordeaux, France, featuring architectural rooftops and the iconic church spire.",
+      "photographer": "Borja Lopez",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20409358/pexels-photo-20409358.jpeg",
+      "alt": "A man riding an electric bike captures motion blur in Bordeaux's urban streets.",
+      "photographer": "Jean Fourche",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32769595/pexels-photo-32769595.jpeg",
+      "alt": "A woman points across the reflective surface in front of Place de la Bourse, Bordeaux, France.",
+      "photographer": "Kathleen  E.",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20409348/pexels-photo-20409348.jpeg",
+      "alt": "A green bicycle inside a train, seen through a window, in Bordeaux, France.",
+      "photographer": "Jean Fourche",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13260074/pexels-photo-13260074.jpeg",
+      "alt": "A luxurious top view of a poolside terrace in Bordeaux, featuring sun loungers and tiled flooring.",
+      "photographer": "Dylan Leagh",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7433038/pexels-photo-7433038.jpeg",
+      "alt": "Scenic aerial view of park pathways and greenery in Bordeaux, France.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13873836/pexels-photo-13873836.jpeg",
+      "alt": "A child joyfully blowing bubbles in a grayscale outdoor setting in Bordeaux.",
+      "photographer": "Noël Raffoux",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30732711/pexels-photo-30732711.jpeg",
+      "alt": "Couple relaxing under trees in Bordeaux city park on a sunny day.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30732721/pexels-photo-30732721.jpeg",
+      "alt": "A sleek blue tram travels through a tree-lined avenue in Bordeaux, showcasing modern transportation.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9686137/pexels-photo-9686137.jpeg",
+      "alt": "Drone image capturing the unique architectural design and urban layout in Bordeaux, France.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/24039179/pexels-photo-24039179.jpeg",
+      "alt": "Detailed view of the Gothic architecture of Bordeaux Cathedral in France.",
+      "photographer": "Jing Zhan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30557560/pexels-photo-30557560.jpeg",
+      "alt": "Showcase of elegant wine bottles from Pauillac, France, in a modern bar setting.",
+      "photographer": "Liv Kao",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30832873/pexels-photo-30832873.jpeg",
+      "alt": "Workers managing oak barrels in a Margaux wine cellar, France.",
+      "photographer": "Liv Kao",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31628825/pexels-photo-31628825.jpeg",
+      "alt": "A couple enjoys a sunny ride on a cargo bike in Bordeaux, France, near a tram.",
+      "photographer": "Jean Fourche",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/5177081/pexels-photo-5177081.jpeg",
+      "alt": "Long exposure photo capturing light trails on a Bordeaux highway at night.",
+      "photographer": "Adriana Guda",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28237841/pexels-photo-28237841.jpeg",
+      "alt": "Bordeaux Claret wine bottle and glass on wood against rustic brick.",
+      "photographer": "Brett Jordan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30557572/pexels-photo-30557572.jpeg",
+      "alt": "Stacked oak wine barrels in a dimly lit cellar in Pauillac, France.",
+      "photographer": "Liv Kao",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9722063/pexels-photo-9722063.jpeg",
+      "alt": "Stunning aerial view of Bordeaux's urban landscape and architecture captured at dusk.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9787774/pexels-photo-9787774.jpeg",
+      "alt": "Scenic aerial view of Bordeaux, France in the vibrant autumn season with a lake and lush trees.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9754938/pexels-photo-9754938.jpeg",
+      "alt": "A beautiful aerial view of Bordeaux showcasing vibrant autumn colors and a serene lake.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9754939/pexels-photo-9754939.jpeg",
+      "alt": "Stunning aerial view of Bordeaux, France showcasing the scenic autumn landscape with fields and distant buildings.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30557624/pexels-photo-30557624.jpeg",
+      "alt": "Person uncorking wine bottle in Margaux, Bordeaux. Elegant wine tasting in a French cellar.",
+      "photographer": "Liv Kao",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30557561/pexels-photo-30557561.jpeg",
+      "alt": "A collection of vintage wine bottles from an old cellar in Pauillac, France.",
+      "photographer": "Liv Kao",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/19089515/pexels-photo-19089515.png",
+      "alt": "Dusty wine bottles aging in a Bordeaux cellar, showcasing vintage ambiance.",
+      "photographer": "Oliver Rivas",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/14593412/pexels-photo-14593412.jpeg",
+      "alt": "Wooden wine barrels in a Bordeaux vineyard cellar epitomizing traditional winemaking.",
+      "photographer": "Tim Durand",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30557600/pexels-photo-30557600.jpeg",
+      "alt": "Discover a sophisticated wine tasting in Saint-Émilion, France.",
+      "photographer": "Liv Kao",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7420272/pexels-photo-7420272.jpeg",
+      "alt": "Majestic aerial shot of a historic château in Bordeaux surrounded by autumn trees.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11739086/pexels-photo-11739086.jpeg",
+      "alt": "Explore the iconic La Cité du Vin museum in Bordeaux, France, showcasing modern architectural design.",
+      "photographer": "Mathias Reding",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18220657/pexels-photo-18220657.jpeg",
+      "alt": "Picturesque aerial view of Saint Émilion, France showcasing Gothic architecture and vineyards.",
+      "photographer": "Philippe WEICKMANN",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/14593408/pexels-photo-14593408.jpeg",
+      "alt": "A dimly lit wine cellar in Bordeaux with numerous wooden barrels for aging wine.",
+      "photographer": "Tim Durand",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30557566/pexels-photo-30557566.jpeg",
+      "alt": "Discover an elegant wine cellar display with rows of wine bottles in Pauillac, France.",
+      "photographer": "Liv Kao",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13832169/pexels-photo-13832169.jpeg",
+      "alt": "Rustic wooden wine barrels in a cellar in Martillac, France, showcasing vintage craftsmanship.",
+      "photographer": "Clement Lepetit",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27797398/pexels-photo-27797398.jpeg",
+      "alt": "Aerial view of lush vineyards in Orschwiller, Grand Est, France during sunny day.",
+      "photographer": "Julien Goettelmann",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9698991/pexels-photo-9698991.jpeg",
+      "alt": "Stunning aerial view showcasing modern architecture in Bordeaux, France.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10594953/pexels-photo-10594953.jpeg",
+      "alt": "Explore the modern Cité du Vin building in Bordeaux, France, featuring unique contemporary architecture.",
+      "photographer": "Ertabbt",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13622704/pexels-photo-13622704.jpeg",
+      "alt": "Bottles of Mercurey wine and apples on a rustic setting in Bourgogne, France.",
+      "photographer": "Maël  BALLAND",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/14816341/pexels-photo-14816341.jpeg",
+      "alt": "Scenic view of Clos de Vougeot Castle surrounded by a vineyard in Bourgogne, France.",
+      "photographer": "Gu Bra",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11739180/pexels-photo-11739180.jpeg",
+      "alt": "Modern design of Cité du Vin, Bordeaux with glass façade and bold yellow stripes.",
+      "photographer": "Mathias Reding",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30732719/pexels-photo-30732719.jpeg",
+      "alt": "Orange SUV on a pedestrian crossing in Bordeaux, France, with historical buildings in the backdrop.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/16547180/pexels-photo-16547180.jpeg",
+      "alt": "Elegant wine tasting setup with bottles and glasses in Beaune, France.",
+      "photographer": "Tim Durand",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/16441863/pexels-photo-16441863.jpeg",
+      "alt": "Chic champagne tasting with wine glasses and bottles in Aÿ, Grand Est, France.",
+      "photographer": "Tim Durand",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6377689/pexels-photo-6377689.jpeg",
+      "alt": "Wooden wine barrels stored in a Saint-Émilion cellar, France's renowned wine region.",
+      "photographer": "Oli",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9698993/pexels-photo-9698993.jpeg",
+      "alt": "Aerial view of modern architecture featuring a pyramid in Bordeaux, France on a sunny day.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7443974/pexels-photo-7443974.jpeg",
+      "alt": "Dramatic nighttime aerial view of La Cité du Vin and surrounding urban landscape in Bordeaux, France.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/33500489/pexels-photo-33500489.jpeg",
+      "alt": "Chapel on rocky hill under blue sky in Erquy, Bretagne, France.",
+      "photographer": "Hans Heemsbergen",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30732699/pexels-photo-30732699.jpeg",
+      "alt": "Lively scene at Bordeaux Place de la Bourse with families enjoying the reflecting pool.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6506986/pexels-photo-6506986.jpeg",
+      "alt": "Tram passing by the historic Place de la Bourse in Bordeaux, reflecting on the Miroir d'eau.",
+      "photographer": "Charl Durand",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18959050/pexels-photo-18959050.jpeg",
+      "alt": "A view of the iconic Place de la Bourse fountain with surrounding architecture in Bordeaux, France.",
+      "photographer": "Valentine Kulikov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20646255/pexels-photo-20646255.jpeg",
+      "alt": "Black and white view of Place de la Bourse in Bordeaux with reflection and local landmarks.",
+      "photographer": "Qais khan khanzada Officials page",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20409380/pexels-photo-20409380.jpeg",
+      "alt": "Yellow electric bike in Bordeaux's historic urban square with classic architecture.",
+      "photographer": "Jean Fourche",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17356595/pexels-photo-17356595.jpeg",
+      "alt": "Stunning neoclassical architecture of Place de la Bourse reflected on a calm water surface in Bordeaux, France.",
+      "photographer": "Miguel Cuenca",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32769465/pexels-photo-32769465.jpeg",
+      "alt": "Scenic view of Place de la Bourse with fountain in Bordeaux, France, showcasing its iconic architecture.",
+      "photographer": "Kathleen  E.",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32615359/pexels-photo-32615359.jpeg",
+      "alt": "People enjoying a sunny day at Place de la Bourse in Bordeaux, France, with the iconic water mirror.",
+      "photographer": "Didier VEILLON",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30732730/pexels-photo-30732730.jpeg",
+      "alt": "Bordeaux's Quinconces Square featuring tram tracks, cars, and lush greenery.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18980045/pexels-photo-18980045.jpeg",
+      "alt": "Black and white view of Bordeaux's gothic architecture featuring Saint-Michel Cathedral's spire.",
+      "photographer": "Özlem K",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27625129/pexels-photo-27625129.jpeg",
+      "alt": "Black and white photo of a monumental column and statue in Bordeaux, France.",
+      "photographer": "Mel Jlt",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11739087/pexels-photo-11739087.jpeg",
+      "alt": "Blurred tram passes the Girondins Monument in a vibrant city street of Bordeaux, France.",
+      "photographer": "Mathias Reding",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27625096/pexels-photo-27625096.jpeg",
+      "alt": "Stunning black and white photo of the majestic monument at Place des Quinconces, Bordeaux, France.",
+      "photographer": "Mel Jlt",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30732729/pexels-photo-30732729.jpeg",
+      "alt": "Bustling city square in Bordeaux, France with people enjoying summer activities.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11616191/pexels-photo-11616191.jpeg",
+      "alt": "Stunning view of modern architecture and a classic ferry in Bordeaux harbor, France.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/19089527/pexels-photo-19089527.png",
+      "alt": "Elegant dining space with luxury decor and unique lighting in Bordeaux, France.",
+      "photographer": "Oliver Rivas",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27625138/pexels-photo-27625138.jpeg",
+      "alt": "Dramatic black and white photo of the famous Bordeaux fountain sculpture splashing with water.",
+      "photographer": "Mel Jlt",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30732714/pexels-photo-30732714.jpeg",
+      "alt": "People walking near directional signs in Bordeaux, featuring historic architecture and bustling streets.",
+      "photographer": "TBD Traveller",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7443971/pexels-photo-7443971.jpeg",
+      "alt": "A stunning aerial view of modern architecture in Bordeaux, France captured during twilight.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    }
+  ],
+  "dataQuality": {
+    "completeness": 95,
+    "lastUpdated": "2025-08-22",
+    "sources": {
+      "weather": "Météo-France, 2023 data (corrected rainy days)",
+      "population": "INSEE, 2023 estimate",
+      "education": "French Ministry of Education, 2023",
+      "culture": "French Ministry of Culture, 2023",
+      "transportation": "Google Maps / SNCF, 2023",
+      "geography": "Google Maps / AllTrails, 2023",
+      "housing": "MeilleursAgents / FNAIM, 2023",
+      "qualityOfLife": "French government sources, 2023",
+      "images": "Pexels API"
+    }
+  }
+}

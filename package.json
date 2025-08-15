@@ -7,16 +7,30 @@
     "@testing-library/jest-dom": "^6.7.0",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "axios": "^1.11.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.294.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
+    "recharts": "^2.8.0",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "setup-env": "node scripts/setup-env.js",
+    "populate-places": "node scripts/populate-city-places.js",
+    "update-city": "node scripts/update-city.js",
+    "update-weather": "node scripts/update-all-weather.js",
+    "update-photos": "node scripts/update-all-photos.js"
   },
   "eslintConfig": {
     "extends": [

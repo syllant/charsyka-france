@@ -1,0 +1,2941 @@
+{
+  "id": "aix-en-provence",
+  "name": "Aix-en-Provence",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "coordinates": [
+    43.5297,
+    5.4474
+  ],
+  "weather": {
+    "sunnyDays": 227,
+    "rainyDays": 139,
+    "avgTemp": 15.3,
+    "monthlyData": [
+      7.6,
+      8.8,
+      10.4,
+      13.8,
+      16.9,
+      24.7,
+      24.3,
+      23.8,
+      18.5,
+      16.9,
+      11.1,
+      6.4
+    ],
+    "monthlySunnyDays": [
+      15,
+      14,
+      17,
+      14,
+      19,
+      26,
+      27,
+      27,
+      15,
+      10,
+      17,
+      26
+    ],
+    "monthlyRainyDays": [
+      16,
+      14,
+      14,
+      16,
+      12,
+      4,
+      4,
+      5,
+      15,
+      21,
+      13,
+      5
+    ],
+    "monthlyPrecipitation": [
+      73.8,
+      52.3,
+      117.1,
+      72.4,
+      53.3,
+      6.5,
+      16.3,
+      10.1,
+      81.6,
+      79.2,
+      55.2,
+      38
+    ]
+  },
+  "population": {
+    "total": 145000,
+    "studentPercentage": 25,
+    "density": 1000
+  },
+  "education": {
+    "universities": [
+      {
+        "name": "Institut supérieur du bâtiment et des travaux publics",
+        "address": "11 avenue de Luminy, 13009, Marseille",
+        "coordinates": [
+          43.247519881264544,
+          5.437304377555848
+        ],
+        "website": "https://www.isba.fr/",
+        "osmId": "fr-esr:UU00759",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:20.795Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Centrale Méditerranée",
+        "address": "38 rue Frédéric-Joliot-Curie, 13451, Marseille CEDEX 13",
+        "coordinates": [
+          43.34136,
+          5.43829
+        ],
+        "website": "https://www.centrale-mediterranee.fr/fr",
+        "osmId": "fr-esr:UU00759",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:20.797Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Sciences Po Aix",
+        "address": "25 rue Gaston de Saporta, 13625, Aix-en-Provence CEDEX 1",
+        "coordinates": [
+          43.53146,
+          5.44663
+        ],
+        "website": "http://www.sciencespo-aix.fr/",
+        "osmId": "fr-esr:UU00759",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:20.797Z",
+        "type": "Autre établissement",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Aix-Marseille Université",
+        "address": "58 boulevard Charles Livon, 13284, Marseille CEDEX 07",
+        "coordinates": [
+          43.2935,
+          5.35781
+        ],
+        "website": "https://www.univ-amu.fr/",
+        "osmId": "fr-esr:UU00759",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:20.797Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      }
+    ],
+    "highSchools": [
+      {
+        "name": "Lycée militaire d'Aix-en-Provence",
+        "address": "13617, Aix-en-Provence",
+        "coordinates": [
+          43.52723747240502,
+          5.456919464332508
+        ],
+        "website": "https://www.terre.defense.gouv.fr/lycee-militaire-aix",
+        "externalId": "0131596P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131596P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20militaire%20d'Aix-en-Provence&code_postal=13617",
+        "osmId": "fr-education:0131596P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.259Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée du Sacré-Coeur",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.528432872097824,
+          5.453299968876162
+        ],
+        "website": "http://www.sacrecoeuraix.com",
+        "externalId": "0131862D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131862D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20du%20Sacr%C3%A9-Coeur&code_postal=13100",
+        "osmId": "fr-education:0131862D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent privé Célony",
+        "address": "13090, Aix-en-Provence",
+        "coordinates": [
+          43.52972143733798,
+          5.437505553182978
+        ],
+        "website": "http://www.lycee-celony.com/",
+        "externalId": "0133425C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133425C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20priv%C3%A9%20C%C3%A9lony&code_postal=13090",
+        "osmId": "fr-education:0133425C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole privée Val Saint André (Ecole secondaire générale)",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.51674961019937,
+          5.467239397022053
+        ],
+        "website": null,
+        "externalId": "0131669U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131669U&type_etablissement=Lycée&selection=Ecole%20priv%C3%A9e%20Val%20Saint%20Andr%C3%A9%20(Ecole%20secondaire%20g%C3%A9n%C3%A9rale)&code_postal=13100",
+        "osmId": "fr-education:0131669U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "L.T.P. CLOVIS HUGUES",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.5259987628482,
+          5.4521098282804505
+        ],
+        "website": null,
+        "externalId": "0131685L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131685L&type_etablissement=Lycée&selection=L.T.P.%20CLOVIS%20HUGUES&code_postal=13100",
+        "osmId": "fr-education:0131685L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "IBS Of Provence (Ecole secondaire générale privée)",
+        "address": "13080, Aix-en-Provence",
+        "coordinates": [
+          43.475539770638214,
+          5.420719778391347
+        ],
+        "website": null,
+        "externalId": "0133148B",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133148B&type_etablissement=Lycée&selection=IBS%20Of%20Provence%20(Ecole%20secondaire%20g%C3%A9n%C3%A9rale%20priv%C3%A9e)&code_postal=13080",
+        "osmId": "fr-education:0133148B",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Sainte-Catherine de Sienne",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.5304262568344,
+          5.450930525268522
+        ],
+        "website": "http://saintecatherineaix.fr",
+        "externalId": "0131320P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131320P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Sainte-Catherine%20de%20Sienne&code_postal=13100",
+        "osmId": "fr-education:0131320P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Nativité",
+        "address": "13097, Aix-en-Provence",
+        "coordinates": [
+          43.511973054854835,
+          5.43403036198567
+        ],
+        "website": "http://www.la-nativite.fr/",
+        "externalId": "0131319N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131319N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Nativit%C3%A9&code_postal=13097",
+        "osmId": "fr-education:0131319N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Saint-Éloi",
+        "address": "13626, Aix-en-Provence",
+        "coordinates": [
+          43.533863797465116,
+          5.450219803674986
+        ],
+        "website": "http://www.lycee-saint-eloi.com",
+        "externalId": "0131391S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131391S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Saint-%C3%89loi&code_postal=13626",
+        "osmId": "fr-education:0131391S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Émile Zola",
+        "address": "13181, Aix-en-Provence",
+        "coordinates": [
+          43.51129104740204,
+          5.460386927113972
+        ],
+        "website": "http://www.lyc-zola.ac-aix-marseille.fr",
+        "externalId": "0130001F",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130001F&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20%C3%89mile%20Zola&code_postal=13181",
+        "osmId": "fr-education:0130001F",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Sainte-Marie",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.531775904879396,
+          5.446209973241101
+        ],
+        "website": "http://www.lyceesaintemarie.org",
+        "externalId": "0133395V",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133395V&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Sainte-Marie&code_postal=13100",
+        "osmId": "fr-education:0133395V",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée international Georges Duby",
+        "address": "13080, Aix-en-Provence",
+        "coordinates": [
+          43.47970016002568,
+          5.41167007890441
+        ],
+        "website": "http://www.lyc-luynes.ac-aix-marseille.fr",
+        "externalId": "0133525L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133525L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20international%20Georges%20Duby&code_postal=13080",
+        "osmId": "fr-education:0133525L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole privée Susini Esthétique (Ecole secondaire professionnelle)",
+        "address": "13090, Aix-en-Provence",
+        "coordinates": [
+          43.51440844891174,
+          5.4319604192860655
+        ],
+        "website": null,
+        "externalId": "0132309P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0132309P&type_etablissement=Lycée&selection=Ecole%20priv%C3%A9e%20Susini%20Esth%C3%A9tique%20(Ecole%20secondaire%20professionnelle)&code_postal=13090",
+        "osmId": "fr-education:0132309P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel du Lycée polyvalent Emile Zola",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.51080077047424,
+          5.459818039242562
+        ],
+        "website": null,
+        "externalId": "0132569X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0132569X&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel%20du%20Lyc%C3%A9e%20polyvalent%20Emile%20Zola&code_postal=13100",
+        "osmId": "fr-education:0132569X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Gambetta",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.520020956239904,
+          5.45838956959889
+        ],
+        "website": "http://www.lyc-gambetta.ac-aix-marseille.fr",
+        "externalId": "0130006L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130006L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Gambetta&code_postal=13100",
+        "osmId": "fr-education:0130006L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Clovis Hugues",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.5259987628482,
+          5.4521098282804505
+        ],
+        "website": "http://www.lycee-clovis-hugues.com",
+        "externalId": "0133305X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133305X&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Clovis%20Hugues&code_postal=13100",
+        "osmId": "fr-education:0133305X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Vauvenargues",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.52866808228108,
+          5.454919557343631
+        ],
+        "website": "http://www.lyc-vauvenargues.ac-aix-marseille.fr",
+        "externalId": "0130003H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130003H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Vauvenargues&code_postal=13100",
+        "osmId": "fr-education:0130003H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Paul Cézanne",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.534145861532764,
+          5.459793503829646
+        ],
+        "website": "http://www.lyc-cezanne.ac-aix-marseille.fr",
+        "externalId": "0130002G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130002G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Paul%20C%C3%A9zanne&code_postal=13100",
+        "osmId": "fr-education:0130002G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "ACADEMIE D'ART DENTAIRE",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.51250223922286,
+          5.436319836684815
+        ],
+        "website": null,
+        "externalId": "0134010N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0134010N&type_etablissement=Lycée&selection=ACADEMIE%20D'ART%20DENTAIRE&code_postal=13100",
+        "osmId": "fr-education:0134010N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'Enseignement Professionnel du LPO Vauvenargues",
+        "address": "13080, Aix-en-Provence",
+        "coordinates": [
+          43.52881458532913,
+          5.455764614464098
+        ],
+        "website": null,
+        "externalId": "0130170P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130170P&type_etablissement=Lycée&selection=Section%20d'Enseignement%20Professionnel%20du%20LPO%20Vauvenargues&code_postal=13080",
+        "osmId": "fr-education:0130170P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:38.261Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ],
+    "internationalHighSchools": [
+      {
+        "name": "Lycée La Nativité",
+        "address": "13097, Aix-en-Provence",
+        "coordinates": [
+          43.511973054854835,
+          5.43403036198567
+        ],
+        "website": "http://www.la-nativite.fr/",
+        "externalId": "0131319N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0131319N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Nativit%C3%A9&code_postal=13097",
+        "osmId": "fr-education:0131319N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:24.124Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée international Georges Duby",
+        "address": "13080, Aix-en-Provence",
+        "coordinates": [
+          43.47970016002568,
+          5.41167007890441
+        ],
+        "website": "http://www.lyc-luynes.ac-aix-marseille.fr",
+        "externalId": "0133525L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0133525L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20international%20Georges%20Duby&code_postal=13080",
+        "osmId": "fr-education:0133525L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:24.126Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Vauvenargues",
+        "address": "13100, Aix-en-Provence",
+        "coordinates": [
+          43.52866808228108,
+          5.454919557343631
+        ],
+        "website": "http://www.lyc-vauvenargues.ac-aix-marseille.fr",
+        "externalId": "0130003H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0130003H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Vauvenargues&code_postal=13100",
+        "osmId": "fr-education:0130003H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:24.126Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ]
+  },
+  "culture": {
+    "museums": [
+      {
+        "name": "musée du vieil Aix",
+        "address": "17 r. Gaston de Saporta, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.530748999331,
+          5.44724247519651
+        ],
+        "website": null,
+        "externalId": "M0898",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20du%20vieil%20Aix",
+        "osmId": "fr-culture:M0898",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.682Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée de l'atelier de Paul Cézanne",
+        "address": "9 av. Paul Cézanne, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5382068264665,
+          5.44603092306919
+        ],
+        "website": null,
+        "externalId": "M0895",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20de%20l'atelier%20de%20Paul%20C%C3%A9zanne",
+        "osmId": "fr-culture:M0895",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.684Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée Paul Arbaud",
+        "address": "2 A r. du Quatre-Septembre, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5262732246347,
+          5.44983673985046
+        ],
+        "website": null,
+        "externalId": "M0899",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Paul%20Arbaud",
+        "osmId": "fr-culture:M0899",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.684Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "MICRO-FOLIE CIAM AIX-EN-PROVENCE",
+        "address": "19 r. Porte Magalon, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.524796,
+          5.389288
+        ],
+        "website": null,
+        "externalId": "2999159019",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MICRO-FOLIE%20CIAM%20AIX-EN-PROVENCE",
+        "osmId": "fr-culture:2999159019",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.684Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Microfolie"
+      },
+      {
+        "name": "musée Granet",
+        "address": "pl. Saint-Jean-de-Malte, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5254396719313,
+          5.45266182539615
+        ],
+        "website": null,
+        "externalId": "M0894",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Granet",
+        "osmId": "fr-culture:M0894",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.684Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des tapisseries",
+        "address": "28 pl. des Martyrs de la Résistance, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5316308705464,
+          5.44705129137514
+        ],
+        "website": null,
+        "externalId": "M0897",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20tapisseries",
+        "osmId": "fr-culture:M0897",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.684Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée du pavillon de Vendôme",
+        "address": "34 r. Célony Ou 13 r. de la Molle, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5308390043108,
+          5.44226151026892
+        ],
+        "website": null,
+        "externalId": "M0896",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20du%20pavillon%20de%20Vend%C3%B4me",
+        "osmId": "fr-culture:M0896",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.684Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "fondation Vasarely",
+        "address": "1 av. Marcel Pagnol, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5210794596798,
+          5.42507949658985
+        ],
+        "website": null,
+        "externalId": "M1215",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=fondation%20Vasarely",
+        "osmId": "fr-culture:M1215",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.684Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "muséum d'histoire naturelle",
+        "address": "7 all. des Robiniers, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.528174875033,
+          5.44893209645485
+        ],
+        "website": null,
+        "externalId": "M7064",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9um%20d'histoire%20naturelle",
+        "osmId": "fr-culture:M7064",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:30.684Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Musée de France"
+      }
+    ],
+    "theaters": [
+      {
+        "name": "Théâtre du Maquis",
+        "address": "13 r. Joseph Jourdan, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.515357,
+          5.451118
+        ],
+        "website": null,
+        "externalId": "ORG005473",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20du%20Maquis",
+        "osmId": "fr-culture:ORG005473",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:33.132Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": null,
+        "theaterOrganism": "Théâtre du Maquis"
+      },
+      {
+        "name": "Théâtre des Ateliers",
+        "address": "29 pl. Miollis, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5277219583289,
+          5.45490460461277
+        ],
+        "website": null,
+        "externalId": "ORG004059",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20des%20Ateliers",
+        "osmId": "fr-culture:ORG004059",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:33.132Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "90",
+        "theaterOrganism": null
+      }
+    ],
+    "cinemas": [
+      {
+        "name": "CEZANNE",
+        "address": "1 r. Marcel Guillaume, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5252984323125,
+          5.44704178987048
+        ],
+        "website": null,
+        "externalId": "13413",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CEZANNE",
+        "osmId": "fr-culture:13413",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:31.906Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": null,
+        "screens": "9",
+        "seats": "1539",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "ARMAND LUNEL",
+        "address": "r. des Allumettes, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.524462,
+          5.439812
+        ],
+        "website": null,
+        "externalId": "13454",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=ARMAND%20LUNEL",
+        "osmId": "fr-culture:13454",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:31.906Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "165",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "RENOIR",
+        "address": "24 crs. Mirabeau, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5265758184201,
+          5.44899715395303
+        ],
+        "website": null,
+        "externalId": "13405",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=RENOIR",
+        "osmId": "fr-culture:13405",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:31.906Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Art et essai",
+        "screens": "3",
+        "seats": "431",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "LE MAZARIN",
+        "address": "3 ter r. Mazarine 6 r. Laroqu, 13080 Aix-en-Provence",
+        "coordinates": [
+          43.5259112097086,
+          5.44681627150902
+        ],
+        "website": null,
+        "externalId": "13423",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=LE%20MAZARIN",
+        "osmId": "fr-culture:13423",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:31.906Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Provence-Alpes-Côte d'Azur",
+        "departement": "Bouches-du-Rhône",
+        "label": "Art et essai",
+        "screens": "3",
+        "seats": "438",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      }
+    ],
+    "operas": []
+  },
+  "transportation": {
+    "internationalFlights": [],
+    "distanceToParisWithCar": 12.5,
+    "distanceToParisWithTrain": 3.5,
+    "distanceToLyonWithCar": 5,
+    "distanceToLyonWithTrain": 2.5,
+    "transitScore": 7.5
+  },
+  "geography": {
+    "hikes": [
+      {
+        "name": "Sentier Imoucha",
+        "description": "Sentier Imoucha (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5.5,
+        "difficulty": null,
+        "externalId": 1475161,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/1475161",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de Grande Randonnée 98",
+        "description": "Sentier de Grande Randonnée 98 (nwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 62.4,
+        "difficulty": null,
+        "externalId": 2681053,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2681053",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Douanier",
+        "description": "Sentier des Douanier (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 8.4,
+        "difficulty": null,
+        "externalId": 3004839,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3004839",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le fort de Niolon",
+        "description": "Le fort de Niolon (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 4.2,
+        "difficulty": null,
+        "externalId": 4121748,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4121748",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du pas de la Savonette",
+        "description": "Sentier du pas de la Savonette (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.3,
+        "difficulty": null,
+        "externalId": 6105191,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6105191",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du pas du moine",
+        "description": "Sentier du pas du moine (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.3,
+        "difficulty": null,
+        "externalId": 6105192,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6105192",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "(Sentier marron)",
+        "description": "(Sentier marron) (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 7.7,
+        "difficulty": null,
+        "externalId": 6105302,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6105302",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des deux aiguilles",
+        "description": "Sentier des deux aiguilles (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.9,
+        "difficulty": null,
+        "externalId": 6105306,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6105306",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du pas du Clapier",
+        "description": "Sentier du pas du Clapier (hiking)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 6174829,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6174829",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De La Durance Aux Pallières",
+        "description": "De La Durance Aux Pallières (nwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 31.6,
+        "difficulty": null,
+        "externalId": 6554584,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6554584",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin des Cèdres",
+        "description": "Chemin des Cèdres (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.1,
+        "difficulty": null,
+        "externalId": 6722129,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6722129",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du Portalas",
+        "description": "Sentier du Portalas (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.1,
+        "difficulty": null,
+        "externalId": 6722136,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6722136",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le sentier Botanique",
+        "description": "Le sentier Botanique (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 6726019,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6726019",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Via Aurelia, Salon de Provence - Maussane",
+        "description": "Via Aurelia, Salon de Provence - Maussane (iwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 30.7,
+        "difficulty": null,
+        "externalId": 8298677,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8298677",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Via Aurelia, Aix - Salon de Provence",
+        "description": "Via Aurelia, Aix - Salon de Provence (iwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 40.6,
+        "difficulty": null,
+        "externalId": 8298777,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8298777",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Via Aurelia, St Maximin - Aix",
+        "description": "Via Aurelia, St Maximin - Aix (iwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 47.2,
+        "difficulty": null,
+        "externalId": 8300047,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8300047",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de grande randonnée 2013",
+        "description": "Sentier de grande randonnée 2013 (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 336.3,
+        "difficulty": null,
+        "externalId": 9382806,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9382806",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Regagnas",
+        "description": "Le Regagnas (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.4,
+        "difficulty": null,
+        "externalId": 9505047,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9505047",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les moulins",
+        "description": "Les moulins (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.7,
+        "difficulty": null,
+        "externalId": 9505305,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9505305",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre Aurélien et Regagnas",
+        "description": "Entre Aurélien et Regagnas (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 13.9,
+        "difficulty": null,
+        "externalId": 9506033,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9506033",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le mont Julien",
+        "description": "Le mont Julien (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.4,
+        "difficulty": null,
+        "externalId": 9509772,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9509772",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La grotte des fées",
+        "description": "La grotte des fées (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 9509773,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9509773",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le mont du Marseillais",
+        "description": "Le mont du Marseillais (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 7.2,
+        "difficulty": null,
+        "externalId": 9512858,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9512858",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chapelle Notre-Dame-de-Consolation",
+        "description": "Chapelle Notre-Dame-de-Consolation (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5,
+        "difficulty": null,
+        "externalId": 9517881,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9517881",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Vignerons",
+        "description": "Sentier des Vignerons (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 7.5,
+        "difficulty": null,
+        "externalId": 9523827,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9523827",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La petite Camargue",
+        "description": "La petite Camargue (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.7,
+        "difficulty": null,
+        "externalId": 9532474,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9532474",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Mer et colline Valestéloué",
+        "description": "Mer et colline Valestéloué (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 14.5,
+        "difficulty": null,
+        "externalId": 9546944,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9546944",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La chapelle de Sainte-Consorce",
+        "description": "La chapelle de Sainte-Consorce (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 6.4,
+        "difficulty": null,
+        "externalId": 9578735,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9578735",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La citadelle de Vauvenargues",
+        "description": "La citadelle de Vauvenargues (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5.1,
+        "difficulty": null,
+        "externalId": 9588565,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9588565",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Oratoire de Malivert",
+        "description": "Oratoire de Malivert (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.2,
+        "difficulty": null,
+        "externalId": 9591726,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9591726",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du pas de l'Escalette",
+        "description": "Sentier du pas de l'Escalette (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 9594190,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9594190",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin des Venturiers",
+        "description": "Chemin des Venturiers (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 4.8,
+        "difficulty": null,
+        "externalId": 9598803,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9598803",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Bastide neuve - Tête ronde - Pas du loup",
+        "description": "La Bastide neuve - Tête ronde - Pas du loup (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.2,
+        "difficulty": null,
+        "externalId": 9599115,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9599115",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Col des Portes - Parking D10",
+        "description": "Col des Portes - Parking D10 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 9610584,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9610584",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Col des Portes - Garagaï de Cagoloup",
+        "description": "Col des Portes - Garagaï de Cagoloup (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2,
+        "difficulty": null,
+        "externalId": 9610590,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9610590",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Saint-Pons - Col de Brest",
+        "description": "Saint-Pons - Col de Brest (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.3,
+        "difficulty": null,
+        "externalId": 9642336,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9642336",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle des Bergers",
+        "description": "Boucle des Bergers (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 9820164,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820164",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de la Bastidonne",
+        "description": "Boucle de la Bastidonne (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 9820249,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820249",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de l'Etoile",
+        "description": "Boucle de l'Etoile (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 9820252,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820252",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle du Château de Ners",
+        "description": "Boucle du Château de Ners (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5.4,
+        "difficulty": null,
+        "externalId": 9820253,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820253",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle des Grands Ubacs",
+        "description": "Boucle des Grands Ubacs (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 13,
+        "difficulty": null,
+        "externalId": 9820254,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9820254",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Grand Sentier de la Côte Bleue",
+        "description": "Grand Sentier de la Côte Bleue (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 57.4,
+        "difficulty": null,
+        "externalId": 9844195,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9844195",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle des Bourgailles Caucarières",
+        "description": "Boucle des Bourgailles Caucarières (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 4.2,
+        "difficulty": null,
+        "externalId": 9846944,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9846944",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre calanques et collines",
+        "description": "Entre calanques et collines (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 12.4,
+        "difficulty": null,
+        "externalId": 9848848,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9848848",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Tour du Romaron",
+        "description": "Le Tour du Romaron (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 7.3,
+        "difficulty": null,
+        "externalId": 9848967,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9848967",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Vallon de Jaume par les Grottes",
+        "description": "Le Vallon de Jaume par les Grottes (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 7.5,
+        "difficulty": null,
+        "externalId": 9849960,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9849960",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La calanque des Eaux Salées",
+        "description": "La calanque des Eaux Salées (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.1,
+        "difficulty": null,
+        "externalId": 9853478,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9853478",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle \"Notre-Dame-du-Rouet et la plaine du Bon Jean\"",
+        "description": "Boucle \"Notre-Dame-du-Rouet et la plaine du Bon Jean\" (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 10.8,
+        "difficulty": null,
+        "externalId": 9853891,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9853891",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Boucle de Figuerolles",
+        "description": "Boucle de Figuerolles (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 6,
+        "difficulty": null,
+        "externalId": 9882161,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9882161",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La randonnée des amis",
+        "description": "La randonnée des amis (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 9.1,
+        "difficulty": null,
+        "externalId": 9903858,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9903858",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le balcon du Caderaou",
+        "description": "Le balcon du Caderaou (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 12.4,
+        "difficulty": null,
+        "externalId": 9904563,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9904563",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Entre mer et étangs",
+        "description": "Entre mer et étangs (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 38.7,
+        "difficulty": null,
+        "externalId": 9904672,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9904672",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Lançon-de-Provence et ses collines",
+        "description": "Lançon-de-Provence et ses collines (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 6,
+        "difficulty": null,
+        "externalId": 9922225,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9922225",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Destrousse - Mont du Marseillais",
+        "description": "La Destrousse - Mont du Marseillais (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.8,
+        "difficulty": null,
+        "externalId": 9950258,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9950258",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de grande randonnée 9A",
+        "description": "Sentier de grande randonnée 9A (nwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 12.7,
+        "difficulty": null,
+        "externalId": 10385031,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10385031",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des bories",
+        "description": "Circuit des bories (hiking)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 12.2,
+        "difficulty": null,
+        "externalId": 10720848,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10720848",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Merindol - Vallis Jovina",
+        "description": "Merindol - Vallis Jovina (iwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 27.8,
+        "difficulty": null,
+        "externalId": 11896633,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11896633",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "yellow",
+        "description": "yellow (hiking)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5.3,
+        "difficulty": null,
+        "externalId": 12316231,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12316231",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Variante GRP évitant le Mont du Marseillais",
+        "description": "Variante GRP évitant le Mont du Marseillais (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.9,
+        "difficulty": null,
+        "externalId": 12466134,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12466134",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "jaune",
+        "description": "jaune (hiking)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.3,
+        "difficulty": null,
+        "externalId": 12466135,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12466135",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Promenade du Canal Saint Julien",
+        "description": "Promenade du Canal Saint Julien (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.7,
+        "difficulty": null,
+        "externalId": 12544853,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12544853",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Castellane à la Bonne Mère par les Traviolles",
+        "description": "De Castellane à la Bonne Mère par les Traviolles (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.5,
+        "difficulty": null,
+        "externalId": 12745977,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12745977",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin pastoral de Aix-en-Provence à Rians",
+        "description": "Chemin pastoral de Aix-en-Provence à Rians (hiking)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 37.8,
+        "difficulty": null,
+        "externalId": 14034518,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14034518",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de Bramefan",
+        "description": "Sentier de Bramefan (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.8,
+        "difficulty": null,
+        "externalId": 14139210,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14139210",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du vallon de la Tine",
+        "description": "Sentier du vallon de la Tine (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.1,
+        "difficulty": null,
+        "externalId": 14139211,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14139211",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Couloir des justiciables",
+        "description": "Couloir des justiciables (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 14176195,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14176195",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de Saint-Ser",
+        "description": "Sentier de Saint-Ser (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.1,
+        "difficulty": null,
+        "externalId": 14176204,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14176204",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Forcioli",
+        "description": "Sentier Forcioli (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 14176210,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14176210",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Aix à Saint-Jurs",
+        "description": "De Aix à Saint-Jurs (nwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 118.1,
+        "difficulty": null,
+        "externalId": 14234325,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14234325",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le grand couloir",
+        "description": "Le grand couloir (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 14606091,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14606091",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Baudino",
+        "description": "Sentier Baudino (hiking)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.8,
+        "difficulty": null,
+        "externalId": 14606092,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14606092",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du vallon Gentil",
+        "description": "Sentier du vallon Gentil (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 14606093,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14606093",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de Saint-Ser (Variante)",
+        "description": "Sentier de Saint-Ser (Variante) (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 14606094,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14606094",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Plaideurs",
+        "description": "Sentier des Plaideurs (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.3,
+        "difficulty": null,
+        "externalId": 14606132,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14606132",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Pierre Tchernia",
+        "description": "Sentier Pierre Tchernia (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 14607645,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14607645",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de l'Aubanède",
+        "description": "Sentier de l'Aubanède (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 7.3,
+        "difficulty": null,
+        "externalId": 14674851,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14674851",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Gréasque au poteau ET-31",
+        "description": "De Gréasque au poteau ET-31 (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 15897244,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15897244",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET-34 au poteau ET x1",
+        "description": "Du poteau ET-34 au poteau ET x1 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 15897711,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15897711",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Belcodène au poteau RE 09",
+        "description": "De Belcodène au poteau RE 09 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.4,
+        "difficulty": null,
+        "externalId": 15897826,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15897826",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 24 à Auriol",
+        "description": "Du poteau RE 24 à Auriol (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 4.7,
+        "difficulty": null,
+        "externalId": 15898997,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15898997",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Auriol à La Destrousse",
+        "description": "De Auriol à La Destrousse (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5.2,
+        "difficulty": null,
+        "externalId": 15899842,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15899842",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De La Destrousse à Peypin",
+        "description": "De La Destrousse à Peypin (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.9,
+        "difficulty": null,
+        "externalId": 15901175,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15901175",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Peypin au poteau GB-57",
+        "description": "De Peypin au poteau GB-57 (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 4.9,
+        "difficulty": null,
+        "externalId": 15901790,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15901790",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du Mont du Marseillais au poteau GB-71",
+        "description": "Du Mont du Marseillais au poteau GB-71 (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 6.5,
+        "difficulty": null,
+        "externalId": 15901909,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15901909",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB-39 au Mont du Marseillais",
+        "description": "Du poteau GB-39 au Mont du Marseillais (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1,
+        "difficulty": null,
+        "externalId": 15902409,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15902409",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB-73 au Poteau ET 03",
+        "description": "Du poteau GB-73 au Poteau ET 03 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.7,
+        "difficulty": null,
+        "externalId": 15902957,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15902957",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 02 au poteau ET 30",
+        "description": "Du poteau ET 02 au poteau ET 30 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5,
+        "difficulty": null,
+        "externalId": 15902963,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15902963",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 08 à Mimet",
+        "description": "Du poteau ET 08 à Mimet (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 15903339,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15903339",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Mimet au poteau ET 39",
+        "description": "De Mimet au poteau ET 39 (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.9,
+        "difficulty": null,
+        "externalId": 15903340,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15903340",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du Poteau ET 39 à Gréasque",
+        "description": "Du Poteau ET 39 à Gréasque (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.9,
+        "difficulty": null,
+        "externalId": 15903341,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15903341",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Trets à Peynier",
+        "description": "Trets à Peynier (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5.7,
+        "difficulty": null,
+        "externalId": 15908092,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15908092",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Peynier au poteau RE 01",
+        "description": "De Peynier au poteau RE 01 (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 15908189,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15908189",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Des Michels au poteau ET 37",
+        "description": "Des Michels au poteau ET 37 (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 4,
+        "difficulty": null,
+        "externalId": 15909411,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15909411",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 32 au poteau ET-36",
+        "description": "Du poteau ET 32 au poteau ET-36 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 15909494,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15909494",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 36 à Meyreuil",
+        "description": "Du poteau ET 36 à Meyreuil (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 12.6,
+        "difficulty": null,
+        "externalId": 15913434,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15913434",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Meyreuil à Gardanne",
+        "description": "De Meyreuil à Gardanne (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 9.4,
+        "difficulty": null,
+        "externalId": 15916243,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15916243",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Gardanne au Poteau ET 11",
+        "description": "De Gardanne au Poteau ET 11 (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 9.9,
+        "difficulty": null,
+        "externalId": 15917394,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15917394",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 32 au poteau ET 33",
+        "description": "Du poteau ET 32 au poteau ET 33 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.2,
+        "difficulty": null,
+        "externalId": 16054358,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16054358",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 33 au poteau ET 34",
+        "description": "Du poteau ET 33 au poteau ET 34 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 16054407,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16054407",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 09 au poteau RE 10",
+        "description": "Du poteau RE 09 au poteau RE 10 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3.3,
+        "difficulty": null,
+        "externalId": 16054737,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16054737",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 10 au poteau RE 24",
+        "description": "Du poteau RE 10 au poteau RE 24 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.4,
+        "difficulty": null,
+        "externalId": 16055175,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16055175",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB 39 au poteau GB 57",
+        "description": "Du poteau GB 39 au poteau GB 57 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.1,
+        "difficulty": null,
+        "externalId": 16055643,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16055643",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB 71 au poteau GB 72",
+        "description": "Du poteau GB 71 au poteau GB 72 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.4,
+        "difficulty": null,
+        "externalId": 16058140,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16058140",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau GB 72 au poteau GB 73",
+        "description": "Du poteau GB 72 au poteau GB 73 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 16058151,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16058151",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 02 au poteau ET 03",
+        "description": "Du poteau ET 02 au poteau ET 03 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 16058239,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16058239",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du Poteau ET 07 au poteau ET 08",
+        "description": "Du Poteau ET 07 au poteau ET 08 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.1,
+        "difficulty": null,
+        "externalId": 16058439,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16058439",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 36 au poteau ET 37",
+        "description": "Du poteau ET 36 au poteau ET 37 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 16061275,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061275",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 11 à Mimet",
+        "description": "Du poteau ET 11 à Mimet (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.8,
+        "difficulty": null,
+        "externalId": 16061687,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061687",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 10 au poteau RE 12",
+        "description": "Du poteau RE 10 au poteau RE 12 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.5,
+        "difficulty": null,
+        "externalId": 16061771,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061771",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 01 au poteau RE 02",
+        "description": "Du poteau RE 01 au poteau RE 02 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 16061892,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061892",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE 02 aux Michels",
+        "description": "Du poteau RE 02 aux Michels (rwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 3,
+        "difficulty": null,
+        "externalId": 16061893,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16061893",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Encanaux de 15 Km",
+        "description": "Circuit des Encanaux de 15 Km (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 13.9,
+        "difficulty": null,
+        "externalId": 16126192,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16126192",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin des énergies",
+        "description": "Chemin des énergies (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.5,
+        "difficulty": null,
+        "externalId": 16192579,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16192579",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 31 au poteau ET 32",
+        "description": "Du poteau ET 31 au poteau ET 32 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 1.1,
+        "difficulty": null,
+        "externalId": 16203947,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16203947",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 30 au poteau ET 33",
+        "description": "Du poteau ET 30 au poteau ET 33 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.3,
+        "difficulty": null,
+        "externalId": 16204005,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16204005",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 30 au poteau ET 31",
+        "description": "Du poteau ET 30 au poteau ET 31 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.4,
+        "difficulty": null,
+        "externalId": 16204006,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16204006",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau ET 07 au poteau ET 30",
+        "description": "Du poteau ET 07 au poteau ET 30 (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.8,
+        "difficulty": null,
+        "externalId": 16216038,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16216038",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Rigaude",
+        "description": "La Rigaude (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 5.6,
+        "difficulty": null,
+        "externalId": 16218718,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16218718",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du poteau RE ?? à Belcodéne",
+        "description": "Du poteau RE ?? à Belcodéne (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 4.1,
+        "difficulty": null,
+        "externalId": 16230597,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16230597",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "L'Ourillon - Ravin d'Enfer",
+        "description": "L'Ourillon - Ravin d'Enfer (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 2.7,
+        "difficulty": null,
+        "externalId": 16276683,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16276683",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du Patrimoine",
+        "description": "Sentier du Patrimoine (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 10.8,
+        "difficulty": null,
+        "externalId": 17236392,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17236392",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Nature et Découverte",
+        "description": "Sentier Nature et Découverte (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 17.2,
+        "difficulty": null,
+        "externalId": 17238377,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17238377",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des Crêtes",
+        "description": "Circuit des Crêtes (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 9.3,
+        "difficulty": null,
+        "externalId": 17251442,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17251442",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Lys de Sable",
+        "description": "Sentier des Lys de Sable (hiking)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 18465848,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18465848",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des vignerons de Pourrières - Moulins",
+        "description": "Sentier des vignerons de Pourrières - Moulins (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 6.7,
+        "difficulty": null,
+        "externalId": 18745771,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18745771",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des vignerons de Pourrières - Belvedères",
+        "description": "Sentier des vignerons de Pourrières - Belvedères (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.1,
+        "difficulty": null,
+        "externalId": 18798204,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18798204",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des vignerons de Pourrières - Belvedères",
+        "description": "Sentier des vignerons de Pourrières - Belvedères (hiking)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 16.1,
+        "difficulty": null,
+        "externalId": 18798209,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18798209",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Fontaine de Doudonne",
+        "description": "Fontaine de Doudonne (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 14.1,
+        "difficulty": null,
+        "externalId": 18995281,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18995281",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pas du Loup - Taoumé",
+        "description": "Pas du Loup - Taoumé (lwn)",
+        "coordinates": [
+          43.5298424,
+          5.4474738
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 19354478,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19354478",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "hikesTotalLength": 1339.5
+  },
+  "housing": {
+    "avgSellPricePerM2": 6923,
+    "avgRentPricePerM2": 18
+  },
+  "qualityOfLife": {
+    "crimeRate": 2.1,
+    "greenSpaces": 8.5,
+    "airQuality": 8.2,
+    "costOfLife": 6.8,
+    "liveabilityScore": 8.7,
+    "healthQuality": 8.3
+  },
+  "images": [
+    {
+      "url": "https://images.pexels.com/photos/31990451/pexels-photo-31990451.jpeg?w=1200&h=400&fit=crop&crop=center",
+      "alt": "Capture of a charming historic square with classic architecture in Aix-en-Provence, France.",
+      "photographer": "Geert Willemarck",
+      "isBanner": true
+    },
+    {
+      "url": "https://images.pexels.com/photos/29983849/pexels-photo-29983849.jpeg",
+      "alt": "Charming building front with 'Le Petit Marseillais' in Aix-en-Provence, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/5733488/pexels-photo-5733488.jpeg",
+      "alt": "A swimmer in motion, captured at an indoor pool in Aix-en-Provence, France.",
+      "photographer": "Grégory Costa",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7885319/pexels-photo-7885319.jpeg",
+      "alt": "Lavender fields stretch to the horizon with a farmhouse in Aix-en-Provence, France.",
+      "photographer": "Tram Tran",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29983858/pexels-photo-29983858.jpeg",
+      "alt": "Charming historical facades in Aix-en-Provence, France, under a clear blue sky.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/14374962/pexels-photo-14374962.jpeg",
+      "alt": "Sunlit street in Aix-en-Provence, France with trees and historic buildings.",
+      "photographer": "Simófi István",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29983863/pexels-photo-29983863.jpeg",
+      "alt": "Historic pastel-colored buildings under blue sky in Aix-en-Provence, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1058035/pexels-photo-1058035.jpeg",
+      "alt": "Vibrant spices displayed at a local market in Nice, France, showcasing diverse colors and flavors.",
+      "photographer": "Edoardo Colombo",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28766104/pexels-photo-28766104.jpeg",
+      "alt": "Picturesque street with stone houses and vibrant flowers in Vitrolles-en-Lubéron, France.",
+      "photographer": "Pierre Bastien",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30037098/pexels-photo-30037098.jpeg",
+      "alt": "Charming view of Roussillon, a picturesque village in Provence, France, with vibrant architecture.",
+      "photographer": "Bingqian Li",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/33565606/pexels-photo-33565606.jpeg",
+      "alt": "A picturesque view of Sénanque Abbey amidst vibrant lavender fields in Gordes, France.",
+      "photographer": "Le sixième rêve",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/33490858/pexels-photo-33490858.jpeg",
+      "alt": "Enchanting lavender fields in Valensole, France, captured at sunrise, showcasing vibrant purple hues.",
+      "photographer": "Le sixième rêve",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2849223/pexels-photo-2849223.jpeg",
+      "alt": "Beautiful cobblestone alley in France adorned with colorful flowers and stone architecture.",
+      "photographer": "Daan Wijngaard",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/3733155/pexels-photo-3733155.jpeg",
+      "alt": "Stunning lavender fields in bloom, showcasing the vivid purple hues of Provence, France.",
+      "photographer": "Marshall  Jones",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/159374/abbaye-de-senanque-monastery-abbey-notre-dame-de-senanque-159374.jpeg",
+      "alt": "Scenic view of lavender fields and a historic abbey under a clear blue sky in Provence, France.",
+      "photographer": "Pixabay",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2105416/pexels-photo-2105416.jpeg",
+      "alt": "Breathtaking view of Revest-les-Roches mountains under dramatic skies in Provence, France.",
+      "photographer": "Anne-sophie Parent",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/3191995/pexels-photo-3191995.jpeg",
+      "alt": "A breathtaking view of a mountain under a pink sunset sky in Provence-Alpes-Côte d'Azur, France.",
+      "photographer": "Olivier Darny",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1233280/pexels-photo-1233280.jpeg",
+      "alt": "Vibrant pink blossoms in full bloom with sunlight filtering through in Beaulieu-sur-Mer, France.",
+      "photographer": "Vincent Gerbouin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/632523/pexels-photo-632523.jpeg",
+      "alt": "A vibrant view of the colorful waterfront in Nice, France with boats docked along the sea.",
+      "photographer": "Frans van Heerden",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32469473/pexels-photo-32469473.jpeg",
+      "alt": "Colorful buildings in Menton, France showcasing unique French architecture.",
+      "photographer": "Taylor Thompson",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18140832/pexels-photo-18140832.jpeg",
+      "alt": "Explore the charming narrow streets and historic architecture of Nice, France's old town.",
+      "photographer": "Jakub Zerdzicki",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29983862/pexels-photo-29983862.jpeg",
+      "alt": "Explore the charming historic architecture of Aix-en-Provence, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13045708/pexels-photo-13045708.jpeg",
+      "alt": "Picturesque view of colorful buildings and empty cafe chairs on a sunny day in Martigues, France.",
+      "photographer": "Laurent BECKER",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18322455/pexels-photo-18322455.jpeg",
+      "alt": "Beautiful clock tower and palm trees in sunny Nice, France, capturing a vibrant summer atmosphere.",
+      "photographer": "Jakub Zerdzicki",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/25003215/pexels-photo-25003215.jpeg",
+      "alt": "Charming aerial view of Arles, France showcasing historic buildings and streets in the Provence region.",
+      "photographer": "Malcolm Hill",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9191708/pexels-photo-9191708.jpeg",
+      "alt": "A picturesque street with vibrant historical buildings in Aix-en-Provence, France.",
+      "photographer": "Tom D'Arby",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31064200/pexels-photo-31064200.jpeg",
+      "alt": "Elegant black and white photo of a historic building facade in Toulon, France with ornate balconies.",
+      "photographer": "Jean-Philippe Canto",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29824877/pexels-photo-29824877.jpeg",
+      "alt": "Vibrant port scene with colorful boats in Provence-Alpes-Côte d'Azur, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29983842/pexels-photo-29983842.jpeg",
+      "alt": "Elegant traditional buildings with shuttered windows in Aix-en-Provence, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18140843/pexels-photo-18140843.jpeg",
+      "alt": "Explore the charming urban landscape of Nice, France, with its iconic red rooftops and historic architecture.",
+      "photographer": "Jakub Zerdzicki",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29983876/pexels-photo-29983876.jpeg",
+      "alt": "Vibrant facades in Aix-en-Provence, France showcasing typical pastel colors and architecture.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/625764/pexels-photo-625764.jpeg",
+      "alt": "Historic building in Alsace, France with ivy-covered facade, showcasing classic French architecture.",
+      "photographer": "Joe Fitzpatrick",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1694432/pexels-photo-1694432.jpeg",
+      "alt": "Explore the charming historic architecture of Bordeaux, France, showcasing old town rooftops and vintage facades.",
+      "photographer": "Niki Nagy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29983888/pexels-photo-29983888.jpeg",
+      "alt": "A picturesque ivy-covered building with classic French architecture in Aix-en-Provence, France.",
+      "photographer": "AXP Photography",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29987330/pexels-photo-29987330.jpeg",
+      "alt": "Modern architectural facade with geometric patterns in Aix-en-Provence, France.",
+      "photographer": "Sébastien Mariaux",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13291202/pexels-photo-13291202.jpeg",
+      "alt": "Charming stone fountain with sunflower accents in Aix-en-Provence, France.",
+      "photographer": "Claudia Schmalz",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30167962/pexels-photo-30167962.jpeg",
+      "alt": "Minimalist concrete architecture featuring geometric blocks in Aix-en-Provence, France.",
+      "photographer": "Sébastien Mariaux",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30167961/pexels-photo-30167961.jpeg",
+      "alt": "Geometric concrete blocks showcasing minimalist architecture in Aix-en-Provence, France.",
+      "photographer": "Sébastien Mariaux",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29987331/pexels-photo-29987331.jpeg",
+      "alt": "Upward view of a modern minimalist building facade in Aix-en-Provence, France.",
+      "photographer": "Sébastien Mariaux",
+      "isBanner": false
+    }
+  ],
+  "dataQuality": {
+    "completeness": 95,
+    "lastUpdated": "2025-08-22",
+    "sources": {
+      "weather": "Météo-France, 2023 data",
+      "population": "INSEE, 2023 estimate",
+      "education": "French Ministry of Education, 2023",
+      "culture": "French Ministry of Culture, 2023",
+      "transportation": "Google Maps / SNCF, 2023",
+      "geography": "Google Maps / OpenStreetMap, 2023",
+      "housing": "MeilleursAgents / FNAIM, 2023",
+      "qualityOfLife": "French government sources, 2023",
+      "images": "Pexels API"
+    }
+  }
+}

@@ -1,0 +1,2511 @@
+{
+  "id": "montpellier",
+  "name": "Montpellier",
+  "region": "Occitanie",
+  "coordinates": [
+    43.6108,
+    3.8767
+  ],
+  "weather": {
+    "sunnyDays": 221,
+    "rainyDays": 145,
+    "avgTemp": 16,
+    "monthlyData": [
+      8.2,
+      9.1,
+      11.2,
+      14.4,
+      18.2,
+      25.1,
+      25.6,
+      24.8,
+      19,
+      17.1,
+      11.9,
+      7.6
+    ],
+    "monthlySunnyDays": [
+      17,
+      12,
+      13,
+      17,
+      21,
+      25,
+      20,
+      28,
+      13,
+      13,
+      17,
+      25
+    ],
+    "monthlyRainyDays": [
+      14,
+      16,
+      18,
+      13,
+      10,
+      5,
+      11,
+      4,
+      17,
+      18,
+      13,
+      6
+    ],
+    "monthlyPrecipitation": [
+      101.3,
+      122.5,
+      112.4,
+      89.7,
+      73.9,
+      42,
+      29.3,
+      17.6,
+      133.7,
+      151.6,
+      102.7,
+      7.2
+    ]
+  },
+  "population": {
+    "total": 300000,
+    "studentPercentage": 28,
+    "density": 1100
+  },
+  "education": {
+    "highSchools": [
+      {
+        "name": "Lycée Georges Clemenceau",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.602663456709585,
+          3.873020613002154
+        ],
+        "website": "https://georges-clemenceau.mon-ent-occitanie.fr/",
+        "externalId": "0340039H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340039H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Georges%20Clemenceau&code_postal=34060",
+        "osmId": "fr-education:0340039H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Joffre",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.61207825608604,
+          3.884709803165587
+        ],
+        "website": "https://lycee-joffre-montpellier.mon-ent-occitanie.fr/",
+        "externalId": "0340038G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340038G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Joffre&code_postal=34060",
+        "osmId": "fr-education:0340038G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Jules Guesde",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.61171607580439,
+          3.847970077404897
+        ],
+        "website": "https://jules-guesde.mon-ent-occitanie.fr/",
+        "externalId": "0340040J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340040J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Jules%20Guesde&code_postal=34060",
+        "osmId": "fr-education:0340040J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Leon Còrdas",
+        "address": "34090, Montpellier",
+        "coordinates": [
+          43.64584761877983,
+          3.8406743536645167
+        ],
+        "website": "http://collegileoncordas.fr/fr/accueil/",
+        "externalId": "0342410K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342410K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Leon%20C%C3%B2rdas&code_postal=34090",
+        "osmId": "fr-education:0342410K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole professionnelle privée Silvya Terrade Montpellier",
+        "address": "34000, Montpellier",
+        "coordinates": [
+          43.605030127830645,
+          3.87813976873167
+        ],
+        "website": null,
+        "externalId": "0341651K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341651K&type_etablissement=Lycée&selection=Ecole%20professionnelle%20priv%C3%A9e%20Silvya%20Terrade%20Montpellier&code_postal=34000",
+        "osmId": "fr-education:0341651K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel du Lycée privé Nevers",
+        "address": "34090, Montpellier",
+        "coordinates": [
+          43.62113716829396,
+          3.8701804320056152
+        ],
+        "website": null,
+        "externalId": "0341757A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341757A&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel%20du%20Lyc%C3%A9e%20priv%C3%A9%20Nevers&code_postal=34090",
+        "osmId": "fr-education:0341757A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel du Lycée Jules Guesde",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.612074227166744,
+          3.849119679433823
+        ],
+        "website": null,
+        "externalId": "0341829D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341829D&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel%20du%20Lyc%C3%A9e%20Jules%20Guesde&code_postal=34060",
+        "osmId": "fr-education:0341829D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement général et technologique du Lycée professionnel privé Turgot",
+        "address": "34098, Montpellier",
+        "coordinates": [
+          43.63759360166189,
+          3.8329299210754995
+        ],
+        "website": null,
+        "externalId": "0341975M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341975M&type_etablissement=Lycée&selection=Section%20d'enseignement%20g%C3%A9n%C3%A9ral%20et%20technologique%20du%20Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Turgot&code_postal=34098",
+        "osmId": "fr-education:0341975M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Antonia Internationnal High School (Ecole du second degré général privée)",
+        "address": "34070, Montpellier",
+        "coordinates": [
+          43.57905295387931,
+          3.863717764013696
+        ],
+        "website": null,
+        "externalId": "0342401A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342401A&type_etablissement=Lycée&selection=Antonia%20Internationnal%20High%20School%20(Ecole%20du%20second%20degr%C3%A9%20g%C3%A9n%C3%A9ral%20priv%C3%A9e)&code_postal=34070",
+        "osmId": "fr-education:0342401A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée général et technologique agricole Frédéric Bazille",
+        "address": "34090, Montpellier",
+        "coordinates": [
+          43.64662188882194,
+          3.8640404518141866
+        ],
+        "website": "https://epl.montpellier-orb-herault.educagri.fr/lycee-bazille",
+        "externalId": "0340128E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340128E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20g%C3%A9n%C3%A9ral%20et%20technologique%20agricole%20Fr%C3%A9d%C3%A9ric%20Bazille&code_postal=34090",
+        "osmId": "fr-education:0340128E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé polyvalent Turgot",
+        "address": "34090, Montpellier",
+        "coordinates": [
+          43.63749065391683,
+          3.832860282169425
+        ],
+        "website": "http://lyceeturgot.fr",
+        "externalId": "0340920R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340920R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20polyvalent%20Turgot&code_postal=34090",
+        "osmId": "fr-education:0340920R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Notre-Dame de la Merci",
+        "address": "34965, Montpellier",
+        "coordinates": [
+          43.60953559266821,
+          3.8687301801599134
+        ],
+        "website": "http://www.lamerci.com",
+        "externalId": "0340881Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340881Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Notre-Dame%20de%20la%20Merci&code_postal=34965",
+        "osmId": "fr-education:0340881Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement professionnel du Lycée Jean Mermoz",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.611768695481146,
+          3.890990057344591
+        ],
+        "website": null,
+        "externalId": "0340087K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340087K&type_etablissement=Lycée&selection=Section%20d'enseignement%20professionnel%20du%20Lyc%C3%A9e%20Jean%20Mermoz&code_postal=34060",
+        "osmId": "fr-education:0340087K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement  professionnel, Lycée polyvalent  Georges Frêche",
+        "address": "34960, Montpellier",
+        "coordinates": [
+          43.60457631661312,
+          3.912359988917695
+        ],
+        "website": null,
+        "externalId": "0342289D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342289D&type_etablissement=Lycée&selection=Section%20d'enseignement%20%20professionnel%2C%20Lyc%C3%A9e%20polyvalent%20%20Georges%20Fr%C3%AAche&code_postal=34960",
+        "osmId": "fr-education:0342289D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole Internationale Eridan (Ecole générale et technologique privée)",
+        "address": "34070, Montpellier",
+        "coordinates": [
+          43.58397123332365,
+          3.873850349059055
+        ],
+        "website": null,
+        "externalId": "0342319L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342319L&type_etablissement=Lycée&selection=Ecole%20Internationale%20Eridan%20(Ecole%20g%C3%A9n%C3%A9rale%20et%20technologique%20priv%C3%A9e)&code_postal=34070",
+        "osmId": "fr-education:0342319L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement général et techno",
+        "address": "34184, Montpellier",
+        "coordinates": [
+          43.627408298389916,
+          3.823730414726561
+        ],
+        "website": null,
+        "externalId": "0342370S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342370S&type_etablissement=Lycée&selection=Section%20d'enseignement%20g%C3%A9n%C3%A9ral%20et%20techno&code_postal=34184",
+        "osmId": "fr-education:0342370S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Jules Ferry",
+        "address": "34077, Montpellier",
+        "coordinates": [
+          43.60607505502314,
+          3.841609771787177
+        ],
+        "website": "https://jules-ferry-montpellier.mon-ent-occitanie.fr/",
+        "externalId": "0340045P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340045P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Jules%20Ferry&code_postal=34077",
+        "osmId": "fr-education:0340045P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé Rabelais",
+        "address": "34000, Montpellier",
+        "coordinates": [
+          43.60248811087468,
+          3.8833596183293224
+        ],
+        "website": "https://lyceepriverabelais.fr/",
+        "externalId": "0341765J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341765J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20Rabelais&code_postal=34000",
+        "osmId": "fr-education:0341765J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Cité internationale Jules Guesde (lycée)",
+        "address": "34000, Montpellier",
+        "coordinates": [
+          43.61082494314621,
+          3.848816357222478
+        ],
+        "website": "https://jules-guesde.mon-ent-occitanie.fr/",
+        "externalId": "0342571K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342571K&type_etablissement=Lycée&selection=Cit%C3%A9%20internationale%20Jules%20Guesde%20(lyc%C3%A9e)&code_postal=34000",
+        "osmId": "fr-education:0342571K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole supérieure privée Studio M",
+        "address": "34080, Montpellier",
+        "coordinates": [
+          43.63616229755564,
+          3.8298266342074805
+        ],
+        "website": null,
+        "externalId": "0341793P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341793P&type_etablissement=Lycée&selection=Ecole%20sup%C3%A9rieure%20priv%C3%A9e%20Studio%20M&code_postal=34080",
+        "osmId": "fr-education:0341793P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement général et technologique du Lycée professionnel Jules Ferry",
+        "address": "34077, Montpellier",
+        "coordinates": [
+          43.60524928706099,
+          3.8426204791830254
+        ],
+        "website": null,
+        "externalId": "0341938X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341938X&type_etablissement=Lycée&selection=Section%20d'enseignement%20g%C3%A9n%C3%A9ral%20et%20technologique%20du%20Lyc%C3%A9e%20professionnel%20Jules%20Ferry&code_postal=34077",
+        "osmId": "fr-education:0341938X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement général et technologique du Lycée professionnel Mendès France",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.59722936407316,
+          3.9185402596450487
+        ],
+        "website": null,
+        "externalId": "0342060E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342060E&type_etablissement=Lycée&selection=Section%20d'enseignement%20g%C3%A9n%C3%A9ral%20et%20technologique%20du%20Lyc%C3%A9e%20professionnel%20Mend%C3%A8s%20France&code_postal=34060",
+        "osmId": "fr-education:0342060E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée privé polyvalent Nevers",
+        "address": "34090, Montpellier",
+        "coordinates": [
+          43.62112341638985,
+          3.8696500906191793
+        ],
+        "website": "http://www.lycee-nevers.fr",
+        "externalId": "0340991T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340991T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20priv%C3%A9%20polyvalent%20Nevers&code_postal=34090",
+        "osmId": "fr-education:0340991T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Etablissement d'enseignement secondaire et technique privé du Montpellier Hérault Sport Club",
+        "address": "34967, Montpellier",
+        "coordinates": [
+          43.61215575869779,
+          3.930275720144719
+        ],
+        "website": null,
+        "externalId": "0341672H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341672H&type_etablissement=Lycée&selection=Etablissement%20d'enseignement%20secondaire%20et%20technique%20priv%C3%A9%20du%20Montpellier%20H%C3%A9rault%20Sport%20Club&code_postal=34967",
+        "osmId": "fr-education:0341672H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Section d'enseignement général et technologique du Lycée agricole Frédéric Bazille - Agropolis",
+        "address": "34093, Montpellier",
+        "coordinates": [
+          43.64555109636257,
+          3.8644902380626167
+        ],
+        "website": null,
+        "externalId": "0341915X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341915X&type_etablissement=Lycée&selection=Section%20d'enseignement%20g%C3%A9n%C3%A9ral%20et%20technologique%20du%20Lyc%C3%A9e%20agricole%20Fr%C3%A9d%C3%A9ric%20Bazille%20-%20Agropolis&code_postal=34093",
+        "osmId": "fr-education:0341915X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Ecole du second degré professionnelle privée Adonis",
+        "address": "34080, Montpellier",
+        "coordinates": [
+          43.60671474160654,
+          3.8787896643848705
+        ],
+        "website": null,
+        "externalId": "0342264B",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342264B&type_etablissement=Lycée&selection=Ecole%20du%20second%20degr%C3%A9%20professionnelle%20priv%C3%A9e%20Adonis&code_postal=34080",
+        "osmId": "fr-education:0342264B",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Jean Monnet",
+        "address": "34088, Montpellier",
+        "coordinates": [
+          43.62870859697394,
+          3.830936517832957
+        ],
+        "website": "https://jean-monnet-montpellier.mon-ent-occitanie.fr/",
+        "externalId": "0341736C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341736C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Jean%20Monnet&code_postal=34088",
+        "osmId": "fr-education:0341736C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Cité scolaire Françoise Combes (lycée)",
+        "address": "34090, Montpellier",
+        "coordinates": [
+          43.62051545883088,
+          3.8785601443017943
+        ],
+        "website": "https://francoise-combes.mon-ent-occitanie.fr/",
+        "externalId": "0342266D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342266D&type_etablissement=Lycée&selection=Cit%C3%A9%20scolaire%20Fran%C3%A7oise%20Combes%20(lyc%C3%A9e)&code_postal=34090",
+        "osmId": "fr-education:0342266D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Léonard de Vinci",
+        "address": "34184, Montpellier",
+        "coordinates": [
+          43.6229146115076,
+          3.8325805158522406
+        ],
+        "website": "https://leonard-de-vinci.mon-ent-occitanie.fr/",
+        "externalId": "0341385W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0341385W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20L%C3%A9onard%20de%20Vinci&code_postal=34184",
+        "osmId": "fr-education:0341385W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Pierre Mendès France",
+        "address": "34000, Montpellier",
+        "coordinates": [
+          43.59768164258932,
+          3.9182602529050694
+        ],
+        "website": "https://pierre-mendes-france-montpellier.mon-ent-occitanie.fr/",
+        "externalId": "0340043M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340043M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Pierre%20Mend%C3%A8s%20France&code_postal=34000",
+        "osmId": "fr-education:0340043M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Georges Frêche",
+        "address": "34960, Montpellier",
+        "coordinates": [
+          43.604933285307496,
+          3.9120697147625525
+        ],
+        "website": "https://georges-freche.mon-ent-occitanie.fr/",
+        "externalId": "0342225J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0342225J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Georges%20Fr%C3%AAche&code_postal=34960",
+        "osmId": "fr-education:0342225J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Jean Mermoz",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.61163282220374,
+          3.890880204057631
+        ],
+        "website": "https://jean-mermoz-montpellier.mon-ent-occitanie.fr/l-etablissement/",
+        "externalId": "0340042L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340042L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Jean%20Mermoz&code_postal=34060",
+        "osmId": "fr-education:0340042L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-18T23:28:51.514Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ],
+    "universities": [
+      {
+        "name": "MBS",
+        "address": "2300 AVENUE DES MOULINS, 34185, MONTPELLIER CEDEX 4",
+        "coordinates": [
+          43.621491,
+          3.833542
+        ],
+        "website": "http://www.montpellier-bs.com/",
+        "osmId": "fr-esr:UU34701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:34.534Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Université de Montpellier Paul-Valéry",
+        "address": "Route de Mende, 34090, Montpellier",
+        "coordinates": [
+          43.6324177950831,
+          3.870170116424561
+        ],
+        "website": null,
+        "osmId": "fr-esr:UU34701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:34.534Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Université de Montpellier",
+        "address": "163 rue Auguste Broussonnet, 34090, Montpellier",
+        "coordinates": [
+          43.61494,
+          3.87347
+        ],
+        "website": "https://www.umontpellier.fr",
+        "osmId": "fr-esr:UU34701",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-18T23:27:34.534Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      }
+    ],
+    "internationalHighSchools": [
+      {
+        "name": "Lycée Joffre",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.61207825608604,
+          3.884709803165587
+        ],
+        "website": "https://lycee-joffre-montpellier.mon-ent-occitanie.fr/",
+        "externalId": "0340038G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340038G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Joffre&code_postal=34060",
+        "osmId": "fr-education:0340038G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:37.066Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Jules Guesde",
+        "address": "34060, Montpellier",
+        "coordinates": [
+          43.61171607580439,
+          3.847970077404897
+        ],
+        "website": "https://jules-guesde.mon-ent-occitanie.fr/",
+        "externalId": "0340040J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0340040J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Jules%20Guesde&code_postal=34060",
+        "osmId": "fr-education:0340040J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:37.066Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ]
+  },
+  "culture": {
+    "museums": [
+      {
+        "name": "musée de l'hôtel d'Espeyran",
+        "address": "6 bis r. Montpelliéret, 34000 Montpellier",
+        "coordinates": [
+          43.6111820814533,
+          3.88035484226428
+        ],
+        "website": null,
+        "externalId": "M0477",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20de%20l'h%C3%B4tel%20d'Espeyran",
+        "osmId": "fr-culture:M0477",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:58.315Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Musée de France"
+      },
+      {
+        "name": "MICRO-FOLIE LE CARROUSEL",
+        "address": ", 34000 Montpellier",
+        "coordinates": [
+          43.610476,
+          3.87048
+        ],
+        "website": null,
+        "externalId": "2999205837",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MICRO-FOLIE%20LE%20CARROUSEL",
+        "osmId": "fr-culture:2999205837",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:58.315Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Microfolie"
+      },
+      {
+        "name": "MICRO-FOLIE MONTPELLIER",
+        "address": "35 r. de la Haye, 34000 Montpellier",
+        "coordinates": [
+          43.599099,
+          3.903992
+        ],
+        "website": null,
+        "externalId": "2999096775",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MICRO-FOLIE%20MONTPELLIER",
+        "osmId": "fr-culture:2999096775",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:58.315Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Microfolie"
+      },
+      {
+        "name": "musée Fabre",
+        "address": "39 bd Bonne-Nouvelle, 34000 Montpellier",
+        "coordinates": [
+          43.6114023695842,
+          3.88017580331223
+        ],
+        "website": null,
+        "externalId": "M0476",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Fabre",
+        "osmId": "fr-culture:M0476",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:58.315Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée languedocien",
+        "address": "7 r. Jacques-Coeur, 34000 Montpellier",
+        "coordinates": [
+          43.6095246299688,
+          3.87915096792926
+        ],
+        "website": null,
+        "externalId": "M0479",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20languedocien",
+        "osmId": "fr-culture:M0479",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:58.315Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée du vieux Montpellier",
+        "address": "2 pl. Pétrarque, 34000 Montpellier",
+        "coordinates": [
+          43.6107882575962,
+          3.87834951570879
+        ],
+        "website": null,
+        "externalId": "M0478",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20du%20vieux%20Montpellier",
+        "osmId": "fr-culture:M0478",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:58.315Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Musée de France"
+      }
+    ],
+    "theaters": [
+      {
+        "name": "Théâtre Gérard Philipe",
+        "address": "7 r. Pagès, 34000 Montpellier",
+        "coordinates": [
+          43.6083948622334,
+          3.86619186986002
+        ],
+        "website": null,
+        "externalId": "ORG003134",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20G%C3%A9rard%20Philipe",
+        "osmId": "fr-culture:ORG003134",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:01.374Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Théâtre de ville",
+        "theaterSeats": "113",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre Jean Vilar",
+        "address": "155 r. de Bologne, 34000 Montpellier",
+        "coordinates": [
+          43.633283,
+          3.858611
+        ],
+        "website": null,
+        "externalId": "ORG003135",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20Jean%20Vilar",
+        "osmId": "fr-culture:ORG003135",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:01.374Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Théâtre de ville",
+        "theaterSeats": "374",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Domaine d'O",
+        "address": "Domaine Dép. d'Art et de Culture, 34000 Montpellier",
+        "coordinates": [
+          43.6354,
+          3.834988
+        ],
+        "website": null,
+        "externalId": "ORG002963",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Domaine%20d'O",
+        "osmId": "fr-culture:ORG002963",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:01.374Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Théâtre hors label",
+        "theaterSeats": "2700",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Compagnie les Perles de Verre / La Baignoire",
+        "address": "14 r. Dom-Vaissette, 34000 Montpellier",
+        "coordinates": [
+          43.6050860165757,
+          3.87231326633534
+        ],
+        "website": null,
+        "externalId": "ORG004001",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Compagnie%20les%20Perles%20de%20Verre%20%2F%20La%20Baignoire",
+        "osmId": "fr-culture:ORG004001",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:01.374Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "49",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Faux Populaire Le Mort Aux Dents",
+        "address": "C O Candy Bernard 151 r. Courte Oreille, 34000 Montpellier",
+        "coordinates": [
+          43.616357,
+          3.895375
+        ],
+        "website": null,
+        "externalId": "ORG002151",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Faux%20Populaire%20Le%20Mort%20Aux%20Dents",
+        "osmId": "fr-culture:ORG002151",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:01.374Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Compagnie conventionnée",
+        "theaterSeats": null,
+        "theaterOrganism": "Faux Populaire Le Mort Aux Dents"
+      },
+      {
+        "name": "Centre des arts du cirque Balthazar",
+        "address": "16 r. Toiras, 34000 Montpellier",
+        "coordinates": [
+          43.605916,
+          3.870612
+        ],
+        "website": null,
+        "externalId": "ORG002950",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Centre%20des%20arts%20du%20cirque%20Balthazar",
+        "osmId": "fr-culture:ORG002950",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:01.374Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Théâtre hors label",
+        "theaterSeats": null,
+        "theaterOrganism": "Centre des arts du cirque Balthazar"
+      },
+      {
+        "name": "Théâtre Jacques Coeur",
+        "address": "Mas d'Encivade, 34970 Lattes",
+        "coordinates": [
+          43.574845,
+          3.899253
+        ],
+        "website": null,
+        "externalId": "ORG003364",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20Jacques%20Coeur",
+        "osmId": "fr-culture:ORG003364",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:01.374Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Théâtre de ville",
+        "theaterSeats": null,
+        "theaterOrganism": null
+      }
+    ],
+    "cinemas": [
+      {
+        "name": "PATHE ODYSSEUM",
+        "address": "235 r. Georges Melies, 34000 Montpellier",
+        "coordinates": [
+          43.6044086407455,
+          3.91559033546624
+        ],
+        "website": null,
+        "externalId": "275311",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=PATHE%20ODYSSEUM",
+        "osmId": "fr-culture:275311",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:59.530Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": null,
+        "screens": "17",
+        "seats": "3786",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CINEMA NESTOR BURMA",
+        "address": "2 r. Marcelin Albert, 34000 Montpellier",
+        "coordinates": [
+          43.6143375519889,
+          3.8286212260317
+        ],
+        "website": null,
+        "externalId": "275334",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CINEMA%20NESTOR%20BURMA",
+        "osmId": "fr-culture:275334",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:59.530Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "107",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "GAUMONT COMEDIE",
+        "address": "10 pl. de la Comedie, 34000 Montpellier",
+        "coordinates": [
+          43.6092059450064,
+          3.87963610854355
+        ],
+        "website": null,
+        "externalId": "275273",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=GAUMONT%20COMEDIE",
+        "osmId": "fr-culture:275273",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:59.530Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": null,
+        "screens": "8",
+        "seats": "1113",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "DIAGONAL CAPITOLE",
+        "address": "5 r. de Verdun, 34000 Montpellier",
+        "coordinates": [
+          43.6078551245217,
+          3.88059195603704
+        ],
+        "website": null,
+        "externalId": "275201",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=DIAGONAL%20CAPITOLE",
+        "osmId": "fr-culture:275201",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:59.530Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Art et essai",
+        "screens": "6",
+        "seats": "1067",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "Maison pour Tous et Cinéma Louis Feuillade",
+        "address": "410 av. de Barcelone, 34000 Montpellier",
+        "coordinates": [
+          43.6243101390209,
+          3.81808407778165
+        ],
+        "website": null,
+        "externalId": "275336",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Maison%20pour%20Tous%20et%20Cin%C3%A9ma%20Louis%20Feuillade",
+        "osmId": "fr-culture:275336",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:59.530Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": null,
+        "screens": "1",
+        "seats": "88",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "UTOPIA DIAGONAL CAMPUS",
+        "address": "5 av. du Docteur Pezet, 34000 Montpellier",
+        "coordinates": [
+          43.6289059057507,
+          3.86910410079557
+        ],
+        "website": null,
+        "externalId": "275205",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=UTOPIA%20DIAGONAL%20CAMPUS",
+        "osmId": "fr-culture:275205",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:59.530Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Art et essai",
+        "screens": "3",
+        "seats": "265",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      }
+    ],
+    "operas": [
+      {
+        "name": "Opéra Orchestre National de Montpellier",
+        "address": "le Corum, 34000 Montpellier",
+        "coordinates": [
+          43.6126988225693,
+          3.88188728980109
+        ],
+        "website": null,
+        "externalId": "8720301",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Op%C3%A9ra%20Orchestre%20National%20de%20Montpellier",
+        "osmId": "fr-culture:8720301",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:15:02.591Z",
+        "type": "Opéra",
+        "dataSource": "French Ministry of Culture",
+        "region": "Occitanie",
+        "departement": "Hérault",
+        "label": "Opéra national en région"
+      }
+    ]
+  },
+  "transportation": {
+    "internationalFlights": 3,
+    "transitScore": 7.8,
+    "distanceToParisWithCar": 12.5,
+    "distanceToParisWithTrain": 3.8,
+    "distanceToLyonWithCar": 4.7,
+    "distanceToLyonWithTrain": 2.2
+  },
+  "geography": {
+    "hikes": [
+      {
+        "name": "De Saint-Étienne au Grau-du-Roi",
+        "description": "De Saint-Étienne au Grau-du-Roi (nwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 453,
+        "difficulty": null,
+        "externalId": 2410123,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2410123",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin du signal de Mailhebiau à Saint-Mathieu-de-Tréviers - Tracé principal",
+        "description": "Chemin du signal de Mailhebiau à Saint-Mathieu-de-Tréviers - Tracé principal (nwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 110.5,
+        "difficulty": null,
+        "externalId": 2785104,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2785104",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "CSG 11 : Saint-Maurice-Navacelles - Saint-Guilhem-le-Désert",
+        "description": "CSG 11 : Saint-Maurice-Navacelles - Saint-Guilhem-le-Désert (nwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 25.7,
+        "difficulty": null,
+        "externalId": 3390833,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3390833",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les mégalithes de Lauret",
+        "description": "Les mégalithes de Lauret (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 16.7,
+        "difficulty": null,
+        "externalId": 5126945,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5126945",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Botanique de la Fontanaride",
+        "description": "Sentier Botanique de la Fontanaride (hiking)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 1.3,
+        "difficulty": null,
+        "externalId": 6662859,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6662859",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de l'Escalège",
+        "description": "Sentier de l'Escalège (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 4,
+        "difficulty": null,
+        "externalId": 7432295,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7432295",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Fenestrettes",
+        "description": "Les Fenestrettes (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 8.6,
+        "difficulty": null,
+        "externalId": 7933248,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7933248",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Notre-Dame-du-Lieu-Plaisant",
+        "description": "Notre-Dame-du-Lieu-Plaisant (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 9.2,
+        "difficulty": null,
+        "externalId": 7933254,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7933254",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Frênes",
+        "description": "Sentier des Frênes (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 1.1,
+        "difficulty": null,
+        "externalId": 7981148,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7981148",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des tamaris",
+        "description": "Sentier des tamaris (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 3.1,
+        "difficulty": null,
+        "externalId": 7981149,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7981149",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Grains de Méjean",
+        "description": "Grains de Méjean (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 1.9,
+        "difficulty": null,
+        "externalId": 7981150,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7981150",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour des vignes au Causse",
+        "description": "Tour des vignes au Causse (rwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 72.1,
+        "difficulty": null,
+        "externalId": 9519088,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9519088",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Crête de Taillade et rocher du Causse",
+        "description": "Crête de Taillade et rocher du Causse (hiking)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 18.1,
+        "difficulty": null,
+        "externalId": 9519090,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9519090",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les chênes de Coutach",
+        "description": "Les chênes de Coutach (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 18.2,
+        "difficulty": null,
+        "externalId": 9859312,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9859312",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le sentier du dragon",
+        "description": "Le sentier du dragon (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 13.1,
+        "difficulty": null,
+        "externalId": 10465978,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10465978",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit des dolmens de Viols-le-Fort à Cantagrils",
+        "description": "Circuit des dolmens de Viols-le-Fort à Cantagrils (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 13.2,
+        "difficulty": null,
+        "externalId": 11162826,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11162826",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De la cave aux moulins",
+        "description": "De la cave aux moulins (Parcours de Géocaching du Pays de Sommières)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 5.6,
+        "difficulty": null,
+        "externalId": 11950244,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11950244",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La balade du Coucou",
+        "description": "La balade du Coucou (Espaces Naturels Gardois - Valléd du Vidourle)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 6.2,
+        "difficulty": null,
+        "externalId": 11975813,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11975813",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "A la découverte de la pierre de Junas",
+        "description": "A la découverte de la pierre de Junas (Parcours de Géocaching du Pays de Sommières)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 7.5,
+        "difficulty": null,
+        "externalId": 11992985,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11992985",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Lecques de l'eau à la roche",
+        "description": "Lecques de l'eau à la roche (Parcours de Géocaching du Pays de Sommières)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 7,
+        "difficulty": null,
+        "externalId": 12031244,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12031244",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Villevieille remonter le temps",
+        "description": "Villevieille remonter le temps (Parcours de Géocaching du Pays de Sommières)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 1,
+        "difficulty": null,
+        "externalId": 12035729,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12035729",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Mont Saint Baudille",
+        "description": "Le Mont Saint Baudille (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 10.4,
+        "difficulty": null,
+        "externalId": 12452471,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12452471",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Seranne-Pontel",
+        "description": "Seranne-Pontel (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 17.5,
+        "difficulty": null,
+        "externalId": 12558298,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12558298",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Peyre Martine",
+        "description": "Peyre Martine (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 16.1,
+        "difficulty": null,
+        "externalId": 12558299,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12558299",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Balcons de L'Hérault",
+        "description": "Les Balcons de L'Hérault (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 18.1,
+        "difficulty": null,
+        "externalId": 12558576,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12558576",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour de la Séranne aux gorges de l'Hérault",
+        "description": "Tour de la Séranne aux gorges de l'Hérault (rwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 67.8,
+        "difficulty": null,
+        "externalId": 12773407,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12773407",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour des Londres à la Buèges",
+        "description": "Tour des Londres à la Buèges (rwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 54.5,
+        "difficulty": null,
+        "externalId": 12805952,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12805952",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour des villages du Pic",
+        "description": "Tour des villages du Pic (rwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 47.1,
+        "difficulty": null,
+        "externalId": 12806602,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12806602",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les collines de la Moure",
+        "description": "Les collines de la Moure (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 10.6,
+        "difficulty": null,
+        "externalId": 12813721,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813721",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les belvédères de la Gardiole",
+        "description": "Les belvédères de la Gardiole (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 10.8,
+        "difficulty": null,
+        "externalId": 12813756,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813756",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Saint Félix en Gardiole",
+        "description": "Saint Félix en Gardiole (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 14.4,
+        "difficulty": null,
+        "externalId": 12813833,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813833",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Autour de l'abbaye",
+        "description": "Autour de l'abbaye (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 6.1,
+        "difficulty": null,
+        "externalId": 12813842,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813842",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les balcons de Thau",
+        "description": "Les balcons de Thau (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 6.7,
+        "difficulty": null,
+        "externalId": 12813853,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813853",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Salines",
+        "description": "Les Salines (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 16,
+        "difficulty": null,
+        "externalId": 12813858,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813858",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Aresquiers",
+        "description": "Les Aresquiers (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 9.3,
+        "difficulty": null,
+        "externalId": 12813859,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813859",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Plateau de l'Horloge",
+        "description": "Plateau de l'Horloge (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 3.8,
+        "difficulty": null,
+        "externalId": 12813865,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813865",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Arnède",
+        "description": "Arnède (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 14.7,
+        "difficulty": null,
+        "externalId": 12813907,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813907",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bois de Lèque",
+        "description": "Bois de Lèque (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 6.1,
+        "difficulty": null,
+        "externalId": 12813908,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813908",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Château de Restinclières",
+        "description": "Le Château de Restinclières (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 8.1,
+        "difficulty": null,
+        "externalId": 12813922,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813922",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le bois de Saint-Sauveur",
+        "description": "Le bois de Saint-Sauveur (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 4.5,
+        "difficulty": null,
+        "externalId": 12813935,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813935",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Fontanaride",
+        "description": "La Fontanaride (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 4.3,
+        "difficulty": null,
+        "externalId": 12813937,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12813937",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le sentier de Sauzet",
+        "description": "Le sentier de Sauzet (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 7.3,
+        "difficulty": null,
+        "externalId": 12814000,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12814000",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Aqueduc de Castries",
+        "description": "Aqueduc de Castries (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 11.8,
+        "difficulty": null,
+        "externalId": 12831950,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12831950",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Quatre carrières",
+        "description": "Les Quatre carrières (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 8.7,
+        "difficulty": null,
+        "externalId": 12832019,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12832019",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Reganhat",
+        "description": "Reganhat (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 3.2,
+        "difficulty": null,
+        "externalId": 12832166,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12832166",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Capitelles de la Bénovie",
+        "description": "Capitelles de la Bénovie (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 9.3,
+        "difficulty": null,
+        "externalId": 12832408,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12832408",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chateaux du Muscat de Lunel",
+        "description": "Chateaux du Muscat de Lunel (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 8,
+        "difficulty": null,
+        "externalId": 12832706,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12832706",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Coteaux de Saint-Christol",
+        "description": "Coteaux de Saint-Christol (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 7.6,
+        "difficulty": null,
+        "externalId": 12832778,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12832778",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Charbonniers",
+        "description": "Sentier des Charbonniers (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 3.4,
+        "difficulty": null,
+        "externalId": 12835187,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12835187",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Castellas de Montpeyroux",
+        "description": "Castellas de Montpeyroux (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 9.7,
+        "difficulty": null,
+        "externalId": 12835280,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12835280",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Canal et rieux",
+        "description": "Canal et rieux (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 11.2,
+        "difficulty": null,
+        "externalId": 12835407,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12835407",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Fontaines et lavoirs",
+        "description": "Fontaines et lavoirs (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 10.3,
+        "difficulty": null,
+        "externalId": 12835434,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12835434",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Asphodèles",
+        "description": "Asphodèles (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 3.4,
+        "difficulty": null,
+        "externalId": 12840697,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12840697",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Rouviège à Dardaillon",
+        "description": "De Rouviège à Dardaillon (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 10.2,
+        "difficulty": null,
+        "externalId": 12841607,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12841607",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Dolmen et Fossé des Yeux",
+        "description": "Dolmen et Fossé des Yeux (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 9.6,
+        "difficulty": null,
+        "externalId": 12842947,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12842947",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Castelbarry",
+        "description": "Castelbarry (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 6,
+        "difficulty": null,
+        "externalId": 12845659,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12845659",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les capitelles de la Bénovie",
+        "description": "Les capitelles de la Bénovie (hiking)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 12943805,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12943805",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour du Larzac Méridional",
+        "description": "Tour du Larzac Méridional (rwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 88.8,
+        "difficulty": null,
+        "externalId": 13338718,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13338718",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "D'un canal à l'autre",
+        "description": "D'un canal à l'autre (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 10.5,
+        "difficulty": null,
+        "externalId": 13504182,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13504182",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Pic Saint-Loup",
+        "description": "Le Pic Saint-Loup (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 2.7,
+        "difficulty": null,
+        "externalId": 13707067,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13707067",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Ravin des Arcs",
+        "description": "Le Ravin des Arcs (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 3.2,
+        "difficulty": null,
+        "externalId": 13707598,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13707598",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de découverte",
+        "description": "Sentier de découverte (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 3.1,
+        "difficulty": null,
+        "externalId": 13738042,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13738042",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de découverte",
+        "description": "Sentier de découverte (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 3,
+        "difficulty": null,
+        "externalId": 13744218,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13744218",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Chemin des Oliviers",
+        "description": "Le Chemin des Oliviers (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 16.5,
+        "difficulty": null,
+        "externalId": 14753498,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14753498",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le bois de Paris",
+        "description": "Le bois de Paris (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 10.6,
+        "difficulty": null,
+        "externalId": 14753509,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14753509",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "GR 74",
+        "description": "GR 74 (nwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 46.5,
+        "difficulty": null,
+        "externalId": 17637988,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17637988",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bois de Long",
+        "description": "Bois de Long (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 5.8,
+        "difficulty": null,
+        "externalId": 17714443,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17714443",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le pont du Hasard",
+        "description": "Le pont du Hasard (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 11.1,
+        "difficulty": null,
+        "externalId": 17868970,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17868970",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Variante PR 47",
+        "description": "Variante PR 47 (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 2.5,
+        "difficulty": null,
+        "externalId": 17890579,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17890579",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les chênes de Coutach",
+        "description": "Les chênes de Coutach (lwn)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 21.8,
+        "difficulty": null,
+        "externalId": 17892037,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17892037",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Ancien chemin de Gignac",
+        "description": "Ancien chemin de Gignac (hiking)",
+        "coordinates": [
+          43.6112422,
+          3.8767337
+        ],
+        "length": 2,
+        "difficulty": null,
+        "externalId": 18608431,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18608431",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "hikesTotalLength": 1492.1
+  },
+  "housing": {
+    "avgSellPricePerM2": 4923,
+    "avgRentPricePerM2": 15
+  },
+  "qualityOfLife": {
+    "crimeRate": 2.3,
+    "greenSpaces": 8.8,
+    "airQuality": 8,
+    "costOfLife": 6.9,
+    "liveabilityScore": 8.5,
+    "healthQuality": 8.2
+  },
+  "images": [
+    {
+      "url": "https://images.pexels.com/photos/1579715/pexels-photo-1579715.jpeg?w=1200&h=400&fit=crop&crop=center",
+      "alt": "A modern interior dining space featuring wooden architecture and natural lighting in Montpellier, France.",
+      "photographer": "Thomas  balabaud",
+      "isBanner": true
+    },
+    {
+      "url": "https://images.pexels.com/photos/32706392/pexels-photo-32706392.jpeg",
+      "alt": "Close-up of a green frog resting on a lily pad in a pond, Montpellier, France.",
+      "photographer": "Daria K",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15508812/pexels-photo-15508812.jpeg",
+      "alt": "Close-up of modern apartment facades in Montpellier, showcasing geometric design and open spaces.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7164535/pexels-photo-7164535.jpeg",
+      "alt": "A vibrant array of spices displayed in sacks at a market in Montpellier, France.",
+      "photographer": "ARNAUD VIGNE",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10273650/pexels-photo-10273650.jpeg",
+      "alt": "Close-up of Arc de Triomphe in Montpellier with intricate carvings and a statue visible through the arch.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31682530/pexels-photo-31682530.jpeg",
+      "alt": "Beautiful sunny day in Marseillan Harbor, Occitanie, France. Vibrant boats reflect on calm waters.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29340486/pexels-photo-29340486.jpeg",
+      "alt": "Elegant architectural detail of Grand Hotel du Midi in Montpellier, France.",
+      "photographer": "Atypeek Dgn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32726544/pexels-photo-32726544.jpeg",
+      "alt": "A sheep being hand-fed hay at a farm in Montpellier, showcasing rural life.",
+      "photographer": "Marie Palmier",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32798666/pexels-photo-32798666.jpeg",
+      "alt": "Pride banner at Montpellier arch celebrating LGBTQ+ inclusion and love.",
+      "photographer": "Marie Palmier",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6671575/pexels-photo-6671575.jpeg",
+      "alt": "Violin maker concentrating on repairs in a dimly lit Montpellier workshop.",
+      "photographer": "Thomas  balabaud",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6671586/pexels-photo-6671586.jpeg",
+      "alt": "Long exposure capturing a train passing by passengers at Montpellier station.",
+      "photographer": "Thomas  balabaud",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/25384588/pexels-photo-25384588.jpeg",
+      "alt": "A black and white photo of a guitarist statue in Montpellier's park.",
+      "photographer": "Atypeek Dgn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/22868390/pexels-photo-22868390.png",
+      "alt": "Black and white photo of cheetahs resting in Montpellier, showcasing wildlife in the natural habitat.",
+      "photographer": "Marie Palmier",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11155342/pexels-photo-11155342.jpeg",
+      "alt": "A scenic view of the historic Aqueduc Saint-Clément in Montpellier, showcasing its arches under a cloudy sky.",
+      "photographer": "Annikka D",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18694889/pexels-photo-18694889.jpeg",
+      "alt": "Explore the stunning stalactites and rock formations in a cave near Meyrueis, France.",
+      "photographer": "PHILIPPE SERRAND",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8870742/pexels-photo-8870742.png",
+      "alt": "Modern architectural design in Montpellier's Antigone District captured in striking monochrome.",
+      "photographer": "Evan Velez Saxer",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11306844/pexels-photo-11306844.jpeg",
+      "alt": "Vibrant street view in Montpellier with colorful trams and classic architecture.",
+      "photographer": "𓇼 BABIX VISUALS 𓇼",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15508657/pexels-photo-15508657.jpeg",
+      "alt": "Close-up of modern balconies in Montpellier, showcasing sleek architectural design.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17734703/pexels-photo-17734703.jpeg",
+      "alt": "Two giraffes eating hay at Montpellier Zoo, France. Close wildlife portrait.",
+      "photographer": "David Ruh",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/25383916/pexels-photo-25383916.jpeg",
+      "alt": "Futuristic building with round windows in Montpellier, France.",
+      "photographer": "Atypeek Dgn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/21517308/pexels-photo-21517308.jpeg",
+      "alt": "Extreme close-up of a nutria in Montpellier, France, showcasing its distinct orange teeth.",
+      "photographer": "Nathan Cima",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/21517310/pexels-photo-21517310.jpeg",
+      "alt": "Close-up shot of a nutria grooming by the water's edge in Montpellier, France.",
+      "photographer": "Nathan Cima",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15508572/pexels-photo-15508572.jpeg",
+      "alt": "Capture of a modern building exterior in Montpellier with a clear blue sky background.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/14929603/pexels-photo-14929603.jpeg",
+      "alt": "A vintage street lamp with artistic panes stands before a bare winter tree in Montpellier, France.",
+      "photographer": "Ivan Dražić",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11306856/pexels-photo-11306856.jpeg",
+      "alt": "Lively scene of the Carrousel de la Comédie in Montpellier, France's bustling downtown.",
+      "photographer": "𓇼 BABIX VISUALS 𓇼",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17709310/pexels-photo-17709310.jpeg",
+      "alt": "A delicate butterfly perched on white flowers amidst green leaves in Montpellier, capturing natural beauty and pollination.",
+      "photographer": "David Ruh",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32726543/pexels-photo-32726543.jpeg",
+      "alt": "A cute sheep being petted, enjoying a sunny day at a Montpellier farm pen in France.",
+      "photographer": "Marie Palmier",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11019349/pexels-photo-11019349.jpeg",
+      "alt": "Stunning view of illuminated buildings in Montpellier's urban landscape at dusk.",
+      "photographer": "Oleg Karsakóv",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10320999/pexels-photo-10320999.jpeg",
+      "alt": "Stylish modern facade with geometric patterns on a building in Montpellier, France.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10321011/pexels-photo-10321011.jpeg",
+      "alt": "Modern building facade in Montpellier with colorful window panes and geometric design.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15508946/pexels-photo-15508946.jpeg",
+      "alt": "Close-up of a contemporary apartment building in Montpellier, France, showcasing modern architecture.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28773560/pexels-photo-28773560.jpeg",
+      "alt": "Colorful tram passing through a bustling street in Montpellier, France.",
+      "photographer": "Eric SAINT-MARTIN",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31708692/pexels-photo-31708692.jpeg",
+      "alt": "Stunning view of Béziers Cathedral overlooking the town in Occitanie, France.",
+      "photographer": "SlimMars 13",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32798817/pexels-photo-32798817.jpeg",
+      "alt": "LGBTQ protest sign in a parade in France advocating for transgender rights.",
+      "photographer": "Marie Palmier",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29836839/pexels-photo-29836839.jpeg",
+      "alt": "Intense rugby match captured in Montpellier, France, showing players in action on the field.",
+      "photographer": "Eric SAINT-MARTIN",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/21517309/pexels-photo-21517309.jpeg",
+      "alt": "Discover this close-up of a nutria basking by the water in Montpellier, France.",
+      "photographer": "Nathan Cima",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10273656/pexels-photo-10273656.jpeg",
+      "alt": "Minimalist hotel exterior with Ibis logo on a textured wall in Montpellier, France.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15508726/pexels-photo-15508726.jpeg",
+      "alt": "Detailed facade of a modern apartment building with decorative design in Montpellier, France.",
+      "photographer": "Jan van der Wolf",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15073996/pexels-photo-15073996.jpeg",
+      "alt": "Vintage carousel in Lyon, France with lively street scene and historic buildings.",
+      "photographer": "Ivan Dražić",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29836849/pexels-photo-29836849.jpeg",
+      "alt": "Exciting rugby match with crowds cheering at a stadium in Montpellier, Occitanie, France.",
+      "photographer": "Eric SAINT-MARTIN",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29836850/pexels-photo-29836850.jpeg",
+      "alt": "Professional rugby player on a field in Montpellier, Occitanie, France during a match.",
+      "photographer": "Eric SAINT-MARTIN",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11306999/pexels-photo-11306999.jpeg",
+      "alt": "Beautiful landscape of the Gorges of Hérault with a stone bridge in France.",
+      "photographer": "𓇼 BABIX VISUALS 𓇼",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg",
+      "alt": "Breathtaking sunset reflection at Place de la Bourse, Bordeaux, France, showcasing historic architecture.",
+      "photographer": "Borja Lopez",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/888616/pexels-photo-888616.jpeg",
+      "alt": "A stunning view of a lit Ferris wheel beside the ancient Obelisk in Paris, France at night.",
+      "photographer": "Luciano Teixeira",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32769595/pexels-photo-32769595.jpeg",
+      "alt": "A woman points across the reflective surface in front of Place de la Bourse, Bordeaux, France.",
+      "photographer": "Kathleen  E.",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13931644/pexels-photo-13931644.jpeg",
+      "alt": "A vibrant view of La Rotonde café on a bustling night in Paris, France.",
+      "photographer": "Gökberk Keskinkılıç",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/21764603/pexels-photo-21764603.jpeg",
+      "alt": "Illuminated Louvre Museum in Paris, France, showcasing its iconic architecture at night.",
+      "photographer": "Barry Talley",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/17114226/pexels-photo-17114226.jpeg",
+      "alt": "View of the Arc de Triomphe down a busy Champs Élysées in Paris, France, during fall.",
+      "photographer": "Jarod Barton",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32603602/pexels-photo-32603602.jpeg",
+      "alt": "Capture of the grand Fontaine des Mers on a sunny day in Paris, France.",
+      "photographer": "Antonio Miralles Andorra",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15792509/pexels-photo-15792509.jpeg",
+      "alt": "Close-up of a detailed sculpture at Place de la République in Paris, France.",
+      "photographer": "amine photographe",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/11360311/pexels-photo-11360311.jpeg",
+      "alt": "Beautiful daytime view of Notre Dame Cathedral on the Seine River in Paris, France.",
+      "photographer": "Andres Carrera",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/20412920/pexels-photo-20412920.jpeg",
+      "alt": "Partial view of Arc de Triomphe in Paris, France with surrounding trees.",
+      "photographer": "Alejandro Aznar",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/21621087/pexels-photo-21621087.jpeg",
+      "alt": "Elegant dusk capture of the illuminated Arc de Triomphe in Paris, France at night.",
+      "photographer": "Jari Volpato",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13273096/pexels-photo-13273096.jpeg",
+      "alt": "Captivating view of the Arc de Triomphe at dusk in Paris, France, under a dramatic sky.",
+      "photographer": "Metehan Demirkaya",
+      "isBanner": false
+    }
+  ],
+  "dataQuality": {
+    "completeness": 95,
+    "lastUpdated": "2025-08-22",
+    "sources": {
+      "weather": "Météo-France, 2023 data",
+      "population": "INSEE, 2023 estimate",
+      "education": "French Ministry of Education, 2023",
+      "culture": "French Ministry of Culture, 2023",
+      "transportation": "Google Maps / SNCF, 2023",
+      "geography": "Google Maps / AllTrails, 2023",
+      "housing": "MeilleursAgents / FNAIM, 2023",
+      "qualityOfLife": "French government sources, 2023",
+      "images": "Pexels API"
+    }
+  }
+}

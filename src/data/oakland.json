@@ -1,0 +1,1424 @@
+{
+  "id": "oakland",
+  "name": "Oakland",
+  "region": "California, USA",
+  "coordinates": [
+    37.8044,
+    -122.2711
+  ],
+  "weather": {
+    "sunnyDays": 290,
+    "rainyDays": 76,
+    "avgTemp": 13.9,
+    "monthlyData": [
+      11.1,
+      11.3,
+      12.1,
+      13.5,
+      15.2,
+      14.7,
+      15,
+      15.2,
+      17.2,
+      17.6,
+      12.8,
+      11.4
+    ],
+    "monthlySunnyDays": [
+      27,
+      14,
+      16,
+      24,
+      29,
+      30,
+      29,
+      29,
+      28,
+      28,
+      17,
+      19
+    ],
+    "monthlyRainyDays": [
+      4,
+      14,
+      15,
+      6,
+      2,
+      0,
+      2,
+      3,
+      2,
+      3,
+      13,
+      12
+    ],
+    "monthlyPrecipitation": [
+      38.5,
+      126.9,
+      95.8,
+      5.3,
+      4.1,
+      0,
+      1,
+      2.4,
+      2.9,
+      7.9,
+      146,
+      141.5
+    ]
+  },
+  "population": {
+    "total": 440000,
+    "studentPercentage": 19,
+    "density": 2800
+  },
+  "education": {
+    "highSchools": [],
+    "universities": [],
+    "internationalHighSchools": []
+  },
+  "culture": {
+    "museums": [],
+    "theaters": [],
+    "cinemas": [],
+    "operas": []
+  },
+  "transportation": {
+    "internationalFlights": 15,
+    "transitScore": 7.5,
+    "distanceToParisWithCar": 0,
+    "distanceToParisWithTrain": 0,
+    "distanceToLyonWithCar": 0,
+    "distanceToLyonWithTrain": 0
+  },
+  "geography": {
+    "hikes": [
+      {
+        "name": "Briones to Mt. Diablo Regional Trail",
+        "description": "Briones to Mt. Diablo Regional Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 19.2,
+        "difficulty": null,
+        "externalId": 1354568,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/1354568",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Park Trail",
+        "description": "Park Trail (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.4,
+        "difficulty": null,
+        "externalId": 1528108,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/1528108",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Dipsea Race route",
+        "description": "Dipsea Race route (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 10.9,
+        "difficulty": null,
+        "externalId": 1709551,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/1709551",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "California Coastal Trail",
+        "description": "California Coastal Trail (rwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 56,
+        "difficulty": null,
+        "externalId": 2260059,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2260059",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Ivan Dickson Trail",
+        "description": "Ivan Dickson Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 17.8,
+        "difficulty": null,
+        "externalId": 3029014,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3029014",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sweeney Ridge Trail",
+        "description": "Sweeney Ridge Trail (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 8.2,
+        "difficulty": null,
+        "externalId": 3541201,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3541201",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Mokelumne Coast to Crest Trail",
+        "description": "Mokelumne Coast to Crest Trail (rcn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 159.8,
+        "difficulty": null,
+        "externalId": 4139386,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4139386",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "San Francisco Bay Trail",
+        "description": "San Francisco Bay Trail (rwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 39.9,
+        "difficulty": null,
+        "externalId": 6237244,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6237244",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Batteries to Bluffs Trail",
+        "description": "Batteries to Bluffs Trail (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 6255381,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6255381",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "The Barbary Coast Trail",
+        "description": "The Barbary Coast Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 9.4,
+        "difficulty": null,
+        "externalId": 6322028,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6322028",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Philosopher's Way",
+        "description": "Philosopher's Way (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 5.4,
+        "difficulty": null,
+        "externalId": 6399097,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6399097",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Yellow Brick Road",
+        "description": "Yellow Brick Road (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.1,
+        "difficulty": null,
+        "externalId": 6636319,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6636319",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "ADT - California - T - Seg 7",
+        "description": "ADT - California - T - Seg 7 (nwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 55.8,
+        "difficulty": null,
+        "externalId": 9161548,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9161548",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "ADT - California - T - Seg 8",
+        "description": "ADT - California - T - Seg 8 (nwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 77.4,
+        "difficulty": null,
+        "externalId": 9164049,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9164049",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "ADT - California - T - Seg 9",
+        "description": "ADT - California - T - Seg 9 (nwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 69.8,
+        "difficulty": null,
+        "externalId": 9168170,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9168170",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Whispering Creek Trail",
+        "description": "Whispering Creek Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 10743557,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10743557",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Diablo Regional Trail",
+        "description": "Diablo Regional Trail (rwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 48,
+        "difficulty": null,
+        "externalId": 11223063,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11223063",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Las Trampas to Mt. Diablo Regional Trail",
+        "description": "Las Trampas to Mt. Diablo Regional Trail (rwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 8.6,
+        "difficulty": null,
+        "externalId": 11223183,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11223183",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Mokelumne Coast to Crest Trail",
+        "description": "Mokelumne Coast to Crest Trail (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 6.2,
+        "difficulty": null,
+        "externalId": 12346593,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12346593",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "East Bay Skyline National Recreation Trail",
+        "description": "East Bay Skyline National Recreation Trail (rwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 48.1,
+        "difficulty": null,
+        "externalId": 12375756,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12375756",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Creeks to Peaks",
+        "description": "Creeks to Peaks (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.9,
+        "difficulty": null,
+        "externalId": 12644150,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12644150",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bay Area Ridge Trail - 02 - East Bay",
+        "description": "Bay Area Ridge Trail - 02 - East Bay (rwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 157.8,
+        "difficulty": null,
+        "externalId": 13042111,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13042111",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bay Area Ridge Trail - 01 - North Bay",
+        "description": "Bay Area Ridge Trail - 01 - North Bay (rwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 311.8,
+        "difficulty": null,
+        "externalId": 13042115,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13042115",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bay Area Ridge Trail - 04 - San Francisco and Peninsula",
+        "description": "Bay Area Ridge Trail - 04 - San Francisco and Peninsula (rwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 142.6,
+        "difficulty": null,
+        "externalId": 13042118,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13042118",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Cerrito Creek Trail",
+        "description": "Cerrito Creek Trail (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 14934373,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14934373",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "HikANation Historical Route",
+        "description": "HikANation Historical Route (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 17.6,
+        "difficulty": null,
+        "externalId": 15330518,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15330518",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Falls Trail Loop",
+        "description": "Falls Trail Loop (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 9.5,
+        "difficulty": null,
+        "externalId": 15652685,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15652685",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "San Francisco Crosstown Trail - Hiking - Section 1",
+        "description": "San Francisco Crosstown Trail - Hiking - Section 1 (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 8.3,
+        "difficulty": null,
+        "externalId": 16335528,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16335528",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "San Francisco Crosstown Trail - Hiking - Section 2",
+        "description": "San Francisco Crosstown Trail - Hiking - Section 2 (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 4.8,
+        "difficulty": null,
+        "externalId": 16336092,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16336092",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "San Francisco Crosstown Trail - Hiking - Section 3",
+        "description": "San Francisco Crosstown Trail - Hiking - Section 3 (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 3.4,
+        "difficulty": null,
+        "externalId": 16336159,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16336159",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "San Francisco Crosstown Trail - Hiking - Section 4",
+        "description": "San Francisco Crosstown Trail - Hiking - Section 4 (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 3.5,
+        "difficulty": null,
+        "externalId": 16336407,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16336407",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "San Francisco Crosstown Trail - Hiking - Section 5",
+        "description": "San Francisco Crosstown Trail - Hiking - Section 5 (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 6.3,
+        "difficulty": null,
+        "externalId": 16336450,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16336450",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Las Trampas Ridge Trail",
+        "description": "Las Trampas Ridge Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 10.2,
+        "difficulty": null,
+        "externalId": 16505383,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16505383",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Rocky Ridge Loop Trail",
+        "description": "Rocky Ridge Loop Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 7,
+        "difficulty": null,
+        "externalId": 16505384,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/16505384",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "San Francisco Bay Trail walking route (in development)",
+        "description": "San Francisco Bay Trail walking route (in development) (hiking)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 9.7,
+        "difficulty": null,
+        "externalId": 18413694,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18413694",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Dawn Falls Trail",
+        "description": "Dawn Falls Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.2,
+        "difficulty": null,
+        "externalId": 19109010,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109010",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Wheeler Trail",
+        "description": "Wheeler Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 19109011,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109011",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Fern Creek Trail",
+        "description": "Fern Creek Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 19109012,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109012",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pilot Knob Trail",
+        "description": "Pilot Knob Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.3,
+        "difficulty": null,
+        "externalId": 19109013,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109013",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "East Peak Fire Trail",
+        "description": "East Peak Fire Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.2,
+        "difficulty": null,
+        "externalId": 19109014,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109014",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Lagunitas Fire Trail",
+        "description": "Lagunitas Fire Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.1,
+        "difficulty": null,
+        "externalId": 19109015,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109015",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Northside Trail",
+        "description": "Northside Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 4.3,
+        "difficulty": null,
+        "externalId": 19109016,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109016",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Lower Berry Trail",
+        "description": "Lower Berry Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 19109017,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109017",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "CC Boys Trail",
+        "description": "CC Boys Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 19109018,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109018",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Lower Northside Trail",
+        "description": "Lower Northside Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.4,
+        "difficulty": null,
+        "externalId": 19109019,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109019",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Collier Trail",
+        "description": "Collier Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 19109020,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109020",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Collier Spring Trail",
+        "description": "Collier Spring Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 19109021,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109021",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "International Trail",
+        "description": "International Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 19109022,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109022",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Miller Trail",
+        "description": "Miller Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1,
+        "difficulty": null,
+        "externalId": 19109023,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109023",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Benstein Trail",
+        "description": "Benstein Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.9,
+        "difficulty": null,
+        "externalId": 19109024,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109024",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Simmons Trail",
+        "description": "Simmons Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 19109025,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109025",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Cataract Trail",
+        "description": "Cataract Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 4.4,
+        "difficulty": null,
+        "externalId": 19109026,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109026",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Arturo Trail",
+        "description": "Arturo Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1,
+        "difficulty": null,
+        "externalId": 19109027,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109027",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Rock Spring Trail",
+        "description": "Rock Spring Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.4,
+        "difficulty": null,
+        "externalId": 19109028,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109028",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Hoo-Koo-E-Koo Trail",
+        "description": "Hoo-Koo-E-Koo Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.5,
+        "difficulty": null,
+        "externalId": 19109029,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109029",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Vic Haun Trail",
+        "description": "Vic Haun Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 19109030,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109030",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Nora Trail",
+        "description": "Nora Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 19109031,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109031",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bootjack Trail",
+        "description": "Bootjack Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 4.2,
+        "difficulty": null,
+        "externalId": 19109032,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109032",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "TCC Trail",
+        "description": "TCC Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.9,
+        "difficulty": null,
+        "externalId": 19109033,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109033",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Stapleveldt Trail",
+        "description": "Stapleveldt Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.5,
+        "difficulty": null,
+        "externalId": 19109034,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109034",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Matt Davis Trail",
+        "description": "Matt Davis Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 9.7,
+        "difficulty": null,
+        "externalId": 19109035,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19109035",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Red Rock Trail",
+        "description": "Red Rock Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 19110399,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19110399",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Owl Trail",
+        "description": "Owl Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.7,
+        "difficulty": null,
+        "externalId": 19110400,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19110400",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Heather Cutoff",
+        "description": "Heather Cutoff (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.1,
+        "difficulty": null,
+        "externalId": 19110401,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19110401",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Rocky Point Trail",
+        "description": "Rocky Point Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 19110402,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19110402",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Dipsea Trail",
+        "description": "Dipsea Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 6.5,
+        "difficulty": null,
+        "externalId": 19110403,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19110403",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Old Mine Trail",
+        "description": "Old Mine Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.9,
+        "difficulty": null,
+        "externalId": 19110404,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19110404",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Steep Ravine Trail",
+        "description": "Steep Ravine Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 3.3,
+        "difficulty": null,
+        "externalId": 19110405,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19110405",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Corte Madera Creek Trail",
+        "description": "Corte Madera Creek Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 19123061,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123061",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Indian Fire Trail",
+        "description": "Indian Fire Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1,
+        "difficulty": null,
+        "externalId": 19123062,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123062",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Gertrude Ord Trail",
+        "description": "Gertrude Ord Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1.8,
+        "difficulty": null,
+        "externalId": 19123063,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123063",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Harry Allen Trail",
+        "description": "Harry Allen Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 19123064,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123064",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tucker Cutoff",
+        "description": "Tucker Cutoff (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 19123065,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123065",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bill Williams Trail",
+        "description": "Bill Williams Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 19123066,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123066",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tucker Trail",
+        "description": "Tucker Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.7,
+        "difficulty": null,
+        "externalId": 19123067,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123067",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Lakeview Trail",
+        "description": "Lakeview Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 19123068,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123068",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tavern Pump Trail",
+        "description": "Tavern Pump Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 19123069,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123069",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Temelpa Trail",
+        "description": "Temelpa Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 2.1,
+        "difficulty": null,
+        "externalId": 19123070,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123070",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Plank Walk Trail",
+        "description": "Plank Walk Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 19123071,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123071",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Verna Dunshee Trail",
+        "description": "Verna Dunshee Trail (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 1,
+        "difficulty": null,
+        "externalId": 19123072,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19123072",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Great Highway",
+        "description": "Great Highway (lwn)",
+        "coordinates": [
+          37.8044557,
+          -122.271356
+        ],
+        "length": 6.4,
+        "difficulty": null,
+        "externalId": 19159656,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19159656",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "hikesTotalLength": 1430.5
+  },
+  "housing": {
+    "avgSellPricePerM2": 9144,
+    "avgRentPricePerM2": 27
+  },
+  "qualityOfLife": {
+    "crimeRate": 4.2,
+    "greenSpaces": 7,
+    "airQuality": 7.2,
+    "costOfLife": 8.5,
+    "liveabilityScore": 7,
+    "healthQuality": 7.5
+  },
+  "images": [
+    {
+      "url": "https://images.pexels.com/photos/30258148/pexels-photo-30258148.jpeg?w=1200&h=400&fit=crop&crop=center",
+      "alt": "View of Oakland, California with San Francisco skyline at sunset, dramatic clouds",
+      "photographer": "Stephen Leonardi",
+      "isBanner": true
+    },
+    {
+      "url": "https://images.pexels.com/photos/4500123/pexels-photo-4500123.jpeg",
+      "alt": "Lively basketball event with a huge crowd and fiery show in Oakland arena, capturing the vibrant sports atmosphere.",
+      "photographer": "Corleone  Brown",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32966554/pexels-photo-32966554.jpeg",
+      "alt": "Aerial view of cargo ship and containers at Port of Oakland under clear skies.",
+      "photographer": "Mazin Omron",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30258145/pexels-photo-30258145.jpeg",
+      "alt": "View of Oakland skyline with lush greenery and bay in the background showcasing urban nature harmony.",
+      "photographer": "Stephen Leonardi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30258146/pexels-photo-30258146.jpeg",
+      "alt": "Stunning view of Oakland skyline and lush foreground at sunset.",
+      "photographer": "Stephen Leonardi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9800294/pexels-photo-9800294.jpeg",
+      "alt": "View of the Oakland Ferry Terminal at dusk with bright neon lights.",
+      "photographer": "Anna Vorobyeva",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12089363/pexels-photo-12089363.jpeg",
+      "alt": "A playful Siberian Husky with blue eyes stands in front of a bright mural in Oakland, CA.",
+      "photographer": "Nikeah Schell",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30258144/pexels-photo-30258144.jpeg",
+      "alt": "Breathtaking view of Oakland's skyline with lush greenery and the bay in the background.",
+      "photographer": "Stephen Leonardi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30258149/pexels-photo-30258149.jpeg",
+      "alt": "Skyline of Oakland, California at sunset with dramatic skies.",
+      "photographer": "Stephen Leonardi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6379181/pexels-photo-6379181.jpeg",
+      "alt": "Low angle view of palm trees in Oakland, CA, with a clear sky.",
+      "photographer": "J",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30258147/pexels-photo-30258147.jpeg",
+      "alt": "Stunning cityscape of Oakland, California at sunset with dramatic cloud coverage and scenic views.",
+      "photographer": "Stephen Leonardi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12041918/pexels-photo-12041918.jpeg",
+      "alt": "Scenic view of the Golden Gate Bridge from a sandy beach in San Francisco, California.",
+      "photographer": "Suraj Mali",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9800286/pexels-photo-9800286.jpeg",
+      "alt": "A serene evening at Oakland harbor featuring boats docked near a coastal restaurant.",
+      "photographer": "Anna Vorobyeva",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32881671/pexels-photo-32881671.jpeg",
+      "alt": "Container cargo ship docked at Port of Oakland with cranes for loading and unloading.",
+      "photographer": "Helen C",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10298972/pexels-photo-10298972.jpeg",
+      "alt": "The Oakland Bay Bridge brilliantly lit over calm waters during twilight in San Francisco.",
+      "photographer": "David Henry",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4940207/pexels-photo-4940207.jpeg",
+      "alt": "Night view of Oakland skyline with illuminated buildings reflecting on the waterfront.",
+      "photographer": "Griffin Wooldridge",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4941343/pexels-photo-4941343.jpeg",
+      "alt": "A cargo ship docked in Oakland harbor at sunset with vibrant skies and industrial cranes.",
+      "photographer": "Griffin Wooldridge",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13048396/pexels-photo-13048396.jpeg",
+      "alt": "A dramatic shot of a Corvette sports car with headlights on against an overcast sky in Oakland, CA.",
+      "photographer": "Justin L U C K",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/30002251/pexels-photo-30002251.jpeg",
+      "alt": "Fashion model poses beside aircraft at Oakland Aviation Museum in bright daylight.",
+      "photographer": "Grace Willingham",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6643253/pexels-photo-6643253.jpeg",
+      "alt": "Aerial view of Oakland cityscape featuring Wells Fargo building and urban skyline.",
+      "photographer": "Griffin Wooldridge",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4940206/pexels-photo-4940206.jpeg",
+      "alt": "Explore the vibrant Oakland skyline at night with illuminated skyscrapers and tranquil waterfront reflections.",
+      "photographer": "Griffin Wooldridge",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12321640/pexels-photo-12321640.jpeg",
+      "alt": "Beautiful view of Our Lady of Lourdes Church and surrounding buildings by the waterfront in Oakland, California.",
+      "photographer": "David McElwee",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28614045/pexels-photo-28614045.jpeg",
+      "alt": "A stunning view of the San Francisco-Oakland Bay Bridge connecting vibrant urban landscapes.",
+      "photographer": "Abigail Sylvester",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13433787/pexels-photo-13433787.jpeg",
+      "alt": "Container ship in Oakland Harbor during sunset with cityscape background.",
+      "photographer": "Siva Seshappan",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/2883413/pexels-photo-2883413.jpeg",
+      "alt": "Iconic view of Ruby's diner on Huntington Beach pier, California, on a sunny day.",
+      "photographer": "Wendy Wei",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/829237/pexels-photo-829237.jpeg",
+      "alt": "Scenic view of the iconic Golden Gate Bridge in San Francisco, California.",
+      "photographer": "Anand Dandekar",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/28301051/pexels-photo-28301051.jpeg",
+      "alt": "Elegant historic building with a tower and reflection in water, Pau, France.",
+      "photographer": "Sergei  Gussev",
+      "isBanner": false
+    }
+  ],
+  "dataQuality": {
+    "completeness": 90,
+    "lastUpdated": "2025-08-22",
+    "sources": {
+      "weather": "NOAA (National Weather Service), 2023 data",
+      "population": "US Census Bureau, 2023 estimate",
+      "education": "California Department of Education, 2023",
+      "culture": "Oakland Cultural Affairs, 2023",
+      "transportation": "Oakland International Airport / BART, 2023",
+      "geography": "Google Maps / AllTrails, 2023",
+      "housing": "Redfin / Realtor.com, 2023",
+      "qualityOfLife": "US government sources, 2023",
+      "images": "Pexels API"
+    }
+  }
+}

@@ -1,0 +1,4554 @@
+{
+  "id": "lyon",
+  "name": "Lyon",
+  "region": "Auvergne-Rhône-Alpes",
+  "coordinates": [
+    45.7578,
+    4.832
+  ],
+  "weather": {
+    "sunnyDays": 203,
+    "rainyDays": 163,
+    "avgTemp": 13.8,
+    "monthlyData": [
+      4.8,
+      6.4,
+      9.5,
+      13.6,
+      17,
+      24.4,
+      22.8,
+      23,
+      16.7,
+      15.1,
+      8.6,
+      3.7
+    ],
+    "monthlySunnyDays": [
+      14,
+      17,
+      17,
+      19,
+      15,
+      18,
+      14,
+      25,
+      9,
+      15,
+      22,
+      18
+    ],
+    "monthlyRainyDays": [
+      17,
+      11,
+      14,
+      11,
+      16,
+      12,
+      17,
+      7,
+      21,
+      16,
+      8,
+      13
+    ],
+    "monthlyPrecipitation": [
+      75.5,
+      56.5,
+      66.7,
+      84.2,
+      60.2,
+      91.5,
+      66,
+      31.7,
+      203.4,
+      109,
+      71.5,
+      72.2
+    ]
+  },
+  "population": {
+    "total": 515000,
+    "studentPercentage": 23,
+    "density": 1500
+  },
+  "education": {
+    "universities": [
+      {
+        "name": "Institut supérieur d’agriculture Rhône-Alpes",
+        "address": "23 RUE JEAN BALDASSINI, 69364, LYON CEDEX 07",
+        "coordinates": [
+          45.727895,
+          4.836377
+        ],
+        "website": "https://www.isara.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.207Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École nationale supérieure des sciences de l'information et des bibliothèques",
+        "address": "17/21 boulevard du 11 novembre 1918, 69623, Villeurbanne CEDEX",
+        "coordinates": [
+          45.7803,
+          4.86229
+        ],
+        "website": "https://www.enssib.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "Grand établissement",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Institut textile et chimique",
+        "address": "87 Chemin des Mouilles, 69134, Écully CEDEX",
+        "coordinates": [
+          45.7860356236494,
+          4.767680168151856
+        ],
+        "website": "http://www.itech.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École nationale des travaux publics de l'État",
+        "address": "3 Rue Maurice Audin, 69256, Vaulx-en-Velin CEDEX",
+        "coordinates": [
+          45.77840382390363,
+          4.92339849472046
+        ],
+        "website": "http://www.entpe.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Institut catholique de Lyon",
+        "address": "10 place des Archives, 69002, Lyon",
+        "coordinates": [
+          45.74658,
+          4.82637
+        ],
+        "website": "http://www.ucly.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École nationale supérieure des arts et techniques du théâtre",
+        "address": "4 rue Sœur Bouvier, 69322, Lyon CEDEX 05",
+        "coordinates": [
+          45.75331,
+          4.81132
+        ],
+        "website": "http://www.ensatt.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Université Claude Bernard - Lyon 1",
+        "address": "43 boulevard du 11 Novembre 1918, 69622, VilleurbanneCEDEX",
+        "coordinates": [
+          45.77962,
+          4.86518
+        ],
+        "website": "https://www.univ-lyon1.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Université Jean Moulin - Lyon 3",
+        "address": "1C avenue des Frères Lumière, 69372, Lyon CEDEX 08",
+        "coordinates": [
+          45.747027,
+          4.860547
+        ],
+        "website": "http://www.univ-lyon3.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Vet Agro Sup",
+        "address": "1 avenue Bourgelat, 69280, Marcy-l'Étoile",
+        "coordinates": [
+          45.793314788437215,
+          4.711171388626099
+        ],
+        "website": "http://www.vetagro-sup.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "Grand établissement",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Université Lumière - Lyon 2",
+        "address": "18 quai Claude Bernard, 69365, Lyon Cedex 07",
+        "coordinates": [
+          45.75061375319093,
+          4.837181568145753
+        ],
+        "website": "http://www.univ-lyon2.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "Université",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Centrale Lyon",
+        "address": "36 avenue Guy de Collongue, 69134, Écully CEDEX",
+        "coordinates": [
+          45.78299,
+          4.76927
+        ],
+        "website": "https://www.ec-lyon.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École normale supérieure de Lyon",
+        "address": "15 parvis René Descartes, 69342, Lyon CEDEX 07",
+        "coordinates": [
+          45.7337,
+          4.83376
+        ],
+        "website": "http://www.ens-lyon.eu/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École catholique des arts et métiers",
+        "address": "40 montée Saint Barthélemy, 69321, Lyon CEDEX 05",
+        "coordinates": [
+          45.76391,
+          4.82518
+        ],
+        "website": "http://www.ecam.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Sciences Po Lyon",
+        "address": "14 avenue Berthelot, 69007, Lyon",
+        "coordinates": [
+          45.7471,
+          4.8354
+        ],
+        "website": "https://www.sciencespo-lyon.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "Autre établissement",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "École supérieure de chimie physique électronique de Lyon",
+        "address": "43 boulevard du 11 Novembre 191, 69616, Villeurbanne CEDEX",
+        "coordinates": [
+          45.78415,
+          4.868928
+        ],
+        "website": "http://www.cpe.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      },
+      {
+        "name": "Institut national des sciences appliquées de Lyon",
+        "address": "20 avenue Albert Einstein, 69621, Villeurbanne Cedex",
+        "coordinates": [
+          45.78262388935692,
+          4.878010153770448
+        ],
+        "website": "http://www.insa-lyon.fr/",
+        "osmId": "fr-esr:UU00760",
+        "osmType": "fr-esr",
+        "lastUpdated": "2025-08-19T18:58:35.209Z",
+        "type": "École",
+        "dataSource": "French Ministry of Higher Education"
+      }
+    ],
+    "highSchools": [
+      {
+        "name": "Lycée Jean Perrin",
+        "address": "69338, Lyon",
+        "coordinates": [
+          45.78839500419585,
+          4.80919956497604
+        ],
+        "website": "https://jean-perrin.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690082P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690082P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Jean%20Perrin&code_postal=69338",
+        "osmId": "fr-education:0690082P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Don Bosco",
+        "address": "69322, Lyon",
+        "coordinates": [
+          45.75185810104543,
+          4.81932603112702
+        ],
+        "website": "https://www.donboscolyon.org/",
+        "externalId": "0691659D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0691659D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Don%20Bosco&code_postal=69322",
+        "osmId": "fr-education:0691659D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Aux Lazaristes - La Salle site Fourvière",
+        "address": "69321, Lyon",
+        "coordinates": [
+          45.763870647892865,
+          4.8262102455194364
+        ],
+        "website": "https://www.auxlazaristes.fr/",
+        "externalId": "0690522T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690522T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Aux%20Lazaristes%20-%20La%20Salle%20site%20Fourvi%C3%A8re&code_postal=69321",
+        "osmId": "fr-education:0690522T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Cité scolaire internationale",
+        "address": "69361, Lyon",
+        "coordinates": [
+          45.728303630485776,
+          4.8219205795868145
+        ],
+        "website": "https://www.csilyon.fr/",
+        "externalId": "0693446W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693446W&type_etablissement=Lycée&selection=Cit%C3%A9%20scolaire%20internationale&code_postal=69361",
+        "osmId": "fr-education:0693446W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Hector Guimard",
+        "address": "69361, Lyon",
+        "coordinates": [
+          45.74567026207373,
+          4.857929994808794
+        ],
+        "website": "https://hector-guimard.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690040U",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690040U&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Hector%20Guimard&code_postal=69361",
+        "osmId": "fr-education:0690040U",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Japy",
+        "address": "69203, Lyon",
+        "coordinates": [
+          45.768049352404795,
+          4.837567405242127
+        ],
+        "website": "https://lyceejapy.fr/",
+        "externalId": "0690660T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690660T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Japy&code_postal=69203",
+        "osmId": "fr-education:0690660T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Louise Labé",
+        "address": "69007, Lyon",
+        "coordinates": [
+          45.73968822711314,
+          4.831353109291626
+        ],
+        "website": "https://louise-labe.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690046A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690046A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Louise%20Lab%C3%A9&code_postal=69007",
+        "osmId": "fr-education:0690046A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Sainte-Marie",
+        "address": "69321, Lyon",
+        "coordinates": [
+          45.7655827022523,
+          4.826669652146657
+        ],
+        "website": "https://www.sainte-marie-lyon.fr/",
+        "externalId": "0690521S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690521S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Sainte-Marie&code_postal=69321",
+        "osmId": "fr-education:0690521S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Jehanne de France",
+        "address": "69009, Lyon",
+        "coordinates": [
+          45.76931901780905,
+          4.803600472461577
+        ],
+        "website": "https://jehannedefrance.fr/",
+        "externalId": "0693786R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693786R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20Jehanne%20de%20France&code_postal=69009",
+        "osmId": "fr-education:0693786R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Déborde",
+        "address": "69006, Lyon",
+        "coordinates": [
+          45.76665507509521,
+          4.855666498063891
+        ],
+        "website": "https://www.deborde.org/le-lycee/",
+        "externalId": "0690529A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690529A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20D%C3%A9borde&code_postal=69006",
+        "osmId": "fr-education:0690529A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Charles de Foucauld",
+        "address": "69003, Lyon",
+        "coordinates": [
+          45.751009093666475,
+          4.87208115852993
+        ],
+        "website": "https://www.ecole-foucauld.fr/lycee",
+        "externalId": "0690514J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690514J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Charles%20de%20Foucauld&code_postal=69003",
+        "osmId": "fr-education:0690514J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel privé Carrel",
+        "address": "69006, Lyon",
+        "coordinates": [
+          45.7662191157445,
+          4.849633864919565
+        ],
+        "website": "https://www.carrel.fr/",
+        "externalId": "0693373S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693373S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Carrel&code_postal=69006",
+        "osmId": "fr-education:0693373S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Mache",
+        "address": "69373, Lyon",
+        "coordinates": [
+          45.73714846837038,
+          4.8706174539617075
+        ],
+        "website": "https://www.ecolelamache.org/",
+        "externalId": "0690634P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690634P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Mache&code_postal=69373",
+        "osmId": "fr-education:0690634P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée ORT",
+        "address": "69373, Lyon",
+        "coordinates": [
+          45.73812520088304,
+          4.867663604414777
+        ],
+        "website": "https://ort-france.fr/lyon",
+        "externalId": "0690642Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690642Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20ORT&code_postal=69373",
+        "osmId": "fr-education:0690642Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Just",
+        "address": "69005, Lyon",
+        "coordinates": [
+          45.75679648333282,
+          4.821242466640803
+        ],
+        "website": "https://saint-just.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690028F",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690028F&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Just&code_postal=69005",
+        "osmId": "fr-education:0690028F",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée du Parc",
+        "address": "69458, Lyon",
+        "coordinates": [
+          45.77170286114671,
+          4.856922375378193
+        ],
+        "website": "http://lyceeduparc.fr/ldp/",
+        "externalId": "0690026D",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690026D&type_etablissement=Lycée&selection=Lyc%C3%A9e%20du%20Parc&code_postal=69458",
+        "osmId": "fr-education:0690026D",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Aux Lazaristes - La Salle",
+        "address": "69283, Lyon",
+        "coordinates": [
+          45.77167247354931,
+          4.830230362921922
+        ],
+        "website": "https://www.auxlazaristeslasalle.fr/",
+        "externalId": "0693370N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693370N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Aux%20Lazaristes%20-%20La%20Salle&code_postal=69283",
+        "osmId": "fr-education:0693370N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Pierre Termier",
+        "address": "69008, Lyon",
+        "coordinates": [
+          45.741488013353944,
+          4.873018125158992
+        ],
+        "website": "https://www.etablissement-pierretermier.com/",
+        "externalId": "0690538K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690538K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Pierre%20Termier&code_postal=69008",
+        "osmId": "fr-education:0690538K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Marc",
+        "address": "69287, Lyon",
+        "coordinates": [
+          45.755067624199484,
+          4.828890405287208
+        ],
+        "website": "https://www.centresaintmarc.org/lycee-general-saint-marc",
+        "externalId": "0690571W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690571W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Marc&code_postal=69287",
+        "osmId": "fr-education:0690571W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée ICOF",
+        "address": "69005, Lyon",
+        "coordinates": [
+          45.750734981091185,
+          4.8138968302767
+        ],
+        "website": "https://www.icof.fr/",
+        "externalId": "0690631L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690631L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20ICOF&code_postal=69005",
+        "osmId": "fr-education:0690631L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel de coiffure de Lyon",
+        "address": "69004, Lyon",
+        "coordinates": [
+          45.776380152265126,
+          4.827034399124274
+        ],
+        "website": "https://www.ecole-coiffure-lyon.com/",
+        "externalId": "0691723Y",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0691723Y&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20de%20coiffure%20de%20Lyon&code_postal=69004",
+        "osmId": "fr-education:0691723Y",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Favorite",
+        "address": "69322, Lyon",
+        "coordinates": [
+          45.75645342314354,
+          4.805943242685458
+        ],
+        "website": "https://www.la-favorite.org/",
+        "externalId": "0690520R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690520R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Favorite&code_postal=69322",
+        "osmId": "fr-education:0690520R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel de la SEPR",
+        "address": "69003, Lyon",
+        "coordinates": [
+          45.74568824105196,
+          4.877238742993633
+        ],
+        "website": "https://www.sepr.edu/",
+        "externalId": "0690698J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690698J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20de%20la%20SEPR&code_postal=69003",
+        "osmId": "fr-education:0690698J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "École supérieure d'arts appliqués - La Martinière Diderot",
+        "address": "69283, Lyon",
+        "coordinates": [
+          45.76801344608466,
+          4.830024213685476
+        ],
+        "website": "https://www.lamartinierediderot.fr/",
+        "externalId": "0690037R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690037R&type_etablissement=Lycée&selection=%C3%89cole%20sup%C3%A9rieure%20d'arts%20appliqu%C3%A9s%20-%20La%20Martini%C3%A8re%20Diderot&code_postal=69283",
+        "osmId": "fr-education:0690037R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Lacassagne",
+        "address": "69425, Lyon",
+        "coordinates": [
+          45.75776003048027,
+          4.870405383851498
+        ],
+        "website": "https://lacassagne.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690029G",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690029G&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Lacassagne&code_postal=69425",
+        "osmId": "fr-education:0690029G",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Diderot",
+        "address": "69201, Lyon",
+        "coordinates": [
+          45.769355885388244,
+          4.822379789545434
+        ],
+        "website": "https://martiniere-diderot.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690048C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690048C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Diderot&code_postal=69201",
+        "osmId": "fr-education:0690048C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel du Premier Film",
+        "address": "69008, Lyon",
+        "coordinates": [
+          45.74522597914068,
+          4.868953326384554
+        ],
+        "website": "https://premier-film.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690092A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690092A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20du%20Premier%20Film&code_postal=69008",
+        "osmId": "fr-education:0690092A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Martinière Duchère",
+        "address": "69009, Lyon",
+        "coordinates": [
+          45.78556787449277,
+          4.796272598092089
+        ],
+        "website": "https://www.martiniere-duchere.fr/",
+        "externalId": "0690038S",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690038S&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Martini%C3%A8re%20Duch%C3%A8re&code_postal=69009",
+        "osmId": "fr-education:0690038S",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Martinière Monplaisir",
+        "address": "69372, Lyon",
+        "coordinates": [
+          45.740136268992636,
+          4.867789437654132
+        ],
+        "website": "https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/",
+        "externalId": "0692866R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0692866R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Martini%C3%A8re%20Monplaisir&code_postal=69372",
+        "osmId": "fr-education:0692866R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Saint-Joseph",
+        "address": "69363, Lyon",
+        "coordinates": [
+          45.747795618342046,
+          4.852204163103425
+        ],
+        "website": "https://assomption-stjosephiraf.org/lycee-professionnel/",
+        "externalId": "0690651H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690651H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Saint-Joseph&code_postal=69363",
+        "osmId": "fr-education:0690651H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Saint-Louis - Saint-Bruno",
+        "address": "69283, Lyon",
+        "coordinates": [
+          45.77195696195349,
+          4.823230134737719
+        ],
+        "website": "https://www.slsb.fr",
+        "externalId": "0690563M",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690563M&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Saint-Louis%20-%20Saint-Bruno&code_postal=69283",
+        "osmId": "fr-education:0690563M",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Notre-Dame des Minimes",
+        "address": "69005, Lyon",
+        "coordinates": [
+          45.75951658683211,
+          4.789340438644235
+        ],
+        "website": "https://www.lesminimes-lyon.org/lycee/presentation/",
+        "externalId": "0690519P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690519P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Notre-Dame%20des%20Minimes&code_postal=69005",
+        "osmId": "fr-education:0690519P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Assomption Bellevue - Pôle enseignement supérieur",
+        "address": "69007, Lyon",
+        "coordinates": [
+          45.73332460096296,
+          4.812793124530461
+        ],
+        "website": "https://sup-bellevue.org/",
+        "externalId": "0690539L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690539L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Assomption%20Bellevue%20-%20P%C3%B4le%20enseignement%20sup%C3%A9rieur&code_postal=69007",
+        "osmId": "fr-education:0690539L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Édouard Herriot",
+        "address": "69455, Lyon",
+        "coordinates": [
+          45.765689703775216,
+          4.845110421330026
+        ],
+        "website": "https://lycee-eherriot.etab.ac-lyon.fr/spip/",
+        "externalId": "0690027E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690027E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20%C3%89douard%20Herriot&code_postal=69455",
+        "osmId": "fr-education:0690027E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée polyvalent Édouard Branly",
+        "address": "69245, Lyon",
+        "coordinates": [
+          45.7530860380228,
+          4.791799503028347
+        ],
+        "website": "http://www.lyceebranly.com/",
+        "externalId": "0690128P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690128P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20polyvalent%20%C3%89douard%20Branly&code_postal=69245",
+        "osmId": "fr-education:0690128P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel de coiffure",
+        "address": "69001, Lyon",
+        "coordinates": [
+          45.76756083287132,
+          4.832548510725719
+        ],
+        "website": "http://www.lyceedecoiffure.com/",
+        "externalId": "0691724Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0691724Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20de%20coiffure&code_postal=69001",
+        "osmId": "fr-education:0691724Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée les Chartreux",
+        "address": "69001, Lyon",
+        "coordinates": [
+          45.77180923068792,
+          4.822450416572124
+        ],
+        "website": "https://www.leschartreux.com/",
+        "externalId": "0690564N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690564N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20les%20Chartreux&code_postal=69001",
+        "osmId": "fr-education:0690564N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Juliette Récamier",
+        "address": "69287, Lyon",
+        "coordinates": [
+          45.75219537955357,
+          4.831210420797867
+        ],
+        "website": "https://juliette-recamier.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690032K",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690032K&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Juliette%20R%C3%A9camier&code_postal=69287",
+        "osmId": "fr-education:0690032K",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Ampère",
+        "address": "69002, Lyon",
+        "coordinates": [
+          45.76528336519406,
+          4.83700438868978
+        ],
+        "website": "https://ampere.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690023A",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690023A&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Amp%C3%A8re&code_postal=69002",
+        "osmId": "fr-education:0690023A",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Auguste et Louis Lumière",
+        "address": "69372, Lyon",
+        "coordinates": [
+          45.736111824015936,
+          4.862068356620208
+        ],
+        "website": "https://lumiere.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690035N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690035N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Auguste%20et%20Louis%20Lumi%C3%A8re&code_postal=69372",
+        "osmId": "fr-education:0690035N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Camille Claudel",
+        "address": "69004, Lyon",
+        "coordinates": [
+          45.776817813754725,
+          4.830152393344742
+        ],
+        "website": "https://camille-claudel.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690125L",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690125L&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Camille%20Claudel&code_postal=69004",
+        "osmId": "fr-education:0690125L",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel La Mache",
+        "address": "69373, Lyon",
+        "coordinates": [
+          45.73714846837038,
+          4.8706174539617075
+        ],
+        "website": "http://www.ecolelamache.org",
+        "externalId": "0693374T",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693374T&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20La%20Mache&code_postal=69373",
+        "osmId": "fr-education:0693374T",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Martinière Diderot - site Terreaux",
+        "address": "69283, Lyon",
+        "coordinates": [
+          45.76801344608466,
+          4.830024213685476
+        ],
+        "website": "http://www.lamartinierediderot.fr/",
+        "externalId": "0690037R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690037R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Martini%C3%A8re%20Diderot%20-%20site%20Terreaux&code_postal=69283",
+        "osmId": "fr-education:0690037R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Martinière Diderot - site Diderot",
+        "address": "69283, Lyon",
+        "coordinates": [
+          45.76801344608466,
+          4.830024213685476
+        ],
+        "website": "https://www.lamartinierediderot.fr/",
+        "externalId": "0690037R",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690037R&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Martini%C3%A8re%20Diderot%20-%20site%20Diderot&code_postal=69283",
+        "osmId": "fr-education:0690037R",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel ORT",
+        "address": "69373, Lyon",
+        "coordinates": [
+          45.73812520088304,
+          4.867663604414777
+        ],
+        "website": "https://ort-france.fr/lyon",
+        "externalId": "0693406C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693406C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20ORT&code_postal=69373",
+        "osmId": "fr-education:0693406C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Jean Lurçat",
+        "address": "69008, Lyon",
+        "coordinates": [
+          45.73232685425446,
+          4.8629994310375295
+        ],
+        "website": "https://jean-lurcat.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690045Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690045Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Jean%20Lur%C3%A7at&code_postal=69008",
+        "osmId": "fr-education:0690045Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Docteur Charles Mérieux",
+        "address": "69007, Lyon",
+        "coordinates": [
+          45.73259846554497,
+          4.822634469258513
+        ],
+        "website": "https://docteur-charles-merieux.ent.auvergnerhonealpes.fr",
+        "externalId": "0694405N",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0694405N&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Docteur%20Charles%20M%C3%A9rieux&code_postal=69007",
+        "osmId": "fr-education:0694405N",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée de la Trinité",
+        "address": "69006, Lyon",
+        "coordinates": [
+          45.768222924397485,
+          4.846630066427805
+        ],
+        "website": "https://fenelon-trinite.fr/",
+        "externalId": "0690533E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690533E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20de%20la%20Trinit%C3%A9&code_postal=69006",
+        "osmId": "fr-education:0690533E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Chevreul Lestonnac",
+        "address": "69007, Lyon",
+        "coordinates": [
+          45.74918266454114,
+          4.858122687483847
+        ],
+        "website": "https://www.chevreullestonnac.fr/",
+        "externalId": "0690574Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690574Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Chevreul%20Lestonnac&code_postal=69007",
+        "osmId": "fr-education:0690574Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Saint-Marc",
+        "address": "69287, Lyon",
+        "coordinates": [
+          45.75532333388444,
+          4.828229766470232
+        ],
+        "website": "https://www.lyceeprosaintmarc.org/",
+        "externalId": "0690641X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690641X&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Saint-Marc&code_postal=69287",
+        "osmId": "fr-education:0690641X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée La Xavière",
+        "address": "69008, Lyon",
+        "coordinates": [
+          45.72785704418424,
+          4.853677610624295
+        ],
+        "website": "https://www.cslaxaviere.fr/",
+        "externalId": "0693587Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693587Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20La%20Xavi%C3%A8re&code_postal=69008",
+        "osmId": "fr-education:0693587Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée technologique privé Carrel",
+        "address": "69006, Lyon",
+        "coordinates": [
+          45.7662191157445,
+          4.849633864919565
+        ],
+        "website": "https://www.carrel.fr/",
+        "externalId": "0690646C",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690646C&type_etablissement=Lycée&selection=Lyc%C3%A9e%20technologique%20priv%C3%A9%20Carrel&code_postal=69006",
+        "osmId": "fr-education:0690646C",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Aux Lazaristes - La Salle site Croix-Rousse",
+        "address": "69283, Lyon",
+        "coordinates": [
+          45.77167247354931,
+          4.830230362921922
+        ],
+        "website": "https://www.auxlazaristeslasalle.fr/",
+        "externalId": "0690671E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690671E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Aux%20Lazaristes%20-%20La%20Salle%20site%20Croix-Rousse&code_postal=69283",
+        "osmId": "fr-education:0690671E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Antoine de Saint-Exupéry",
+        "address": "69316, Lyon",
+        "coordinates": [
+          45.779661838929876,
+          4.821889474400757
+        ],
+        "website": "https://saint-exupery-lyon.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690031J",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690031J&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Antoine%20de%20Saint-Exup%C3%A9ry&code_postal=69316",
+        "osmId": "fr-education:0690031J",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.906Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Don Bosco",
+        "address": "69322, Lyon",
+        "coordinates": [
+          45.75185810104543,
+          4.81932603112702
+        ],
+        "website": "https://www.donboscolyon.org",
+        "externalId": "0693371P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693371P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Don%20Bosco&code_postal=69322",
+        "osmId": "fr-education:0693371P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.907Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Belmont",
+        "address": "69007, Lyon",
+        "coordinates": [
+          45.75268421036184,
+          4.839749546097465
+        ],
+        "website": "https://www.lyceebelmont.org/",
+        "externalId": "0690536H",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690536H&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Belmont&code_postal=69007",
+        "osmId": "fr-education:0690536H",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.907Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel Jacques de Flesselles",
+        "address": "69001, Lyon",
+        "coordinates": [
+          45.77110128730322,
+          4.826625580277794
+        ],
+        "website": "https://jacques-de-flesselles.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690043X",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690043X&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20Jacques%20de%20Flesselles&code_postal=69001",
+        "osmId": "fr-education:0690043X",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.907Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Colbert",
+        "address": "69372, Lyon",
+        "coordinates": [
+          45.74497037456857,
+          4.860280068704423
+        ],
+        "website": "https://colbert.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690042W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690042W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Colbert&code_postal=69372",
+        "osmId": "fr-education:0690042W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.907Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée professionnel privé Saint-Louis -Saint-Bruno",
+        "address": "69201, Lyon",
+        "coordinates": [
+          45.77207122493459,
+          4.823182420663779
+        ],
+        "website": "https://www.slsb.fr/lp/",
+        "externalId": "0690712Z",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690712Z&type_etablissement=Lycée&selection=Lyc%C3%A9e%20professionnel%20priv%C3%A9%20Saint-Louis%20-Saint-Bruno&code_postal=69201",
+        "osmId": "fr-education:0690712Z",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T18:58:36.907Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ],
+    "internationalHighSchools": [
+      {
+        "name": "Lycée Jean Perrin",
+        "address": "69338, Lyon",
+        "coordinates": [
+          45.78839500419585,
+          4.80919956497604
+        ],
+        "website": "https://jean-perrin.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690082P",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690082P&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Jean%20Perrin&code_postal=69338",
+        "osmId": "fr-education:0690082P",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:30.602Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Cité scolaire internationale",
+        "address": "69361, Lyon",
+        "coordinates": [
+          45.728303630485776,
+          4.8219205795868145
+        ],
+        "website": "https://www.csilyon.fr/",
+        "externalId": "0693446W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0693446W&type_etablissement=Lycée&selection=Cit%C3%A9%20scolaire%20internationale&code_postal=69361",
+        "osmId": "fr-education:0693446W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:30.602Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée de la Trinité",
+        "address": "69006, Lyon",
+        "coordinates": [
+          45.768222924397485,
+          4.846630066427805
+        ],
+        "website": "https://fenelon-trinite.fr/",
+        "externalId": "0690533E",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690533E&type_etablissement=Lycée&selection=Lyc%C3%A9e%20de%20la%20Trinit%C3%A9&code_postal=69006",
+        "osmId": "fr-education:0690533E",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:30.602Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      },
+      {
+        "name": "Lycée Colbert",
+        "address": "69372, Lyon",
+        "coordinates": [
+          45.74497037456857,
+          4.860280068704423
+        ],
+        "website": "https://colbert.ent.auvergnerhonealpes.fr/",
+        "externalId": "0690042W",
+        "externalType": "fr-education",
+        "externalUrl": "https://data.education.gouv.fr/pages/fiche-etablissement/?code_etab=0690042W&type_etablissement=Lycée&selection=Lyc%C3%A9e%20Colbert&code_postal=69372",
+        "osmId": "fr-education:0690042W",
+        "osmType": "fr-education",
+        "lastUpdated": "2025-08-19T19:15:30.602Z",
+        "type": "Lycée",
+        "dataSource": "French Ministry of Education"
+      }
+    ]
+  },
+  "culture": {
+    "museums": [
+      {
+        "name": "MICRO-FOLIE CENTRES SOCIAUX HALIMI-MERMOZ LYON",
+        "address": "147 av. Général Frère, 69008 Lyon 8e Arrondissement",
+        "coordinates": [
+          45.7295340522919,
+          4.87952366078146
+        ],
+        "website": null,
+        "externalId": "2999105230",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MICRO-FOLIE%20CENTRES%20SOCIAUX%20HALIMI-MERMOZ%20LYON",
+        "osmId": "fr-culture:2999105230",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Microfolie"
+      },
+      {
+        "name": "musée des beaux-arts",
+        "address": "20 pl. des Terreaux, 69001 Lyon 1er Arrondissement",
+        "coordinates": [
+          45.7668262505574,
+          4.83360690379668
+        ],
+        "website": null,
+        "externalId": "M1031",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20beaux-arts",
+        "osmId": "fr-culture:M1031",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "centre d'histoire de la résistance",
+        "address": "14 av. Berthelot, 69007 Lyon 7e Arrondissement",
+        "coordinates": [
+          45.7467146523144,
+          4.83558227615561
+        ],
+        "website": null,
+        "externalId": "M1034",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=centre%20d'histoire%20de%20la%20r%C3%A9sistance",
+        "osmId": "fr-culture:M1034",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des hospices civils de Lyon",
+        "address": "3 q. des Célestins, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.7588078865417,
+          4.83657191660753
+        ],
+        "website": null,
+        "externalId": "M1039",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20hospices%20civils%20de%20Lyon",
+        "osmId": "fr-culture:M1039",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "Lugdunum, musée et théâtres romains",
+        "address": "17 r. Cléberg, 69005 Lyon 5e Arrondissement",
+        "coordinates": [
+          45.7594349936959,
+          4.81979411434383
+        ],
+        "website": null,
+        "externalId": "M1036",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Lugdunum%2C%20mus%C3%A9e%20et%20th%C3%A9%C3%A2tres%20romains",
+        "osmId": "fr-culture:M1036",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée Guimet",
+        "address": "86 q. Perrache, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.73319,
+          4.818042
+        ],
+        "website": null,
+        "externalId": "M7042",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Guimet",
+        "osmId": "fr-culture:M7042",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée historique des tissus",
+        "address": "34 r. de la Charité, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.753117122729,
+          4.831633401235
+        ],
+        "website": null,
+        "externalId": "M1038",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20historique%20des%20tissus",
+        "osmId": "fr-culture:M1038",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "Muséum - Musée des Confluences",
+        "address": "10 r. Boileau, 69006 Lyon 6e Arrondissement",
+        "coordinates": [
+          45.7740405307427,
+          4.84772619129842
+        ],
+        "website": null,
+        "externalId": "6938603",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Mus%C3%A9um%20-%20Mus%C3%A9e%20des%20Confluences",
+        "osmId": "fr-culture:6938603",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée Gadagne",
+        "address": "1 pl. du Petit Collège, 69005 Lyon 5e Arrondissement",
+        "coordinates": [
+          45.7638587641848,
+          4.82779226441475
+        ],
+        "website": null,
+        "externalId": "M1032",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20Gadagne",
+        "osmId": "fr-culture:M1032",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "Musée des Sapeurs-Pompiers de Lyon",
+        "address": "17 r. Rabelais, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7628064431166,
+          4.84451920010692
+        ],
+        "website": null,
+        "externalId": "6938101",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Mus%C3%A9e%20des%20Sapeurs-Pompiers%20de%20Lyon",
+        "osmId": "fr-culture:6938101",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "muséum d'histoire naturelle",
+        "address": "86 q. Perrache, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.73319,
+          4.818042
+        ],
+        "website": null,
+        "externalId": "M7042",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9um%20d'histoire%20naturelle",
+        "osmId": "fr-culture:M7042",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "MICRO-FOLIE ECULLY",
+        "address": "1 av. Édouard Aynard, 69130 Écully",
+        "coordinates": [
+          45.782363690082,
+          4.78041101223396
+        ],
+        "website": null,
+        "externalId": "2999194327",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MICRO-FOLIE%20ECULLY",
+        "osmId": "fr-culture:2999194327",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Microfolie"
+      },
+      {
+        "name": "musée d'art contemporain",
+        "address": "q. Charles de Gaulle, 69006 Lyon 6e Arrondissement",
+        "coordinates": [
+          45.784064,
+          4.852585
+        ],
+        "website": null,
+        "externalId": "M1033",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20d'art%20contemporain",
+        "osmId": "fr-culture:M1033",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée de l'imprimerie et de la communication graphique",
+        "address": "13 r. de la Poulaillerie, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.7642192945722,
+          4.83475161234646
+        ],
+        "website": null,
+        "externalId": "M1127",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20de%20l'imprimerie%20et%20de%20la%20communication%20graphique",
+        "osmId": "fr-culture:M1127",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des sapeurs-pompiers de Lyon",
+        "address": "358 av. de Champagne, 69009 Lyon 9e Arrondissement",
+        "coordinates": [
+          45.790491,
+          4.797411
+        ],
+        "website": null,
+        "externalId": "M1128",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20sapeurs-pompiers%20de%20Lyon",
+        "osmId": "fr-culture:M1128",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des arts décoratifs",
+        "address": "34 r. de la Charité, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.75342,
+          4.83153
+        ],
+        "website": null,
+        "externalId": "M1037",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20arts%20d%C3%A9coratifs",
+        "osmId": "fr-culture:M1037",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "Musée des Confluences",
+        "address": "10 r. Boileau, 69006 Lyon 6e Arrondissement",
+        "coordinates": [
+          45.7740405307427,
+          4.84772619129842
+        ],
+        "website": null,
+        "externalId": "6938501",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Mus%C3%A9e%20des%20Confluences",
+        "osmId": "fr-culture:6938501",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      },
+      {
+        "name": "musée des Confluences",
+        "address": "86 q. Perrache, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.73319,
+          4.818042
+        ],
+        "website": null,
+        "externalId": "M7042",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=mus%C3%A9e%20des%20Confluences",
+        "osmId": "fr-culture:M7042",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:44.529Z",
+        "type": "Musée",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Musée de France"
+      }
+    ],
+    "cinemas": [
+      {
+        "name": "UGC CINE CITE CONFLUENCE",
+        "address": "1 r. Montrochet, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.7407412406759,
+          4.81830421737455
+        ],
+        "website": null,
+        "externalId": "721000",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=UGC%20CINE%20CITE%20CONFLUENCE",
+        "osmId": "fr-culture:721000",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "14",
+        "seats": "3457",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "COMOEDIA",
+        "address": "13 av. Berthelot, 69007 Lyon 7e Arrondissement",
+        "coordinates": [
+          45.7800532594529,
+          4.83555726974272
+        ],
+        "website": null,
+        "externalId": "237933",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=COMOEDIA",
+        "osmId": "fr-culture:237933",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "9",
+        "seats": "1281",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "UGC CINE CITE PART-DIEU",
+        "address": "Centre Commercial la Part-Dieu 133 r. Servient, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7620698646868,
+          4.85462106282754
+        ],
+        "website": null,
+        "externalId": "725040",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=UGC%20CINE%20CITE%20PART-DIEU",
+        "osmId": "fr-culture:725040",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "18",
+        "seats": "3105",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "ZOLA",
+        "address": "117 crs. Emile Zola, 69100 Villeurbanne",
+        "coordinates": [
+          45.7706719154466,
+          4.87436840577722
+        ],
+        "website": null,
+        "externalId": "460784",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=ZOLA",
+        "osmId": "fr-culture:460784",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "240",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "LE CINEMA",
+        "address": "18 r. Saint Polycarpe, 69001 Lyon 1er Arrondissement",
+        "coordinates": [
+          45.7686030218126,
+          4.83396836358914
+        ],
+        "website": null,
+        "externalId": "237945",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=LE%20CINEMA",
+        "osmId": "fr-culture:237945",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "1",
+        "seats": "46",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "Lumière Terreaux",
+        "address": "40 r. du President Edouard Herriot, 69001 Lyon 1er Arrondissement",
+        "coordinates": [
+          45.765346937637,
+          4.83421213679707
+        ],
+        "website": null,
+        "externalId": "238351",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Lumi%C3%A8re%20Terreaux",
+        "osmId": "fr-culture:238351",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "4",
+        "seats": "326",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "SAINT DENIS",
+        "address": "77 Grande Rue Croix Rousse, 69004 Lyon 4e Arrondissement",
+        "coordinates": [
+          45.7800532594529,
+          4.83193869098284
+        ],
+        "website": null,
+        "externalId": "238494",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=SAINT%20DENIS",
+        "osmId": "fr-culture:238494",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "1",
+        "seats": "237",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "Lumière Fourmi",
+        "address": "68 r. Pierre Corneille, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7632830863264,
+          4.84383193665005
+        ],
+        "website": null,
+        "externalId": "238163",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Lumi%C3%A8re%20Fourmi",
+        "osmId": "fr-culture:238163",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "3",
+        "seats": "136",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "UGC CINE CITE",
+        "address": "80 q. Charles de Gaulle, 69006 Lyon 6e Arrondissement",
+        "coordinates": [
+          45.7632830863264,
+          4.85209867215098
+        ],
+        "website": null,
+        "externalId": "238461",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=UGC%20CINE%20CITE",
+        "osmId": "fr-culture:238461",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "14",
+        "seats": "2830",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "PATHE VAISE",
+        "address": "43 r. des Docks, 69009 Lyon 9e Arrondissement",
+        "coordinates": [
+          45.7658190408188,
+          4.81182957451305
+        ],
+        "website": null,
+        "externalId": "238886",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=PATHE%20VAISE",
+        "osmId": "fr-culture:238886",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "14",
+        "seats": "2528",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "ECULLY CINEMA",
+        "address": "21 av. Edouard Aynard, 69130 Écully",
+        "coordinates": [
+          45.7790525717537,
+          4.77838266436641
+        ],
+        "website": null,
+        "externalId": "145792",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=ECULLY%20CINEMA",
+        "osmId": "fr-culture:145792",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "171",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CINEMA OPERA",
+        "address": "6 r. Joseph Serlin, 69001 Lyon 1er Arrondissement",
+        "coordinates": [
+          45.7673201795571,
+          4.83504892204976
+        ],
+        "website": null,
+        "externalId": "238421",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CINEMA%20OPERA",
+        "osmId": "fr-culture:238421",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "97",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "PATHE",
+        "address": "79 r. de la Republique, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.7587313251007,
+          4.83498618517748
+        ],
+        "website": null,
+        "externalId": "237903",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=PATHE",
+        "osmId": "fr-culture:237903",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "10",
+        "seats": "2104",
+        "multiplex": true,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "Lumière Bellecour",
+        "address": "12 r. de la Barre, 69002 Lyon 2e Arrondissement",
+        "coordinates": [
+          45.7574554841229,
+          4.83559508271896
+        ],
+        "website": null,
+        "externalId": "238021",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Lumi%C3%A8re%20Bellecour",
+        "osmId": "fr-culture:238021",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "3",
+        "seats": "214",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "Ugc Part Dieu",
+        "address": "Centre Commerc Part Dieu Niveau, 69000 Lyon",
+        "coordinates": [
+          45.759486,
+          4.846313
+        ],
+        "website": null,
+        "externalId": "CINEMA238164",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Ugc%20Part%20Dieu",
+        "osmId": "fr-culture:CINEMA238164",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "14",
+        "seats": "2387",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CINEMA BELLECOMBE",
+        "address": "61 r. d'Inkermann, 69006 Lyon 6e Arrondissement",
+        "coordinates": [
+          45.7658190408188,
+          4.8659110441077
+        ],
+        "website": null,
+        "externalId": "238244",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CINEMA%20BELLECOMBE",
+        "osmId": "fr-culture:238244",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "1",
+        "seats": "290",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CINEDUCHERE",
+        "address": "r. Andrei Sakharov, 69009 Lyon 9e Arrondissement",
+        "coordinates": [
+          45.7884084372964,
+          4.80061542798783
+        ],
+        "website": null,
+        "externalId": "238013",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CINEDUCHERE",
+        "osmId": "fr-culture:238013",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "1",
+        "seats": "91",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "CINE MOURGUET",
+        "address": "15 r. Deshay, 69110 Sainte-Foy-lès-Lyon",
+        "coordinates": [
+          45.7359399943403,
+          4.79996997379772
+        ],
+        "website": null,
+        "externalId": "385823",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=CINE%20MOURGUET",
+        "osmId": "fr-culture:385823",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Art et essai",
+        "screens": "2",
+        "seats": "280",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      },
+      {
+        "name": "ASTORIA",
+        "address": "31-33 crs. Vitton, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7537450884849,
+          4.88943848073342
+        ],
+        "website": null,
+        "externalId": "238032",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=ASTORIA",
+        "osmId": "fr-culture:238032",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:45.749Z",
+        "type": "Cinéma",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "screens": "5",
+        "seats": "898",
+        "multiplex": false,
+        "cinemaType": "Fixe"
+      }
+    ],
+    "theaters": [
+      {
+        "name": "Centre culturel",
+        "address": "21 av. Édouard Aynard, 69130 Écully",
+        "coordinates": [
+          45.7790525717537,
+          4.77838266436641
+        ],
+        "website": null,
+        "externalId": "ORG003108",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Centre%20culturel",
+        "osmId": "fr-culture:ORG003108",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "144",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Ciel - scène européenne pour l'enfance et la jeunesse",
+        "address": "22 r. Commandant Pégout, 69008 Lyon 8e Arrondissement",
+        "coordinates": [
+          45.730185,
+          4.867959
+        ],
+        "website": null,
+        "externalId": "ORG004028",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Ciel%20-%20sc%C3%A8ne%20europ%C3%A9enne%20pour%20l'enfance%20et%20la%20jeunesse",
+        "osmId": "fr-culture:ORG004028",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": null,
+        "theaterOrganism": "Ciel - scène européenne pour l'enfance et la jeunesse"
+      },
+      {
+        "name": "Théâtre des Asphodèles",
+        "address": "17 r. Sainte-Eusèbe, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.755654,
+          4.872763
+        ],
+        "website": null,
+        "externalId": "ORG001161",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20des%20Asphod%C3%A8les",
+        "osmId": "fr-culture:ORG001161",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "70",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Compagnie M.A. / Théâtre Le Guignol de Lyon",
+        "address": "2 r. Louis Carrand, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7541223063027,
+          4.88746518414215
+        ],
+        "website": null,
+        "externalId": "ORG003987",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Compagnie%20M.A.%20%2F%20Th%C3%A9%C3%A2tre%20Le%20Guignol%20de%20Lyon",
+        "osmId": "fr-culture:ORG003987",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "120",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre du Point du Jour",
+        "address": "7 r. des Aqueducs, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7571004663303,
+          4.79618498309705
+        ],
+        "website": null,
+        "externalId": "ORG004032",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20du%20Point%20du%20Jour",
+        "osmId": "fr-culture:ORG004032",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "300",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre des Marronniers",
+        "address": "7 r. des Marronniers, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7571202756502,
+          4.83477327787725
+        ],
+        "website": null,
+        "externalId": "ORG002969",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20des%20Marronniers",
+        "osmId": "fr-culture:ORG002969",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre hors label",
+        "theaterSeats": "49",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Radiant-Bellevue",
+        "address": "1 r. Jean Moulin, 69300 Caluire-et-Cuire",
+        "coordinates": [
+          45.7974848924643,
+          4.84365025365946
+        ],
+        "website": null,
+        "externalId": "ORG003070",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Radiant-Bellevue",
+        "osmId": "fr-culture:ORG003070",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "2600",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Compagnie du Gai Savoir / Théâtre du Gai Savoir",
+        "address": "94 r. des Charmettes, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7658471699708,
+          4.86706912772644
+        ],
+        "website": null,
+        "externalId": "ORG003994",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Compagnie%20du%20Gai%20Savoir%20%2F%20Th%C3%A9%C3%A2tre%20du%20Gai%20Savoir",
+        "osmId": "fr-culture:ORG003994",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "50",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Villa Gillet - Unité de recherches contemporaines",
+        "address": "25 r. Chazière, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7753077766973,
+          4.81797440489306
+        ],
+        "website": null,
+        "externalId": "ORG002975",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Villa%20Gillet%20-%20Unit%C3%A9%20de%20recherches%20contemporaines",
+        "osmId": "fr-culture:ORG002975",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre hors label",
+        "theaterSeats": "150",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Célestins - Théâtre de Lyon",
+        "address": "4 r. Charles Dullin, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7601820139508,
+          4.83129994405855
+        ],
+        "website": null,
+        "externalId": "ORG003173",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=C%C3%A9lestins%20-%20Th%C3%A9%C3%A2tre%20de%20Lyon",
+        "osmId": "fr-culture:ORG003173",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "1027",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Compagnie Les Trois Huit / Nouveau théâtre du 8ème",
+        "address": "22 r. Commandant Pégout, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7312766201121,
+          4.86783997985823
+        ],
+        "website": null,
+        "externalId": "ORG004028",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Compagnie%20Les%20Trois%20Huit%20%2F%20Nouveau%20th%C3%A9%C3%A2tre%20du%208%C3%A8me",
+        "osmId": "fr-culture:ORG004028",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": null,
+        "theaterSeats": "150",
+        "theaterOrganism": null
+      },
+      {
+        "name": "SUBS - Lieu vivant d'expériences artistiques",
+        "address": "8 bis q. Saint-Vincent, 69001 Lyon 1er Arrondissement",
+        "coordinates": [
+          45.7679703693323,
+          4.81742589781794
+        ],
+        "website": null,
+        "externalId": "ORG002974",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=SUBS%20-%20Lieu%20vivant%20d'exp%C3%A9riences%20artistiques",
+        "osmId": "fr-culture:ORG002974",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre hors label",
+        "theaterSeats": null,
+        "theaterOrganism": null
+      },
+      {
+        "name": "Espace Tonkin",
+        "address": "av. Salvador Allende, 69100 Villeurbanne",
+        "coordinates": [
+          45.7745518302975,
+          4.86544152823533
+        ],
+        "website": null,
+        "externalId": "ORG003264",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Espace%20Tonkin",
+        "osmId": "fr-culture:ORG003264",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "350",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre de la Croix-Rousse",
+        "address": "pl. Joannès Ambre, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7812913777567,
+          4.83321321486236
+        ],
+        "website": null,
+        "externalId": "ORG003064",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20de%20la%20Croix-Rousse",
+        "osmId": "fr-culture:ORG003064",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "676",
+        "theaterOrganism": null
+      },
+      {
+        "name": "MJC Les Rancy",
+        "address": "249 r. Vendôme, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7560097543904,
+          4.84773390654929
+        ],
+        "website": null,
+        "externalId": "ORG005525",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=MJC%20Les%20Rancy",
+        "osmId": "fr-culture:ORG005525",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": ".",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Social Palace",
+        "address": "33 r. Bossuet, 69006 Lyon 6e Arrondissement",
+        "coordinates": [
+          45.7677978947613,
+          4.84964424577239
+        ],
+        "website": null,
+        "externalId": "ORG006481",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Social%20Palace",
+        "osmId": "fr-culture:ORG006481",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Compagnie avec lieu",
+        "theaterSeats": "100",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre de la Tête d'Or",
+        "address": "60 av. du Maréchal de Saxe, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7632204816149,
+          4.84472477255019
+        ],
+        "website": null,
+        "externalId": "ORG003453",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20de%20la%20T%C3%AAte%20d'Or",
+        "osmId": "fr-culture:ORG003453",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre privé",
+        "theaterSeats": "373",
+        "theaterOrganism": null
+      },
+      {
+        "name": "Théâtre des Clochards célestes",
+        "address": "7 r. Alsace Lorraine, 69003 Lyon 3e Arrondissement",
+        "coordinates": [
+          45.7717560900395,
+          4.83694287708027
+        ],
+        "website": null,
+        "externalId": "ORG003101",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Th%C3%A9%C3%A2tre%20des%20Clochards%20c%C3%A9lestes",
+        "osmId": "fr-culture:ORG003101",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:46.970Z",
+        "type": "Théâtre",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Théâtre de ville",
+        "theaterSeats": "49",
+        "theaterOrganism": null
+      }
+    ],
+    "operas": [
+      {
+        "name": "Opéra National de Lyon",
+        "address": "1 pl. de la Comédie, 69001 Lyon 1er Arrondissement",
+        "coordinates": [
+          45.7677693728758,
+          4.83627248508313
+        ],
+        "website": null,
+        "externalId": "OPNR_69123_70203",
+        "externalType": "fr-culture",
+        "externalUrl": "https://data.culture.gouv.fr/explore/dataset/base-des-lieux-et-des-equipements-culturels/table/?q=Op%C3%A9ra%20National%20de%20Lyon",
+        "osmId": "fr-culture:OPNR_69123_70203",
+        "osmType": "fr-culture",
+        "lastUpdated": "2025-08-19T19:14:48.188Z",
+        "type": "Opéra",
+        "dataSource": "French Ministry of Culture",
+        "region": "Auvergne-Rhône-Alpes",
+        "departement": "Rhône",
+        "label": "Opéra national en région"
+      }
+    ]
+  },
+  "transportation": {
+    "internationalFlights": 6,
+    "transitScore": 8,
+    "distanceToParisWithCar": 7.8,
+    "distanceToParisWithTrain": 2,
+    "distanceToLyonWithCar": 0,
+    "distanceToLyonWithTrain": 0
+  },
+  "geography": {
+    "hikes": [
+      {
+        "name": "Parc Naturel de l'Yzeron",
+        "description": "Parc Naturel de l'Yzeron, Oullins, Oullins-Pierre-Bénite, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69600, France",
+        "coordinates": [
+          45.7207138,
+          4.7902718
+        ],
+        "length": 2.6,
+        "difficulty": null,
+        "externalId": 121072083,
+        "externalType": "way",
+        "externalUrl": "https://www.openstreetmap.org/way/121072083",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin d'Assise",
+        "description": "Chemin d'Assise (iwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 500.8,
+        "difficulty": null,
+        "externalId": 1946360,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/1946360",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin d'Assise",
+        "description": "Chemin d'Assise (iwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 1947993,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/1947993",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Beaujolais au Bugey, de Trévoux à Souclin",
+        "description": "Beaujolais au Bugey, de Trévoux à Souclin (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 70.1,
+        "difficulty": null,
+        "externalId": 2784814,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2784814",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Traboules Lyonnaise",
+        "description": "Traboules Lyonnaise (hiking)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 2904876,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/2904876",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier-nature des Cervettes",
+        "description": "Sentier-nature des Cervettes (lcn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.3,
+        "difficulty": null,
+        "externalId": 3555752,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3555752",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pédibus Mi-Plaine ligne Rose",
+        "description": "Pédibus Mi-Plaine ligne Rose (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.7,
+        "difficulty": null,
+        "externalId": 3567060,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3567060",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pédibus Mi-Plaine ligne Violette",
+        "description": "Pédibus Mi-Plaine ligne Violette (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.8,
+        "difficulty": null,
+        "externalId": 3567061,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/3567061",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Col de la Luère / Croix du Ban",
+        "description": "Col de la Luère / Croix du Ban (lcn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 9.5,
+        "difficulty": null,
+        "externalId": 4069283,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4069283",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier thématique du Bois de Serres",
+        "description": "Sentier thématique du Bois de Serres (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.7,
+        "difficulty": null,
+        "externalId": 4219061,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4219061",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La chapelle de Châteauvieux",
+        "description": "La chapelle de Châteauvieux (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 12.8,
+        "difficulty": null,
+        "externalId": 4795655,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4795655",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour intérieur des Monts d'Or",
+        "description": "Tour intérieur des Monts d'Or (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 26.3,
+        "difficulty": null,
+        "externalId": 4800334,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4800334",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Promenade de Rochecardon",
+        "description": "Promenade de Rochecardon (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 5.9,
+        "difficulty": null,
+        "externalId": 4840317,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/4840317",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Via Lugdunum, Geneva to Lyon",
+        "description": "Via Lugdunum, Geneva to Lyon (iwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 173.3,
+        "difficulty": null,
+        "externalId": 5151350,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5151350",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Vignes",
+        "description": "Sentier des Vignes (lcn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 7,
+        "difficulty": null,
+        "externalId": 5178083,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5178083",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de la Ronde des Vergers",
+        "description": "Circuit de la Ronde des Vergers (hiking)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.2,
+        "difficulty": null,
+        "externalId": 5419248,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5419248",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Grand Tour des Monts d'Or",
+        "description": "Grand Tour des Monts d'Or (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 30.4,
+        "difficulty": null,
+        "externalId": 5991496,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/5991496",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Randonnée Voie du Tacot",
+        "description": "Randonnée Voie du Tacot (hiking)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 21.4,
+        "difficulty": null,
+        "externalId": 6086683,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6086683",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Rando Saint-joseph",
+        "description": "Rando Saint-joseph (hiking)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 6628093,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/6628093",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Observatoire sur l'Étang Grange Volet",
+        "description": "Observatoire sur l'Étang Grange Volet (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 7.3,
+        "difficulty": null,
+        "externalId": 7306871,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7306871",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La Voie Romaine",
+        "description": "La Voie Romaine (hiking)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 13.7,
+        "difficulty": null,
+        "externalId": 7415763,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7415763",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Bornes",
+        "description": "Sentier des Bornes (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.5,
+        "difficulty": null,
+        "externalId": 7589674,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7589674",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier nature de la Route de Vienne",
+        "description": "Sentier nature de la Route de Vienne (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 2.8,
+        "difficulty": null,
+        "externalId": 7599226,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/7599226",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Moissons",
+        "description": "Sentier des Moissons (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 3.1,
+        "difficulty": null,
+        "externalId": 8201697,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8201697",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pilat N°30: des «Côteaux à les Haies»",
+        "description": "Pilat N°30: des «Côteaux à les Haies» (hiking)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 28.9,
+        "difficulty": null,
+        "externalId": 8529590,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/8529590",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Lozanne à Marcy",
+        "description": "De Lozanne à Marcy (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 12,
+        "difficulty": null,
+        "externalId": 9349987,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9349987",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de l'Homme et du Fleuve",
+        "description": "Sentier de l'Homme et du Fleuve (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 2.5,
+        "difficulty": null,
+        "externalId": 9499525,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9499525",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Liaison Saint-André - Saint-Marcel",
+        "description": "Liaison Saint-André - Saint-Marcel (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.6,
+        "difficulty": null,
+        "externalId": 9963558,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/9963558",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bois des Cieux - Balaye - fixme",
+        "description": "Bois des Cieux - Balaye - fixme (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0,
+        "difficulty": null,
+        "externalId": 10149163,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10149163",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Bois des Cieux - Chabut",
+        "description": "Bois des Cieux - Chabut (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0,
+        "difficulty": null,
+        "externalId": 10149164,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10149164",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Pélossey - Tupoly - fixme",
+        "description": "Pélossey - Tupoly - fixme (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 10149178,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10149178",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Vossères - Vienne Malissol - fixme",
+        "description": "Vossères - Vienne Malissol - fixme (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 2.2,
+        "difficulty": null,
+        "externalId": 10150784,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10150784",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Vossères - le télégraphe - fixme",
+        "description": "Vossères - le télégraphe - fixme (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.3,
+        "difficulty": null,
+        "externalId": 10150785,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10150785",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Vossères - Croix des Chasseurs - fixme",
+        "description": "Vossères - Croix des Chasseurs - fixme (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.4,
+        "difficulty": null,
+        "externalId": 10150786,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10150786",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Alouettes",
+        "description": "Sentier des Alouettes (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 3.3,
+        "difficulty": null,
+        "externalId": 10233509,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/10233509",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier nature du Borgeai",
+        "description": "Sentier nature du Borgeai (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.3,
+        "difficulty": null,
+        "externalId": 11116535,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11116535",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sur les Pas de Charles IX et Catherine de Médicis",
+        "description": "Sur les Pas de Charles IX et Catherine de Médicis (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 270.6,
+        "difficulty": null,
+        "externalId": 11134148,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11134148",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Balcon du Morgon",
+        "description": "Le Balcon du Morgon (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.1,
+        "difficulty": null,
+        "externalId": 11164279,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11164279",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Carrières",
+        "description": "Les Carrières (lcn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 3.4,
+        "difficulty": null,
+        "externalId": 11164949,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11164949",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Grand Tour",
+        "description": "Le Grand Tour (lcn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 13.6,
+        "difficulty": null,
+        "externalId": 11166207,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11166207",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "En direction du Golf et des cultures maraichères",
+        "description": "En direction du Golf et des cultures maraichères (lcn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 9.4,
+        "difficulty": null,
+        "externalId": 11166229,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11166229",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Géosite-les carrières de pierres blanches",
+        "description": "Géosite-les carrières de pierres blanches (lcn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 7.7,
+        "difficulty": null,
+        "externalId": 11166259,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11166259",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Liergues à Rivolet",
+        "description": "De Liergues à Rivolet (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 15.4,
+        "difficulty": null,
+        "externalId": 11170304,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11170304",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Marcy à Liergues",
+        "description": "De Marcy à Liergues (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 13.8,
+        "difficulty": null,
+        "externalId": 11173514,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11173514",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Bagnols à Lozanne",
+        "description": "De Bagnols à Lozanne (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 26.1,
+        "difficulty": null,
+        "externalId": 11178346,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11178346",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Saint Vérand à Bagnols",
+        "description": "De Saint Vérand à Bagnols (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 13.3,
+        "difficulty": null,
+        "externalId": 11178810,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11178810",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Des Vosges aux Pyrénées 03, La Vaseraie - Signal du Ventalon",
+        "description": "Des Vosges aux Pyrénées 03, La Vaseraie - Signal du Ventalon (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 587.6,
+        "difficulty": null,
+        "externalId": 11866788,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/11866788",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du Thou aux Gorges d’Enfer",
+        "description": "Du Thou aux Gorges d’Enfer (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 5.5,
+        "difficulty": null,
+        "externalId": 12728455,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12728455",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sur les traces d’Ampèreq",
+        "description": "Sur les traces d’Ampèreq (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 8.6,
+        "difficulty": null,
+        "externalId": 12728583,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12728583",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le Crêt sur la Saône",
+        "description": "Le Crêt sur la Saône (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 5.2,
+        "difficulty": null,
+        "externalId": 12728641,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12728641",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Géologique des Monts d'Or",
+        "description": "Sentier Géologique des Monts d'Or (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 8,
+        "difficulty": null,
+        "externalId": 12728801,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12728801",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier des Cabornes",
+        "description": "Sentier des Cabornes (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 2.6,
+        "difficulty": null,
+        "externalId": 12728848,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12728848",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Au coeur des Monts d'Or",
+        "description": "Au coeur des Monts d'Or (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 8.5,
+        "difficulty": null,
+        "externalId": 12729021,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12729021",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De carrières en Fricoule",
+        "description": "De carrières en Fricoule (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.3,
+        "difficulty": null,
+        "externalId": 12729097,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12729097",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "En suivant l'Aqueduc",
+        "description": "En suivant l'Aqueduc (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.4,
+        "difficulty": null,
+        "externalId": 12730404,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12730404",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier de l'Homme et du Paysage",
+        "description": "Sentier de l'Homme et du Paysage (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 6.2,
+        "difficulty": null,
+        "externalId": 12730532,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12730532",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Du mont Thou au mont Cindre",
+        "description": "Du mont Thou au mont Cindre (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 8.9,
+        "difficulty": null,
+        "externalId": 12730580,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12730580",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour de Saint-Didier",
+        "description": "Tour de Saint-Didier (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 11.3,
+        "difficulty": null,
+        "externalId": 12730608,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12730608",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Limonest, le centre incontournable",
+        "description": "Limonest, le centre incontournable (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.9,
+        "difficulty": null,
+        "externalId": 12730640,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12730640",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Géologie et Paysage",
+        "description": "Sentier Géologie et Paysage (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 10.7,
+        "difficulty": null,
+        "externalId": 12730941,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12730941",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Secret des Pierres et du Paysage",
+        "description": "Sentier Secret des Pierres et du Paysage (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.6,
+        "difficulty": null,
+        "externalId": 12730966,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12730966",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier Secret des Pierres et du Patrimoine",
+        "description": "Sentier Secret des Pierres et du Patrimoine (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 8.6,
+        "difficulty": null,
+        "externalId": 12731041,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12731041",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Place de la République",
+        "description": "Place de la République (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 5.7,
+        "difficulty": null,
+        "externalId": 12731094,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12731094",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Fontaines-sur-Saône à Sathonay-Camp",
+        "description": "De Fontaines-sur-Saône à Sathonay-Camp (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 10.2,
+        "difficulty": null,
+        "externalId": 12731144,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12731144",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin de l'Eau",
+        "description": "Chemin de l'Eau (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.5,
+        "difficulty": null,
+        "externalId": 12731237,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12731237",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Les Quais de Saône",
+        "description": "Les Quais de Saône (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 9.5,
+        "difficulty": null,
+        "externalId": 12731336,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/12731336",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Traboule du Gouverneur",
+        "description": "Traboule du Gouverneur (hiking)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0,
+        "difficulty": null,
+        "externalId": 13807547,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13807547",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Traboule 27 rue Saint Jean - 6 rue des Trois-Maries",
+        "description": "Traboule 27 rue Saint Jean - 6 rue des Trois-Maries (hiking)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0,
+        "difficulty": null,
+        "externalId": 13808273,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13808273",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le sentier des Allivoz",
+        "description": "Le sentier des Allivoz (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 4.6,
+        "difficulty": null,
+        "externalId": 13845658,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13845658",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Le parcours de l'énergie",
+        "description": "Le parcours de l'énergie (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.6,
+        "difficulty": null,
+        "externalId": 13883243,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/13883243",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin de Montaigne de Brussieu à Feurs",
+        "description": "Chemin de Montaigne de Brussieu à Feurs (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 32.6,
+        "difficulty": null,
+        "externalId": 14063588,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14063588",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Circuit de Combe Pelouze",
+        "description": "Circuit de Combe Pelouze (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 10.9,
+        "difficulty": null,
+        "externalId": 14105904,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14105904",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Chagny à Affoux",
+        "description": "De Chagny à Affoux (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 185.4,
+        "difficulty": null,
+        "externalId": 14316345,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14316345",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier piétonnier entre Chazelle sur Lyon et Saint-Symphorien sur Coise",
+        "description": "Sentier piétonnier entre Chazelle sur Lyon et Saint-Symphorien sur Coise (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 7.5,
+        "difficulty": null,
+        "externalId": 14526158,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/14526158",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin de Montaigne de Lyon à Brussieu",
+        "description": "Chemin de Montaigne de Lyon à Brussieu (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 35.4,
+        "difficulty": null,
+        "externalId": 15552447,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15552447",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Rivolet à Oingt",
+        "description": "De Rivolet à Oingt (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 11.4,
+        "difficulty": null,
+        "externalId": 15595644,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15595644",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Oingt à Saint-Vérand",
+        "description": "De Oingt à Saint-Vérand (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 17.1,
+        "difficulty": null,
+        "externalId": 15595645,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15595645",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Beaujolais au Bugey, de Sainte-Paule à Trévoux",
+        "description": "Beaujolais au Bugey, de Sainte-Paule à Trévoux (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 30.9,
+        "difficulty": null,
+        "externalId": 15595767,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15595767",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De L'Arbresle à Sain-Bel",
+        "description": "De L'Arbresle à Sain-Bel (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 3.7,
+        "difficulty": null,
+        "externalId": 15602718,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15602718",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Sain-Bel à Yzeron",
+        "description": "De Sain-Bel à Yzeron (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 20.4,
+        "difficulty": null,
+        "externalId": 15602719,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15602719",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Yzeron à Riverie",
+        "description": "De Yzeron à Riverie (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 18.5,
+        "difficulty": null,
+        "externalId": 15602720,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15602720",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Riverie à Saint-Symphorien",
+        "description": "De Riverie à Saint-Symphorien (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 18.3,
+        "difficulty": null,
+        "externalId": 15603018,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15603018",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Saint-Symphorien à Montrottier",
+        "description": "De Saint-Symphorien à Montrottier (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 30.5,
+        "difficulty": null,
+        "externalId": 15603019,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15603019",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Montrottier à Sain-Bel",
+        "description": "De Montrottier à Sain-Bel (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 16.4,
+        "difficulty": null,
+        "externalId": 15611878,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15611878",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Sain-Bel à Chaponost",
+        "description": "De Sain-Bel à Chaponost (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 22.4,
+        "difficulty": null,
+        "externalId": 15612016,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15612016",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Champonost à Mornant",
+        "description": "De Champonost à Mornant (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 17.4,
+        "difficulty": null,
+        "externalId": 15612608,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15612608",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "De Mornant à Riverie",
+        "description": "De Mornant à Riverie (rwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 10,
+        "difficulty": null,
+        "externalId": 15622079,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15622079",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour de Lyon, d'Yvours au Fort de Bruissin",
+        "description": "Tour de Lyon, d'Yvours au Fort de Bruissin (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 39.6,
+        "difficulty": null,
+        "externalId": 15622516,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15622516",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour de Lyon, du Fort du Bruissin au Fort du Paillet",
+        "description": "Tour de Lyon, du Fort du Bruissin au Fort du Paillet (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 25.8,
+        "difficulty": null,
+        "externalId": 15636189,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15636189",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour de Lyon, du Fort du Paillet au Saône",
+        "description": "Tour de Lyon, du Fort du Paillet au Saône (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 17.9,
+        "difficulty": null,
+        "externalId": 15636624,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15636624",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Vallons de la Beffe et du Charbonnières",
+        "description": "Vallons de la Beffe et du Charbonnières (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 9.9,
+        "difficulty": null,
+        "externalId": 15636692,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15636692",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour de Lyon, du Saône au Fort de Vancia",
+        "description": "Tour de Lyon, du Saône au Fort de Vancia (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 24.3,
+        "difficulty": null,
+        "externalId": 15650921,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15650921",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour de Lyon, du Fort de Vancia au Fort de Bron",
+        "description": "Tour de Lyon, du Fort de Vancia au Fort de Bron (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 35.6,
+        "difficulty": null,
+        "externalId": 15655369,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15655369",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Tour de Lyon, du Fort de Bron à Feyzin",
+        "description": "Tour de Lyon, du Fort de Bron à Feyzin (nwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 30.4,
+        "difficulty": null,
+        "externalId": 15655918,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15655918",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Via Lugdunum, Lyon to Le Puy-en-Velay",
+        "description": "Via Lugdunum, Lyon to Le Puy-en-Velay (iwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 78.3,
+        "difficulty": null,
+        "externalId": 15659467,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/15659467",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Sentier du Cloizu",
+        "description": "Sentier du Cloizu (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.4,
+        "difficulty": null,
+        "externalId": 17404346,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/17404346",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chem des Verdaches",
+        "description": "Chem des Verdaches (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.3,
+        "difficulty": null,
+        "externalId": 18107529,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18107529",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcours des Voraces",
+        "description": "Parcours des Voraces (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.2,
+        "difficulty": null,
+        "externalId": 18142878,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18142878",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcous Soufflot",
+        "description": "Parcous Soufflot (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1,
+        "difficulty": null,
+        "externalId": 18146431,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18146431",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcours de la Grande Côte",
+        "description": "Parcours de la Grande Côte (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.4,
+        "difficulty": null,
+        "externalId": 18146869,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18146869",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcours Amphitéâtre des Trois Gaules",
+        "description": "Parcours Amphitéâtre des Trois Gaules (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.7,
+        "difficulty": null,
+        "externalId": 18172743,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18172743",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcours Flesselles",
+        "description": "Parcours Flesselles (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.5,
+        "difficulty": null,
+        "externalId": 18224305,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18224305",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcours Corniche de la Saône",
+        "description": "Parcours Corniche de la Saône (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 1.9,
+        "difficulty": null,
+        "externalId": 18224356,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18224356",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "La balade des ponts",
+        "description": "La balade des ponts (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 3.7,
+        "difficulty": null,
+        "externalId": 18860281,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/18860281",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Parcour ArtFareins (nombres)",
+        "description": "Parcour ArtFareins (nombres) (lwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0,
+        "difficulty": null,
+        "externalId": 19348610,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19348610",
+        "source": "OpenStreetMap"
+      },
+      {
+        "name": "Chemin de Szombathely, Lyon - Roanne",
+        "description": "Chemin de Szombathely, Lyon - Roanne (iwn)",
+        "coordinates": [
+          45.7578137,
+          4.8320114
+        ],
+        "length": 0.2,
+        "difficulty": null,
+        "externalId": 19351577,
+        "externalType": "relation",
+        "externalUrl": "https://www.openstreetmap.org/relation/19351577",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "hikesTotalLength": 2824.6
+  },
+  "housing": {
+    "avgSellPricePerM2": 6154,
+    "avgRentPricePerM2": 17
+  },
+  "qualityOfLife": {
+    "crimeRate": 2.9,
+    "greenSpaces": 7.8,
+    "airQuality": 7.5,
+    "costOfLife": 7.5,
+    "liveabilityScore": 8.1,
+    "healthQuality": 8.1
+  },
+  "images": [
+    {
+      "url": "https://images.pexels.com/photos/8430269/pexels-photo-8430269.jpeg?w=1200&h=400&fit=crop&crop=center",
+      "alt": "A captivating aerial view of Lyon, France, showcasing the timeless architecture and scenic river.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": true
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430276/pexels-photo-8430276.jpeg",
+      "alt": "Stunning aerial view of Lyon featuring the Basilica of Notre-Dame de Fourvière and the cityscape.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430268/pexels-photo-8430268.jpeg",
+      "alt": "Stunning aerial panorama of Lyon, showcasing Basilique Notre-Dame de Fourvière and the Rhône and Saône rivers.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430272/pexels-photo-8430272.jpeg",
+      "alt": "A panoramic aerial view showcasing Lyon's cityscape with lush greenery and historical landmarks.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4003375/pexels-photo-4003375.jpeg",
+      "alt": "A person jogging beside the Rhône River in Lyon on a bright day, embracing fitness.",
+      "photographer": "Caner Cankisi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9720889/pexels-photo-9720889.png",
+      "alt": "Skateboarder performing a high jump trick at a graffiti-covered skate park by the river in Lyon, France.",
+      "photographer": "Julien PRALLET",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12823620/pexels-photo-12823620.jpeg",
+      "alt": "Aerial view of Lyon showcasing the sprawling urban landscape under a vibrant blue sky.",
+      "photographer": "Magda Ehlers",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/15452445/pexels-photo-15452445.jpeg",
+      "alt": "View of the ancient Roman amphitheater in Lyon with surrounding cityscape, cloudy sky.",
+      "photographer": "Diego F. Parra",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/16632264/pexels-photo-16632264.jpeg",
+      "alt": "Charming view of historic buildings lining the Rhône River in Lyon, France.",
+      "photographer": "Mihai Vlasceanu",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18320250/pexels-photo-18320250.jpeg",
+      "alt": "Scenic view of Pont Pasteur in Lyon with flags and city skyline in the background.",
+      "photographer": "mermoz lionel",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/19453663/pexels-photo-19453663.jpeg",
+      "alt": "Scenic view of colorful buildings reflecting on a Lyon river in the evening light.",
+      "photographer": "Andreas Schnabl",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4082160/pexels-photo-4082160.jpeg",
+      "alt": "Stunning aerial shot of a bridge in Lyon, France during a vibrant sunset over the river.",
+      "photographer": "Bastien Neves",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/16511665/pexels-photo-16511665.jpeg",
+      "alt": "Stunning aerial shot capturing the rivers and historic architecture of Lyon, France.",
+      "photographer": "Willian Justen de Vasconcellos",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29513823/pexels-photo-29513823.jpeg",
+      "alt": "Panoramic view of Lyon, France showcasing historic architecture and cityscape.",
+      "photographer": "Hub JACQU",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29513833/pexels-photo-29513833.jpeg",
+      "alt": "Panoramic aerial view of Lyon's cityscape with iconic architecture and scenic beauty.",
+      "photographer": "Hub JACQU",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12614087/pexels-photo-12614087.jpeg",
+      "alt": "View of Saint George Church and Footbridge in Lyon, France under a blue sky.",
+      "photographer": "Atypeek Dgn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/29513822/pexels-photo-29513822.jpeg",
+      "alt": "A breathtaking aerial shot of Lyon, showcasing its modern skyline and urban architecture.",
+      "photographer": "Hub JACQU",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430275/pexels-photo-8430275.jpeg",
+      "alt": "A scenic aerial view of Lyon, France featuring Saone River and iconic bridges.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430273/pexels-photo-8430273.jpeg",
+      "alt": "A stunning aerial view of Lyon showcasing the Basilica of Notre Dame and the city's vibrant landscape.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4015840/pexels-photo-4015840.jpeg",
+      "alt": "Aerial view of Lyon's historic buildings with red rooftops under clear sky.",
+      "photographer": "Serinus",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4015691/pexels-photo-4015691.jpeg",
+      "alt": "Explore the intricate arches and design of Célestins Car Park in Lyon, France.",
+      "photographer": "Serinus",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430274/pexels-photo-8430274.jpeg",
+      "alt": "A breathtaking aerial panoramic view of Lyon with the Basilica and cityscape.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/755986/pexels-photo-755986.jpeg",
+      "alt": "Sleek modern architectural pattern with metal structures against a bright blue sky in Lyon, France.",
+      "photographer": "Vitalii IONASHKU",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1422289/pexels-photo-1422289.jpeg",
+      "alt": "Lyon cityscape with river, buildings, and famous landmarks at sunset.",
+      "photographer": "Mitchell Henderson",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/3627494/pexels-photo-3627494.jpeg",
+      "alt": "Vibrant mural on Musée d'Art Contemporain in Lyon, showcasing modern street art.",
+      "photographer": "Adrien Olichon",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430270/pexels-photo-8430270.jpeg",
+      "alt": "Aerial view of Lyon, France showcasing the city's architecture and the Saône River.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/8430271/pexels-photo-8430271.jpeg",
+      "alt": "Scenic view of Notre-Dame de Fourvière and Lyon's lush green landscape.",
+      "photographer": "Mikhail Nilov",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/5258512/pexels-photo-5258512.jpeg",
+      "alt": "A dark corridor with an open door letting light in, creating a mysterious atmosphere in Lyon, France.",
+      "photographer": "Camille Bonneau",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32711016/pexels-photo-32711016.jpeg",
+      "alt": "Aerial view of Lyon's skyline featuring modern skyscrapers and urban architecture.",
+      "photographer": "arnaud audoin",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/19086018/pexels-photo-19086018.jpeg",
+      "alt": "Passengers commuting on a subway in Lyon, France, captured in a candid shot.",
+      "photographer": "Linh Bo",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7043336/pexels-photo-7043336.jpeg",
+      "alt": "Beautiful sunset view of apartment buildings in Lyon, France, capturing the warm hues of the urban skyline.",
+      "photographer": "Atypeek Dgn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4568451/pexels-photo-4568451.jpeg",
+      "alt": "Close-up of a giraffe in Lyon Zoo with lush greenery providing a natural backdrop.",
+      "photographer": "Bastien Neves",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/14627256/pexels-photo-14627256.jpeg",
+      "alt": "Serene autumn landscape with trees reflecting on a lake in Lyon, France.",
+      "photographer": "Isabelle Damsaint",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/19086040/pexels-photo-19086040.jpeg",
+      "alt": "Vintage pub facade on a quaint street corner in Lyon, France, captured in warm tones.",
+      "photographer": "Linh Bo",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/5649475/pexels-photo-5649475.jpeg",
+      "alt": "Stone steps of an amphitheater in Lyon, showcasing geometric symmetry and architectural design.",
+      "photographer": "Atypeek Dgn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4082184/pexels-photo-4082184.jpeg",
+      "alt": "Black and white view of the avant-garde architecture at a train station in Lyon, France.",
+      "photographer": "Bastien Neves",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4003379/pexels-photo-4003379.jpeg",
+      "alt": "Unique artistic display with only legs emerging from a wall in Lyon, France.",
+      "photographer": "Caner Cankisi",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/19051274/pexels-photo-19051274.jpeg",
+      "alt": "Vibrant city life on a sunny day in Lyon, France, capturing pedestrians and historic architecture.",
+      "photographer": "Linh Bo",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/5773238/pexels-photo-5773238.jpeg",
+      "alt": "A scenic view of Lyon's historic old town and Basilica of Notre-Dame de Fourvière basking in the warm evening light.",
+      "photographer": "Théo Segantini",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12823643/pexels-photo-12823643.jpeg",
+      "alt": "Detailed close-up of a stone lion sculpture at a historic monument in Lyon, France.",
+      "photographer": "Magda Ehlers",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31125651/pexels-photo-31125651.jpeg",
+      "alt": "Vibrant rainbow lorikeets displaying colorful plumage while perched on a branch in Lyon, France.",
+      "photographer": "Жанна  Алимкулова",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4082389/pexels-photo-4082389.jpeg",
+      "alt": "A monochromatic aerial cityscape of Lyon, showcasing dense buildings and historic architecture.",
+      "photographer": "Bastien Neves",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32401416/pexels-photo-32401416.jpeg",
+      "alt": "Charming antique courtyard with arches in Lyon, France, showcasing classic architecture.",
+      "photographer": "Benoit Roy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32418293/pexels-photo-32418293.jpeg",
+      "alt": "Stunning view of Lyon's historical architecture and red rooftops with cityscape backdrop.",
+      "photographer": "Benoit Roy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10798237/pexels-photo-10798237.jpeg",
+      "alt": "Experience the historic architecture and vibrant cityscape from Lyon's rooftops.",
+      "photographer": "Titouan Henry",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/27833735/pexels-photo-27833735.jpeg",
+      "alt": "Overlooking Lyon from the Basilica Notre-Dame de Fourvière with angel statue in view.",
+      "photographer": "Atypeek Dgn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/12823618/pexels-photo-12823618.jpeg",
+      "alt": "Aerial cityscape of Lyon showcasing dense historic architecture and lush greenery.",
+      "photographer": "Magda Ehlers",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/13867373/pexels-photo-13867373.jpeg",
+      "alt": "Stone sphinx sculpture against historic architecture in Lyon, France, showcasing detailed artistry.",
+      "photographer": "Arnico Estudio",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6030883/pexels-photo-6030883.jpeg",
+      "alt": "A breathtaking aerial shot of Lyon's urban landscape featuring iconic red rooftops under a gloomy sky.",
+      "photographer": "Serinus",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/31540636/pexels-photo-31540636.jpeg",
+      "alt": "Explore the scenic riverfront of Lyon, France, featuring historic architecture and vibrant streets.",
+      "photographer": "Benoit Roy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/625764/pexels-photo-625764.jpeg",
+      "alt": "Historic building in Alsace, France with ivy-covered facade, showcasing classic French architecture.",
+      "photographer": "Joe Fitzpatrick",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/1694432/pexels-photo-1694432.jpeg",
+      "alt": "Explore the charming historic architecture of Bordeaux, France, showcasing old town rooftops and vintage facades.",
+      "photographer": "Niki Nagy",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4917135/pexels-photo-4917135.jpeg",
+      "alt": "Explore the picturesque medieval streets of Dinan, France with this charming alley view.",
+      "photographer": "Maria Orlova",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4917142/pexels-photo-4917142.jpeg",
+      "alt": "Picturesque scenery of old arched Pont Vieux masonry bridge over river flowing between ancient stone houses of Dinan medieval town located in France",
+      "photographer": "Maria Orlova",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4917165/pexels-photo-4917165.jpeg",
+      "alt": "Charming historic buildings and church spire at Honfleur harbor in Normandy, France.",
+      "photographer": "Maria Orlova",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7245201/pexels-photo-7245201.jpeg",
+      "alt": "Weathered fishing nets by a tranquil riverside in France, capturing a rustic, nautical atmosphere.",
+      "photographer": "Olga Lioncat",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/7245227/pexels-photo-7245227.jpeg",
+      "alt": "Picturesque floral display overlooking a canal in Annecy, France, under summer sunlight.",
+      "photographer": "Olga Lioncat",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/32469473/pexels-photo-32469473.jpeg",
+      "alt": "Colorful buildings in Menton, France showcasing unique French architecture.",
+      "photographer": "Taylor Thompson",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18140832/pexels-photo-18140832.jpeg",
+      "alt": "Explore the charming narrow streets and historic architecture of Nice, France's old town.",
+      "photographer": "Jakub Zerdzicki",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/5091715/pexels-photo-5091715.jpeg",
+      "alt": "Picturesque view of historic half-timbered houses and canal in Colmar, France on a sunny day.",
+      "photographer": "Adrien Olichon",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/9686137/pexels-photo-9686137.jpeg",
+      "alt": "Drone image capturing the unique architectural design and urban layout in Bordeaux, France.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/18334451/pexels-photo-18334451.jpeg",
+      "alt": "Stunning coastal view of Collioure, France with historic castle and colorful houses.",
+      "photographer": "Carmen Dominguez",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/6036836/pexels-photo-6036836.jpeg",
+      "alt": "Exterior of aged Opera House and classic styled building located on square against cloudless blue sky in Lyon",
+      "photographer": "Atypeek Dgn",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/5213549/pexels-photo-5213549.jpeg",
+      "alt": "A cozy evening at a café in historic Pézenas, France. Perfect blend of tradition and nightlife.",
+      "photographer": "Aleks Marinkovic",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/462341/pexels-photo-462341.jpeg",
+      "alt": "Explore the stunning architecture of Lyon's modern train station with its expansive glass and steel design.",
+      "photographer": "Pixabay",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/4322661/pexels-photo-4322661.jpeg",
+      "alt": "Majestic columns of Palais de Justice in Lyon with French flag on top, a classic architectural masterpiece.",
+      "photographer": "Luca Nardone",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10119100/pexels-photo-10119100.jpeg",
+      "alt": "A solitary man in a blue shirt and shorts lies on the asphalt, captured from above in Lyon, France.",
+      "photographer": "Czapp Árpád",
+      "isBanner": false
+    },
+    {
+      "url": "https://images.pexels.com/photos/10798234/pexels-photo-10798234.jpeg",
+      "alt": "A panoramic view of the historical Saint-Jean Cathedral and urban architecture in Lyon, France.",
+      "photographer": "Titouan Henry",
+      "isBanner": false
+    }
+  ],
+  "dataQuality": {
+    "completeness": 95,
+    "lastUpdated": "2025-08-22",
+    "sources": {
+      "weather": "Météo-France, 2023 data",
+      "population": "INSEE, 2023 estimate",
+      "education": "French Ministry of Education, 2023",
+      "culture": "French Ministry of Culture, 2023",
+      "transportation": "Google Maps / SNCF, 2023",
+      "geography": "Google Maps / AllTrails, 2023",
+      "housing": "MeilleursAgents / FNAIM, 2023",
+      "qualityOfLife": "French government sources, 2023",
+      "images": "Pexels API"
+    }
+  }
+}
